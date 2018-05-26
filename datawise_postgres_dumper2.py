@@ -8,4 +8,4 @@ engine = create_engine('postgresql://sample_user:!TajemniczaTajemnica7@85.194.24
 query = 'SELECT * FROM locit_datasets.grid250_demo_ext;'
 demo = pd.read_sql_query(query, con=engine)
 
-demo.to_csv(path_or_buf="data_demo", sep=";")
+demo.to_csv(path_or_buf="data_demo.csv", sep=";")
