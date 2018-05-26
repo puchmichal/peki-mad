@@ -1,495 +1,246 @@
-miasto;Ulica;Nr domu;Publicznoœæ;Uczniowie;pelnozatrudnieni;stos. Pracy;w etatach;suma etatów
-Poznañ;0s.Jana III Sobieskiego;108;1;149;13;10.0;1.49;14.49
-Poznañ;27 Grudnia;7;4;1994;0;54.0;24.580000000000002;24.580000000000002
-Poznañ;28 Czerwca;231/239;2;308;6;18.0;9.34;15.34
-Poznañ;28 Czerwca 1956;290;4;24;2;0.0;0.0;2.0
-Poznañ;28 Czerwca 1956 r.;231/239;2;169;1;11.0;3.26;4.26
-Poznañ;28 Czerwca 1956r.;135/147;4;198;33;10.0;4.37;37.37
-Poznañ;28 Czerwca 1956r.;296/298;3;0;22;13.0;7.0;29.0
-Poznañ;Al. Niepodleg³oœci;32;2;515;61;19.0;12.8;73.8
-Poznañ;Al. Niepodleg³oœci;36;6;203;5;41.0;19.12;24.12
-Poznañ;B. Chrobrego;106;1;125;11;3.0;0.38;11.38
-Poznañ;BOSA;15;4;80;8;0.0;0.0;8.0
-Poznañ;BOSA;9;1;526;51;18.0;10.34;61.34
-Poznañ;Baranowska;1;1;289;28;17.0;8.17;36.17
-Poznañ;Bartoszycka;7;4;35;3;0.0;0.0;3.0
-Poznañ;Berwiñskiego;02.kwi;3;400;35;9.0;4.05;39.05
-Poznañ;Berwiñskigo;02.kwi;4;57;23;2.0;1.1;24.1
-Poznañ;Biskupiñska;27;4;0;1;0.0;0.0;1.0
-Poznañ;Biskupiñska;65;1;50;5;6.0;1.61;6.61
-Poznañ;BliŸniat;12a/9;4;0;0;1.0;0.2;0.2
-Poznañ;BliŸni¹t;12.lut;4;22;2;1.0;0.5;2.5
-Poznañ;Bogusza;81;4;51;20;0.0;0.0;20.0
-Poznañ;Bogusza;8a;4;39;5;0.0;0.0;5.0
-Poznañ;Boranta;2;1;499;45;5.0;2.09;47.09
-Poznañ;Borówki;10;2;86;9;6.0;1.8;10.8
-Poznañ;Bosa;15;8;5;2;1.0;0.2;2.2
-Poznañ;Bosa;16;1;75;6;5.0;0.57;6.57
-Poznañ;Bosa;9;6;78;2;16.0;3.1399999999999997;5.140000000000001
-Poznañ;Brandstaettera;1;1;256;19;21.0;10.36;29.36
-Poznañ;Brzeska;7;4;33;1;3.0;1.75;2.75
-Poznañ;BrzeŸnicka;3;4;188;1;24.0;6.51;7.51
-Poznañ;Bukowska;16;3;836;58;28.0;15.16;73.16
-Poznañ;Bukowska;47a;1;118;9;2.0;1.5;10.5
-Poznañ;Bu³garska;19;4;71;4;3.0;2.39;6.39
-Poznañ;Bu³garska;55;12;129;0;47.0;10.34;10.34
-Poznañ;Bydgoska;4;1;183;26;36.0;18.53;44.53
-Poznañ;Bydgoska;4a;9;200;100;7.0;3.34;103.34
-Poznañ;Cegielskiego;1;1;192;31;43.0;17.88;48.88
-Poznañ;Chociszewskiego;44c;1;100;10;4.0;0.81;10.81
-Poznañ;Chociszewskiego;56;1;486;39;13.0;5.61;44.61
-Poznañ;Chojnicka;57;1;613;50;16.0;10.44;60.44
-Poznañ;Chojnicka;72;1;125;5;0.0;0.0;5.0
-Poznañ;Chopina;3;1;155;19;5.0;0.85;19.85
-Poznañ;Czechos³owacka;27;1;177;48;0.0;0.0;48.0
-Poznañ;Czechos³owacka;29;1;98;10;4.0;0.21;10.21
-Poznañ;Czeremchowa;22;1;0;0;0.0;0.0;0.0
-Poznañ;Czes³awa Mi³osza;31;4;3;2;1.0;0.5;2.5
-Poznañ;Czeœnikowska;18a;1;137;13;8.0;1.69;14.69
-Poznañ;Czeœnikowska;19a;1;69;16;4.0;1.58;17.58
-Poznañ;Darzyborska;1a;6;70;12;17.0;7.4399999999999995;19.439999999999998
-Poznañ;Dmowskiego;50;5;478;41;12.0;6.8;47.8
-Poznañ;Dobrowita;22;4;87;7;2.0;0.88;7.88
-Poznañ;Dojazd;3;1;75;9;2.0;0.17;9.17
-Poznañ;Dolina;6;1;70;6;6.0;1.39;7.39
-Poznañ;Drewlañska;10;4;26;2;0.0;0.0;2.0
-Poznañ;Droga Dêbiñska;21;1;0;11;15.0;8.21;19.21
-Poznañ;Druskienicka;32;2;703;43;26.0;15.23;58.23
-Poznañ;Druskienicka;6;4;92;7;22.0;7.84;14.84
-Poznañ;Druskiennicka;32;2;75;1;10.0;5.17;6.17
-Poznañ;Drzyma³y;04.cze;5;327;31;26.0;11.9;42.900000000000006
-Poznañ;Dzia³yñskich;04.maj;6;571;45;13.0;6.87;51.87
-Poznañ;Dziurawcowa;11;4;9;0;1.0;0.63;0.63
-Poznañ;D¹browskiego;163;4;284;31;16.0;7.93;38.93
-Poznañ;D¹browskiego;172;4;16;1;0.0;0.0;1.0
-Poznañ;D¹browskiego;25/2b;4;23;1;0.0;0.0;1.0
-Poznañ;D¹browskiego;73;1;36;7;12.0;4.98;11.98
-Poznañ;Elizy Orzeszkowej;1;2;0;0;0.0;0.0;0.0
-Poznañ;FILIPIÑSKA;4;1;164;22;42.0;19.96;41.96
-Poznañ;Fabianowo;29;2;291;7;35.0;16.080000000000002;23.080000000000002
-Poznañ;Filipiñska;4;1;31;0;13.0;2.33;2.33
-Poznañ;Fredry;13;5;907;73;23.0;10.81;83.81
-Poznañ;Frezjowa;22;8;66;15;17.0;7.48;22.48
-Poznañ;GAJOWA;08.sty;2;48;3;0.0;0.0;3.0
-Poznañ;GARBARY;82;3;323;38;5.0;2.75;40.75
-Poznañ;GRUNWALDZKA;200;1;0;0;0.0;0.0;0.0
-Poznañ;Gajowa;08.gru;4;18;2;0.0;0.0;2.0
-Poznañ;Galileusza;14;1;718;69;6.0;3.97;72.97
-Poznañ;Galileusza;7;1;121;12;3.0;0.17;12.17
-Poznañ;Galla Anonima;13;1;119;12;3.0;0.24;12.24
-Poznañ;Garbary;24;1;542;33;29.0;10.68;43.68
-Poznañ;Gerberowa;30;4;21;4;0.0;0.0;4.0
-Poznañ;Glebowa;36;4;13;2;0.0;0.0;2.0
-Poznañ;GnieŸnieñska;2;4;21;3;0.0;0.0;3.0
-Poznañ;GnieŸnieñska;32;4;49;5;0.0;0.0;5.0
-Poznañ;Golêciñska;9;11;898;66;58.0;24.9;90.9
-Poznañ;Go³êbia;8;1;202;27;42.0;18.28;45.28
-Poznañ;Grabowa;33;8;455;39;41.0;21.8;60.800000000000004
-Poznañ;Grobla;1;1;99;10;3.0;0.26;10.26
-Poznañ;Grochowe £¹ki;2/A1;4;19;0;1.0;0.17;0.17
-Poznañ;Gromadzka;12;4;11;2;0.0;0.0;2.0
-Poznañ;Grudzieniec;34;4;75;10;1.0;0.25;10.25
-Poznañ;Grunwaldzka;152;3;503;28;12.0;7.66;35.66
-Poznañ;Grunwaldzka;154;8;567;60;30.0;13.09;73.09
-Poznañ;Grunwaldzka;182;4;47;9;0.0;0.0;9.0
-Poznañ;Grunwaldzla;68;4;60;8;0.0;0.0;8.0
-Poznañ;GÓRCZYÑSKA;46/1;4;17;4;0.0;0.0;4.0
-Poznañ;G³ogowska;147;4;125;7;48.0;18.33;25.33
-Poznañ;G³ogowska;40;1;74;7;6.0;0.84;7.84
-Poznañ;G³ogowska;90;5;620;73;92.0;46.81;119.81
-Poznañ;G³ogowska;92;2;572;29;50.0;26.12;55.12
-Poznañ;G³ogowska;97;1;98;11;7.0;0.95;11.95
-Poznañ;G³uszyna;187;3;421;41;10.0;5.48;46.48
-Poznañ;G³uszyna;206A;1;120;12;3.0;0.34;12.34
-Poznañ;HEZJODA;15;1;1066;99;46.0;13.85;112.85
-Poznañ;Hangarowa;14;5;550;41;47.0;15.57;56.57
-Poznañ;Harcerska;3;5;400;39;9.0;4.45;43.45
-Poznañ;Hipolita Cegielskiego;1;9;864;48;66.0;29.189999999999998;77.19
-Poznañ;Inowroc³awska;19;1;397;37;12.0;6.73;43.73
-Poznañ;JUNIKOWSKA;15;1;125;10;3.0;1.04;11.04
-Poznañ;Janickiego;22;1;54;10;11.0;5.68;15.68
-Poznañ;Janickiego;24A;1;124;11;1.0;0.5;11.5
-Poznañ;Jarochowskiego;1;1;0;6;13.0;6.71;12.71
-Poznañ;Jarochowskiego;44;4;0;1;1.0;0.13;1.13
-Poznañ;Jarochowskiego;62;3;685;79;18.0;10.29;89.29
-Poznañ;Jasna Rola;58;4;45;6;0.0;0.0;6.0
-Poznañ;Jawornicka;1;8;320;33;14.0;6.49;39.49
-Poznañ;Jawornicka;17;1;146;15;3.0;0.44;15.44
-Poznañ;Jeleniogórska;04.cze;4;0;0;0.0;0.0;0.0
-Poznañ;Jeleniogórska;7;4;16;5;0.0;0.0;5.0
-Poznañ;Jesionowa;14;3;684;73;20.0;7.1;80.1
-Poznañ;Juliusza S³owackiego;15;1;120;10;9.0;2.64;12.64
-Poznañ;Juliusza S³owackiego;58/60;1;226;15;12.0;5.35;20.35
-Poznañ;Junikowska;35;1;207;24;21.0;11.55;35.55
-Poznañ;KARPIA;17B/lok28;4;7;2;0.0;0.0;2.0
-Poznañ;Kaliowa;39;4;50;6;1.0;0.75;6.75
-Poznañ;Kaliska;13;4;6;1;1.0;0.75;1.75
-Poznañ;Kartuska;17;4;75;5;0.0;0.0;5.0
-Poznañ;Kasprzaka;46;1;85;9;5.0;0.79;9.79
-Poznañ;Kasztelañska;19;1;75;6;7.0;0.42;6.42
-Poznañ;Kazimierza Wielkiego;17;5;272;39;12.0;5.88;44.88
-Poznañ;Kazimierza Wielkiego;19/21;1;178;17;9.0;3.54;20.54
-Poznañ;Keplera;5;1;149;15;7.0;0.64;15.64
-Poznañ;Klaudyny Potockiej;38;1;118;10;19.0;8.98;18.98
-Poznañ;Knapowskiego;23;4;4;0;1.0;0.48;0.48
-Poznañ;Kochanowskiego;22.cze;4;0;0;3.0;1.0;1.0
-Poznañ;Kolejowa;29a;4;27;3;1.0;0.5;3.5
-Poznañ;Kolorowa;10;4;8;2;0.0;0.0;2.0
-Poznañ;Kosowska;42;4;149;12;0.0;0.0;12.0
-Poznañ;Kossaka;3;6;776;0;34.0;9.190000000000001;9.190000000000001
-Poznañ;Koœcielskiego;12;4;42;1;5.0;3.92;4.92
-Poznañ;Koœcierzyñska;76/78;8;275;0;55.0;13.3;13.3
-Poznañ;Krakowska;10;1;304;30;16.0;6.69;36.69
-Poznañ;Krakowska;17;1;0;11;1.0;0.5;11.5
-Poznañ;Krakowska;17a;3;882;53;14.0;9.54;62.54
-Poznañ;Krysiewicza;07.sie;3;96;24;11.0;6.2;30.2
-Poznañ;Krzesiny;13;1;42;0;0.0;0.0;0.0
-Poznañ;Ksiêcia Józefa;01.mar;1;75;7;5.0;1.21;8.21
-Poznañ;Ksiê¿ycowa;10;1;175;17;3.0;0.63;17.63
-Poznañ;Kutrzeby;8;1;468;29;18.0;8.23;37.23
-Poznañ;K³uszyñska;19;4;133;11;0.0;0.0;11.0
-Poznañ;Lecha;43;1;39;5;2.0;0.3;5.3
-Poznañ;Lecha;79;1;138;13;6.0;1.34;14.34
-Poznañ;Leszka;25A;4;19;4;0.0;0.0;4.0
-Poznañ;Leszka;42;3;532;51;14.0;7.88;58.88
-Poznañ;Leœnowolska;35;1;516;34;29.0;14.83;48.83
-Poznañ;Libelta;31;4;43;8;3.0;1.09;9.09
-Poznañ;Libelta;35;1;30;19;0.0;0.0;19.0
-Poznañ;Limanowskiego;23B;1;100;8;6.0;1.3;9.3
-Poznañ;Limbowa;2;1;46;20;3.0;1.6;21.6
-Poznañ;Listopadowa;22;4;14;1;0.0;0.0;1.0
-Poznañ;Lubeckiego;30a;4;19;1;0.0;0.0;1.0
-Poznañ;Lubowska;53;4;19;2;4.0;1.43;3.43
-Poznañ;Lêborska;51;4;37;3;0.0;0.0;3.0
-Poznañ;M.Pawlikowskiej-Jasnorzewskiej;12a;4;32;7;0.0;0.0;7.0
-Poznañ;MAJAKOWSKIEGO 309A;24;4;0;0;1.0;0.38;0.38
-Poznañ;Madziarska;1;4;17;1;0.0;0.0;1.0
-Poznañ;Maków Polnych;2/2a;4;54;10;1.0;0.25;10.25
-Poznañ;Mansfelda;4;3;121;3;6.0;2.66;5.66
-Poznañ;Marceliñska;96c/220;4;19;1;2.0;1.25;2.25
-Poznañ;Marcina Ro¿ka;9;1;149;13;3.0;0.46;13.46
-Poznañ;Marcinkowskiego;1;4;40;7;2.0;0.36;7.36
-Poznañ;Mariacka;24/28;6;69;15;4.0;2.06;17.06
-Poznañ;Marka H³aski;16;1;240;22;2.0;0.42;22.42
-Poznañ;Marsza³kowka;40;2;658;0;0.0;0.0;0.0
-Poznañ;Marsza³kowska;40;2;28;51;20.0;9.58;60.58
-Poznañ;Matejki;08.pa?60-766;612;20;23;11.59;60.59;
-Poznañ;Mazowiecka;20;4;48;7;0.0;0.0;7.0
-Poznañ;Mazowiecka;26;4;18;1;0.0;0.0;1.0
-Poznañ;Mazowiecka;6;4;98;13;0.0;0.0;13.0
-Poznañ;Ma³oszyñska;38;2;826;74;22.0;10.95;84.95
-Poznañ;Miastkowska;124;4;70;8;0.0;0.0;8.0
-Poznañ;Micha³a Drzyma³y;3;4;0;0;1.0;0.2;0.2
-Poznañ;Micha³a Sobeskiego;1;1;133;14;3.0;0.29;14.29
-Poznañ;Mickiewicza;32/3;4;62;9;4.0;2.2;11.2
-Poznañ;Miel¿yñskiego;20;4;0;0;0.0;0.0;0.0
-Poznañ;Miel¿yñskiego;21;1;98;9;4.0;0.22;9.22
-Poznañ;Miko³owska;14;1;70;7;3.0;0.55;7.55
-Poznañ;Milczañska;1;4;56;0;6.0;1.2;1.2
-Poznañ;Mi³os³awska;4;4;45;0;4.0;1.52;1.52
-Poznañ;Miñska;32;6;173;6;47.0;14.73;20.73
-Poznañ;Mostowa;6;5;215;24;22.0;8.33;32.33
-Poznañ;Mo³dawska;22;3;116;4;4.0;1.17;5.17
-Poznañ;Na Uboczu;8;4;19;1;0.0;0.0;1.0
-Poznañ;Nad Ró¿anym Potokiem;43;4;41;3;0.0;0.0;3.0
-Poznañ;Nad Segank¹;4;4;25;4;1.0;0.74;4.74
-Poznañ;Nad Segank¹;6;4;18;7;1.0;0.13;7.13
-Poznañ;Nadolnik;9a;1;75;6;1.0;0.13;6.13
-Poznañ;Naramowicka;222;4;74;10;0.0;0.0;10.0
-Poznañ;Naramowicka;244;1;30;0;1.0;0.25;0.25
-Poznañ;Naramowicka;264a/1;8;10;2;0.0;0.0;2.0
-Poznañ;Newtona;2;1;233;20;18.0;9.1;29.1
-Poznañ;Nieszawska;21;3;153;78;3.0;0.83;78.83
-Poznañ;Norwida;21;1;344;38;9.0;3.83;41.83
-Poznañ;Noskowskiego;35/37;1;141;12;4.0;0.52;12.52
-Poznañ;Nowowiejskiego;29;1;0;11;8.0;4.0;15.0
-Poznañ;OS. BOLES£AWA CHROBREGO;107;1;432;38;9.0;5.88;43.88
-Poznañ;OS. ZWYCIÊSTWA;101;3;706;70;10.0;4.68;74.68
-Poznañ;OS.RUSA;120;1;143;13;5.0;1.0;14.0
-Poznañ;OSIEDLE TYSI¥CLECIA;69;1;137;13;1.0;0.22;13.22
-Poznañ;Obornicka;274;12;0;0;0.0;0.0;0.0
-Poznañ;Obornicka;314;1;30;20;17.0;8.45;28.45
-Poznañ;Oliwska;14;8;10;5;15.0;5.18;10.18
-Poznañ;Orzechowa;2 B;1;100;9;4.0;0.39;9.39
-Poznañ;Orzeszkowej;1;2;146;0;26.0;8.95;8.95
-Poznañ;Os. Boh. II Wojny Œwiatowej;1;1;121;14;3.0;0.31;14.31
-Poznañ;Os. Boles³awa Chrobrego;109;1;170;17;4.0;0.45;17.45
-Poznañ;Os. Jagielloñskie;9;1;99;8;5.0;0.5;8.5
-Poznañ;Os. Kosmonautów;111;2;179;0;7.0;1.79;1.79
-Poznañ;Os. Or³a Bia³ego;102;1;123;12;10.0;0.79;12.79
-Poznañ;Os. Oœwiecenia;64;2;57;1;13.0;2.54;3.54
-Poznañ;Os. Pod Lipami;102;1;145;12;6.0;0.47;12.47
-Poznañ;Os. RUSA;56/D1;1;0;8;1.0;0.75;8.75
-Poznañ;Os. Rusa;56;4;653;5;15.0;4.42;9.42
-Poznañ;Os. St. Batorego;101;1;820;71;7.0;4.1;75.1
-Poznañ;Os. Wichrowe Wzgórze;114;2;409;51;9.0;4.71;55.71
-Poznañ;Os. Wichrowe Wzgórze;119;8;22;3;0.0;0.0;3.0
-Poznañ;Os. W³. £okietka;4h;1;29;3;1.0;0.07;3.07
-Poznañ;Os. £okietka;3D;1;32;3;1.0;0.07;3.07
-Poznañ;Os. £okietka;4H;4;0;0;1.0;0.07;0.07
-Poznañ;Os.Kosmonautów;107;1;124;11;4.0;0.89;11.89
-Poznañ;Os.Kosmonautów;108;1;123;10;9.0;1.55;11.55
-Poznañ;Os.Piastowskie;27;1;303;30;12.0;5.59;35.59
-Poznañ;Os.Pod Lipami;107;1;81;17;5.0;1.91;18.91
-Poznañ;Os.Pod Lipami;17;4;26;3;2.0;0.72;3.72
-Poznañ;Os.PrzyjaŸni;135;1;125;16;3.0;0.35;16.35
-Poznañ;Osiedle Boles³awa Œmia³ego;105;1;175;13;8.0;1.6;14.6
-Poznañ;Osiedle Kosmonautów;111;2;105;0;4.0;1.41;1.41
-Poznañ;Osiedle Piastowskie;65;1;340;44;9.0;4.03;48.03
-Poznañ;Osiedle Przyja¿ni;117;1;125;11;1.0;0.12;11.12
-Poznañ;Osiedle Wichrowe Wzgórze;111;1;507;44;29.0;15.08;59.08
-Poznañ;Osinowa;14a;1;116;11;2.0;0.66;11.66
-Poznañ;Oœ. Jana III Sobieskiego;116;4;75;8;1.0;0.4;8.4
-Poznañ;PI¥TKOWSKA;148;2;24;3;11.0;4.44;7.44
-Poznañ;Palucha;15;4;34;4;1.0;0.5;4.5
-Poznañ;Paw³owskiego;6;2;6;1;7.0;0.12;1.12
-Poznañ;Perzycka;11;4;44;8;2.0;0.58;8.58
-Poznañ;Perzycka;30B;1;175;20;5.0;1.38;21.38
-Poznañ;Pilicka;5;4;0;1;0.0;0.0;1.0
-Poznañ;Piotra Œciegiennego;134;2;15;0;5.0;1.45;1.45
-Poznañ;Piwna;1;4;380;21;40.0;21.5;42.5
-Poznañ;Piwna;1:00 AM;1;93;9;5.0;0.43;9.43
-Poznañ;Piwna;1a;4;34;3;0.0;0.0;3.0
-Poznañ;Pi¹tkowska;41A/5;4;0;0;2.0;0.5;0.5
-Poznañ;Piêkna;37;1;501;46;7.0;3.49;49.49
-Poznañ;Plac Kolegiacki;12a;4;0;1;0.0;0.0;1.0
-Poznañ;Plac Wiktora Degi;9;4;110;9;0.0;0.0;9.0
-Poznañ;Podbia³owa;11;4;0;5;0.0;0.0;5.0
-Poznañ;Podchor¹¿ych;22;4;58;4;1.0;0.02;4.02
-Poznañ;Podgórna 3;1;4;457;0;31.0;3.69;3.69
-Poznañ;Podkomorska;49;4;425;47;11.0;7.2;54.2
-Poznañ;Podlaska;2;1;75;7;2.0;0.08;7.08
-Poznañ;Pogodna;84;1;314;27;11.0;4.46;31.46
-Poznañ;Polanka;7F;4;55;7;0.0;0.0;7.0
-Poznañ;Powidzka;10;4;32;4;0.0;0.0;4.0
-Poznañ;Powstañców Wielkopolskich;3;1;367;64;17.0;9.82;73.82
-Poznañ;Poznañskie Sady;18;4;15;1;1.0;0.5;1.5
-Poznañ;Promienista;6;4;0;0;3.0;0.99;0.99
-Poznañ;Promyk;4;1;368;33;16.0;4.68;37.68
-Poznañ;Przemys³owa;68;4;42;28;1.0;0.5;28.5
-Poznañ;Prze³ajowa;4;4;928;73;23.0;13.31;86.31
-Poznañ;Prze³ajowa;5;4;36;30;0.0;0.0;30.0
-Poznañ;Prze³ajowa;6;4;244;95;3.0;1.67;96.67
-Poznañ;Prze³ajowa 4;4;1;0;0;0.0;0.0;0.0
-Poznañ;Prze³êcz;60;4;34;5;0.0;0.0;5.0
-Poznañ;Przybyszewskiego;30A;1;0;3;5.0;0.94;3.94
-Poznañ;Przybyszewskiego;37;1;461;39;12.0;6.08;45.08
-Poznañ;Przyjazni;129;1;125;12;0.0;0.0;12.0
-Poznañ;Pr¹dzyñskiego;15a;1;125;12;2.0;0.25;12.25
-Poznañ;Pr¹dzyñskiego;53;1;595;111;33.0;11.19;122.19
-Poznañ;Pr¹dzyñskiego;55;4;15;1;0.0;0.0;1.0
-Poznañ;Pucka;18;4;18;2;1.0;0.17;2.17
-Poznañ;Pu³askiego;16;1;70;8;4.0;0.35;8.35
-Poznañ;PÓ£WIEJSKA;09.cze;3;0;0;0.0;0.0;0.0
-Poznañ;Pó³wiejska;09.cze;13;556;0;9.0;3.04;3.04
-Poznañ;Pó³wiejska;20/7a;10;358;4;25.0;12.67;16.669999999999998
-Poznañ;Pó³wiejska;23.cze;13;1018;3;96.0;28.229999999999997;31.23
-Poznañ;Pó³wiejska;25.lut;15;1335;0;47.0;15.08;15.08
-Poznañ;Pó³wiejska;30;8;787;0;48.0;1.89;1.89
-Poznañ;P³omienna;1;1;117;9;3.0;1.61;10.61
-Poznañ;P³owiecka;5;1;14;0;0.0;0.0;0.0
-Poznañ;REJTANA;8;4;42;3;2.0;0.63;3.63
-Poznañ;ROMKA STRZA£KOWSKIEGO;05.lip;4;59;1;0.0;0.0;1.0
-Poznañ;RUBIE¯;46;4;54;6;1.0;0.5;6.5
-Poznañ;Radojewo;28;4;0;5;0.0;0.0;5.0
-Poznañ;Raszyñska;48;7;430;45;15.0;8.12;53.12
-Poznañ;Rawicka;gru.14;1;497;43;13.0;7.71;50.71
-Poznañ;Rejtana;6;4;27;3;0.0;0.0;3.0
-Poznañ;Romana Brandstaettera;6;1;548;47;8.0;4.33;51.33
-Poznañ;Romana Dmowskiego;17;1;137;11;7.0;1.75;12.75
-Poznañ;Roœlinna;36a;4;26;0;2.0;0.06;0.06
-Poznañ;Rybaki;17;5;601;47;12.0;6.14;53.14
-Poznañ;Rycerska;43;3;123;120;14.0;7.91;127.91
-Poznañ;Rycerska;8;4;28;2;2.0;1.3;3.3
-Poznañ;Rynek Je¿ycki;1;13;888;17;97.0;45.67;62.67
-Poznañ;Rynek Wildecki;4;4;44;5;0.0;0.0;5.0
-Poznañ;Rzepiñska;19;4;23;1;0.0;0.0;1.0
-Poznañ;Ró¿ana;01.mar;3;518;50;27.0;11.82;61.82
-Poznañ;SANATORYJNA;2;3;53;31;8.0;3.73;34.73
-Poznañ;SENATORSKA;1;1;72;5;4.0;1.09;6.09
-Poznañ;SIERAKOWSKA;23;1;311;24;16.0;6.82;30.82
-Poznañ;STARO£ÊCKA;42;1;75;4;2.0;1.5;5.5
-Poznañ;STRZA£KOWSKIEGO;05.lip;2;370;14;20.0;8.96;22.96
-Poznañ;SZAMARZEWSKIEGO;99;3;264;20;55.0;18.21;38.21
-Poznañ;Saperska;29;1;70;6;3.0;0.3;6.3
-Poznañ;Saperska;51/1;4;36;5;1.0;0.28;5.28
-Poznañ;Sarmacka;105;1;281;37;4.0;1.22;38.22
-Poznañ;Sarmacka;105 A;1;64;7;4.0;0.63;7.63
-Poznañ;Sarmacka;5;1;100;10;5.0;0.43;10.43
-Poznañ;Sierakowska;23;2;123;26;14.0;5.68;31.68
-Poznañ;Sióstr Misjonarek;1;1;49;8;3.0;0.41;8.41
-Poznañ;Skarbka;9;1;75;7;5.0;1.08;8.08
-Poznañ;Skibowa;13;1;200;21;2.0;0.37;21.37
-Poznañ;Smoluchowskiego;5;4;14;2;0.0;0.0;2.0
-Poznañ;Sochaczewska;3;1;385;32;10.0;4.5;36.5
-Poznañ;Solna;12;2;632;105;137.0;73.81;178.81
-Poznañ;Solna;2;1;0;0;0.0;0.0;0.0
-Poznañ;Sowice29;29;4;34;4;0.0;0.0;4.0
-Poznañ;Soœnicka;10;4;54;3;0.0;0.0;3.0
-Poznañ;Sporna;4;1;100;9;6.0;0.46;9.46
-Poznañ;Stanis³awa Hejmowskiego;1;1;0;14;6.0;3.1;17.1
-Poznañ;Stanis³awa Wyspiañskiego;27;3;408;35;15.0;5.81;40.81
-Poznañ;Staro³êcka;129;4;25;4;0.0;0.0;4.0
-Poznañ;Staro³êcka;138;8;29;2;64.0;13.379999999999999;15.379999999999999
-Poznañ;Staro³êcka;142;1;280;21;13.0;6.67;27.67
-Poznañ;Strza³kowskiego;05.lip;4;188;3;43.0;17.85;20.85
-Poznañ;Strzelecka;10;1;554;37;11.0;6.16;43.16
-Poznañ;Strzeszyñska;67A;4;37;5;0.0;0.0;5.0
-Poznañ;Stró¿yñskiego;16;8;292;27;19.0;11.94;38.94
-Poznañ;Stêszewska;6;4;17;2;1.0;0.5;2.5
-Poznañ;Swoboda;41;4;133;64;2.0;1.17;65.17
-Poznañ;Swoboda;53;1;441;48;8.0;4.47;52.47
-Poznañ;Swoboda;57;1;100;8;6.0;0.44;8.44
-Poznañ;Swojska;6;1;613;42;10.0;5.99;47.99
-Poznañ;Szamarzewskiego;78/82;6;175;90;23.0;12.01;102.01
-Poznañ;Szamarzewskiego;99;1;0;0;0.0;0.0;0.0
-Poznañ;Szamotulska;33;14;741;48;77.0;21.53;69.53
-Poznañ;Szczepankowo;131;2;64;10;8.0;3.18;13.18
-Poznañ;Szczepankowo;72a;1;583;53;7.0;4.54;57.54
-Poznañ;Szpaków;1;1;247;22;10.0;4.38;26.38
-Poznañ;Szpitalna;27/33;3;177;38;12.0;7.46;45.46
-Poznañ;S£OWACKIEGO;54/56;3;0;24;3.0;1.5;25.5
-Poznañ;S³oneczna;19;4;27;5;0.0;0.0;5.0
-Poznañ;S³owackiego;54/56;1;263;24;16.0;4.72;28.72
-Poznañ;S³owackiego;58/60;3;232;3;30.0;13.85;16.85
-Poznañ;S³owicza;15;1;212;22;3.0;0.82;22.82
-Poznañ;Taczaka;10;7;45;0;51.0;34.17;34.17
-Poznañ;Taczanowskiego;18;4;562;42;41.0;22.86;64.86
-Poznañ;Tarnowska;27;3;1004;91;19.0;7.4;98.4
-Poznañ;Tczewska;11;1;140;14;9.0;1.95;15.95
-Poznañ;Tomickiego;16;9;273;28;12.0;4.93;32.93
-Poznañ;Tomickiego;3;1;95;9;2.0;0.15;9.15
-Poznañ;Traugutta;42;1;449;43;6.0;3.21;46.21
-Poznañ;Trybunalska;17/25;1;514;36;20.0;10.96;46.96
-Poznañ;Trzemeszeñska;12;1;168;16;2.0;1.19;17.19
-Poznañ;Umultowska;100A;4;25;5;0.0;0.0;5.0
-Poznañ;WARSZAWSKA;39/41;4;0;0;4.0;0.53;0.53
-Poznañ;WILCZAK15B;1;4;40;3;1.0;0.2;3.2
-Poznañ;WINOGRADY;24;1;45;4;5.0;1.19;5.19
-Poznañ;Wagrowska;9;3;6;18;15.0;12.91;30.91
-Poznañ;Warzywna;19;4;448;56;2.0;0.76;56.76
-Poznañ;Warzywna;24;5;807;51;12.0;7.76;58.76
-Poznañ;Wawrzyniaka;37;4;0;0;0.0;0.0;0.0
-Poznañ;Wiankowa;1;4;7;2;0.0;0.0;2.0
-Poznañ;Wichrowe Wzgórze;130;4;14;2;0.0;0.0;2.0
-Poznañ;Widna;1;1;301;22;23.0;10.05;32.05
-Poznañ;Wieniawskiego;05.cze;4;0;0;0.0;0.0;0.0
-Poznañ;Wierzbêcice;64;1;135;13;7.0;2.03;15.03
-Poznañ;Winiary;2;1;423;43;8.0;4.68;47.68
-Poznañ;Winogrady;139;2;1;1;0.0;0.0;1.0
-Poznañ;Winogrady;144;4;20;22;6.0;3.77;25.77
-Poznañ;Wi¹zowa;5;1;122;11;4.0;0.59;11.59
-Poznañ;Wolbromska;20;4;81;10;0.0;0.0;10.0
-Poznañ;Wolsztyñska;15;1;68;9;3.0;0.89;9.89
-Poznañ;WoŸna 9/4;47;2;85;0;4.0;0.51;0.51
-Poznañ;Za Cytadel¹;120;1;150;6;0.0;0.0;6.0
-Poznañ;Zamenhofa;142;3;624;49;11.0;5.64;54.64
-Poznañ;Zawady;26;1;96;9;3.0;0.21;9.21
-Poznañ;Zeylanda;1;3;88;0;7.0;3.27;3.27
-Poznañ;Zmartwychwstañców;10;1;738;49;12.0;5.64;54.64
-Poznañ;Z³ota;10;4;33;4;0.0;0.0;4.0
-Poznañ;Z³otowska;32;4;13;1;1.0;0.8;1.8
-Poznañ;al. Niepodleg³oœci;36;2;33;0;17.0;3.26;3.26
-Poznañ;al. Niepodleg³oœci;41;1;323;16;37.0;17.29;33.29
-Poznañ;al. Niepodleg³oœci;43;2;106;2;40.0;17.45;19.45
-Poznañ;gen. T. Kutrzeby;10;4;154;3;50.0;18.86;21.86
-Poznañ;kazimierza Wielkiego;17;1;260;0;0.0;0.0;0.0
-Poznañ;os. Armii Krajowej;100;1;456;49;3.0;1.8;50.8
-Poznañ;os. B. Chrobrego;105;1;759;61;11.0;6.03;67.03
-Poznañ;os. B. Chrobrego;cze.66;4;16;8;1.0;0.6;8.6
-Poznañ;os. Bohat. II Wojny Œwiatowej;29;4;654;61;11.0;7.37;68.37
-Poznañ;os. Bohaterów II Wojny Œwiat.;30;1;124;11;4.0;0.47;11.47
-Poznañ;os. Boles³awa Chrobrego;104;1;125;9;7.0;2.46;11.46
-Poznañ;os. Boles³awa Chrobrego;105;1;0;6;5.0;2.75;8.75
-Poznañ;os. Boles³awa Œmia³ego;107;3;1028;108;8.0;3.26;111.26
-Poznañ;os. Czecha;140;1;111;14;8.0;3.47;17.47
-Poznañ;os. Czecha;59;1;602;0;0.0;0.0;0.0
-Poznañ;os. J. III Sobieskiego;102;1;207;62;3.0;1.74;63.74
-Poznañ;os. Jagielloñskie;128;5;552;29;33.0;14.860000000000001;43.86
-Poznañ;os. Jana III Sobieskiego;105;3;644;55;8.0;5.14;60.14
-Poznañ;os. Jana III Sobieskiego;106;1;150;12;9.0;1.27;13.27
-Poznañ;os. Jana III Sobieskiego;109;4;35;1;32.0;13.080000000000002;14.080000000000002
-Poznañ;os. Jana III Sobieskiego;114;3;788;72;19.0;12.3;84.3
-Poznañ;os. Jana III Sobieskiego;52;4;19;1;1.0;0.5;1.5
-Poznañ;os. Kosmonautów;111;3;540;41;35.0;15.42;56.42
-Poznañ;os. Lecha;14;1;119;22;5.0;2.52;24.52
-Poznañ;os. Lecha;37;4;217;2;20.0;10.46;12.46
-Poznañ;os. Or³a BIa³ego;72;1;125;14;8.0;0.69;14.69
-Poznañ;os. Or³a Bia³ego;120;1;643;59;11.0;6.1;65.1
-Poznañ;os. Or³a Bia³ego;29;1;125;11;2.0;0.18;11.18
-Poznañ;os. Oœwiecenia;1;1;447;46;7.0;4.26;50.26
-Poznañ;os. Oœwiecenia;26;1;123;11;4.0;0.55;11.55
-Poznañ;os. Oœwiecenia;64;2;326;38;8.0;5.07;43.07
-Poznañ;os. Piastowskie;105;1;116;11;7.0;1.77;12.77
-Poznañ;os. Piastowskie;106;1;258;22;17.0;5.56;27.56
-Poznañ;os. Piastowskie;26;1;99;8;5.0;1.07;9.07
-Poznañ;os. Piastowskie;55;1;95;8;4.0;0.17;8.17
-Poznañ;os. Pod Lipami;106;3;644;80;5.0;2.39;82.39
-Poznañ;os. PrzyjaŸni;126;4;117;10;3.0;1.0;11.0
-Poznañ;os. PrzyjaŸni;127;1;682;72;19.0;9.89;81.89
-Poznañ;os. PrzyjaŸni;136;2;207;0;12.0;3.56;3.56
-Poznañ;os. Rusa;7;1;73;8;4.0;0.41;8.41
-Poznañ;os. Rzeczypospolitej;43;1;96;16;4.0;0.88;16.88
-Poznañ;os. Rzeczypospolitej;44;1;517;68;7.0;2.74;70.74
-Poznañ;os. Stare ¯egrze;1;3;631;94;16.0;8.1;102.1
-Poznañ;os. Stefana Batorego;101;1;0;0;1.0;0.01;0.01
-Poznañ;os. Strare ¯egrze;55;4;24;4;0.0;0.0;4.0
-Poznañ;os. Tysi¹clecia;43;5;975;76;38.0;19.779999999999998;95.77999999999999
-Poznañ;os. Wichrowe Wzgórze;119;1;483;52;14.0;8.02;60.02
-Poznañ;os. Winiary;2;1;190;21;4.0;1.05;22.05
-Poznañ;os. W³adys³awa £okietka;104;3;826;69;16.0;7.82;76.82
-Poznañ;os.Boles³awa Chrobrego;121;1;164;18;3.0;0.58;18.58
-Poznañ;os.Czecha;76;1;124;9;6.0;1.72;10.72
-Poznañ;os.Lecha;37;1;743;76;12.0;6.15;82.15
-Poznañ;os.Piastowskie;42;4;40;5;0.0;0.0;5.0
-Poznañ;os.Polan;1;1;42;5;3.0;0.89;5.89
-Poznañ;os.Rzeczypospolitej;111;3;445;36;7.0;4.22;40.22
-Poznañ;os.Rzeczypospolitej;7;1;124;9;4.0;1.03;10.03
-Poznañ;os.Wichrowe Wzgórze;118;1;125;12;4.0;0.43;12.43
-Poznañ;osiedle Armii Krajowej;97;4;123;8;4.0;1.71;9.71
-Poznañ;osiedle Czecha;59;2;348;76;15.0;7.06;83.06
-Poznañ;osiedle Dêbina;15;1;125;11;7.0;0.59;11.59
-Poznañ;osiedle Rusa;56;1;825;113;7.0;4.14;117.14
-Poznañ;oœ. Wichrowe Wzgórze;112;1;125;12;3.0;0.29;12.29
-Poznañ;ul. 27 Grudnia;3;3;25;0;12.0;0.42;0.42
-Poznañ;ul. 28 Czerwca 1956 r.;352/360;1;505;42;22.0;11.02;53.02
-Poznañ;ul. Bu³garska;19;1;0;41;2.0;1.0;42.0
-Poznañ;ul. Górecka;1;1;0;18;4.0;1.7;19.7
-Poznañ;ul. Œw. Antoniego;42;1;150;13;5.0;0.46;13.46
-Poznañ;ul. Œwit;25;1;0;0;0.0;0.0;0.0
-Poznañ;ul.Za Cytadel¹;121;1;0;12;17.0;9.33;21.33
-Poznañ;£agodna;4;1;49;3;0.0;0.0;3.0
-Poznañ;£awica;3;1;447;38;7.0;3.65;41.65
-Poznañ;£ozowa;53;1;162;17;15.0;4.89;21.89
-Poznañ;£ozowa;77;9;734;70;54.0;22.63;92.63
-Poznañ;£ubinowa;7;4;17;3;0.0;0.0;3.0
-Poznañ;£ukaszewicza;35;1;70;6;6.0;0.37;6.37
-Poznañ;£ukaszewicza;wrz.13;5;417;43;8.0;4.96;47.96
-Poznañ;ŒW,MARCIN;66/72;2;0;0;0.0;0.0;0.0
-Poznañ;ŒW. MARCIN;59;4;0;0;0.0;0.0;0.0
-Poznañ;ŒW.MARCIN;66/72;4;231;1;5.0;1.34;2.34
-Poznañ;ŒW.MARCIN 66/72;09.pa?61-807;47;2;6;0.73;0.73;
-Poznañ;Œciegiennego;10;8;493;2;41.0;16.21;18.21
-Poznañ;Œciegiennego;134;4;722;42;22.0;10.280000000000001;52.28
-Poznañ;Œniadeckich;54/58;7;1350;85;21.0;13.08;98.08
-Poznañ;Œw. Antoniego;42;1;0;10;7.0;3.5;13.5
-Poznañ;Œw. Floriana;3;1;36;0;0.0;0.0;0.0
-Poznañ;Œw. Kingi;1A;1;100;7;4.0;1.07;8.07
-Poznañ;Œw.Floriana;3;2;386;24;25.0;10.55;34.55
-Poznañ;Œw.Rocha;16a;4;0;7;0.0;0.0;7.0
-Poznañ;Œwierkowa;8;5;768;61;26.0;12.85;73.85
-Poznañ;Œwierzawska;18;2;77;10;13.0;4.11;14.11
-Poznañ;Œwit;16A;1;118;12;4.0;0.33;12.33
-Poznañ;Œwit;25;3;416;37;15.0;7.32;44.32
-Poznañ;Œwit;40/42;1;130;9;0.0;0.0;9.0
-Poznañ;Œwiêtego Marcina;66/72;4;0;5;0.0;0.0;5.0
-Poznañ;œw. Czes³awa;6A;1;100;8;4.0;0.43;8.43
-Poznañ;œw. Jerzego;06.pa?60-546;101;3;12;3.18;3.18;
-Poznañ;œw. Jerzego;06.pa?61-546;184;14;13;6.31;29.31;
-Poznañ;œw. Micha³a;50 M;4;577;57;33.0;18.39;75.38999999999999
-Poznañ;œw. Rocha;10;4;24;1;0.0;0.0;1.0
-Poznañ;œw. Szczepana;3;1;466;41;23.0;7.8;48.8
-Poznañ;¯NIWNA;1;1;168;0;0.0;0.0;0.0
-Poznañ;¯eromskiego;08.gru;1;579;40;20.0;12.12;52.12
-Poznañ;¯niwna;1;3;88;48;6.0;3.63;51.63
-Poznañ;¯onkilowa;34;5;532;62;9.0;5.13;67.13
+Miejscowoœæ;Ulica;Nr domu;Uczniowie, wychow., s³uchacze;Nauczyciele;umowa smiec;w etatach;suma etaty
+Poznañ;0s.Jana III Sobieskiego;108;149;13;10;1.49;14.49
+Poznañ;28 Czerwca 1956;290;24;2;0;0.0;2.0
+Poznañ;28 Czerwca 1956r.;135/147;63;0;0;0.0;0.0
+Poznañ;B. Chrobrego;106;125;11;3;0.38;11.38
+Poznañ;Bartoszycka;7;35;3;0;0.0;3.0
+Poznañ;Berwiñskigo;2/4;57;23;2;1.1;24.1
+Poznañ;Biskupiñska;65;50;5;6;1.61;6.61
+Poznañ;BliŸni¹t;12/2;22;2;1;0.5;2.5
+Poznañ;Bogusza;8a;39;5;0;0.0;5.0
+Poznañ;Bosa;15;5;2;0;0.0;2.0
+Poznañ;Bosa;16;75;6;5;0.57;6.57
+Poznañ;Brzeska;7;33;1;3;1.75;2.75
+Poznañ;Bukowska;47a;118;9;2;1.5;10.5
+Poznañ;Bu³garska;19;71;4;3;2.39;6.39
+Poznañ;Bydgoska;4a;12;0;0;0.0;0.0
+Poznañ;Chociszewskiego;44c;100;10;4;0.81;10.81
+Poznañ;Chojnicka;72;125;5;0;0.0;5.0
+Poznañ;Chopina;3;155;19;5;0.85;19.85
+Poznañ;Czechos³owacka;29;98;10;4;0.21;10.21
+Poznañ;Czes³awa Mi³osza;31;3;2;1;0.5;2.5
+Poznañ;Czeœnikowska;18a;137;13;8;1.69;14.69
+Poznañ;Czeœnikowska;19a;69;16;4;1.58;17.58
+Poznañ;Darzyborska;1a;19;4;6;2.1;6.1
+Poznañ;Dmowskiego;50;16;1;0;0.0;1.0
+Poznañ;Dobrowita;22;87;7;2;0.88;7.88
+Poznañ;Dojazd;3;75;9;2;0.17;9.17
+Poznañ;Dolina;6;70;6;6;1.39;7.39
+Poznañ;Drewlañska;10;26;2;0;0.0;2.0
+Poznañ;Druskienicka;32;93;0;6;4.33;4.33
+Poznañ;Dziurawcowa;11;9;0;1;0.63;0.63
+Poznañ;D¹browskiego;172;16;1;0;0.0;1.0
+Poznañ;Fabianowo;29;111;5;8;1.87;6.87
+Poznañ;GARBARY;82;67;0;0;0.0;0.0
+Poznañ;Gajowa;8/12;18;2;0;0.0;2.0
+Poznañ;Galileusza;7;121;12;3;0.17;12.17
+Poznañ;Galla Anonima;13;119;12;3;0.24;12.24
+Poznañ;Gerberowa;30;21;4;0;0.0;4.0
+Poznañ;Glebowa;36;13;2;0;0.0;2.0
+Poznañ;GnieŸnieñska;2;21;3;0;0.0;3.0
+Poznañ;GnieŸnieñska;32;49;5;0;0.0;5.0
+Poznañ;Golêciñska;9;16;1;4;0.83;1.83
+Poznañ;Grabowa;33;48;7;1;0.56;7.56
+Poznañ;Grobla;1;99;10;3;0.26;10.26
+Poznañ;Grochowe £¹ki;2/A1;19;0;1;0.17;0.17
+Poznañ;Grudzieniec;34;75;10;1;0.25;10.25
+Poznañ;Grunwaldzka;182;47;9;0;0.0;9.0
+Poznañ;Grunwaldzla;68;60;8;0;0.0;8.0
+Poznañ;GÓRCZYÑSKA;46/1;17;4;0;0.0;4.0
+Poznañ;G³ogowska;40;74;7;6;0.84;7.84
+Poznañ;G³ogowska;97;98;11;7;0.95;11.95
+Poznañ;G³uszyna;206A;120;12;3;0.34;12.34
+Poznañ;Hangarowa;14;64;0;0;0.0;0.0
+Poznañ;Harcerska;3;18;1;0;0.0;1.0
+Poznañ;Hipolita Cegielskiego;1;35;5;0;0.0;5.0
+Poznañ;JUNIKOWSKA;15;125;10;3;1.04;11.04
+Poznañ;Janickiego;24A;124;11;1;0.5;11.5
+Poznañ;Jarochowskiego;62;173;0;0;0.0;0.0
+Poznañ;Jasna Rola;58;45;6;0;0.0;6.0
+Poznañ;Jawornicka;17;146;15;3;0.44;15.44
+Poznañ;Jeleniogórska;7;16;5;0;0.0;5.0
+Poznañ;Jesionowa;14;119;0;0;0.0;0.0
+Poznañ;Juliusza S³owackiego;15;120;10;9;2.64;12.64
+Poznañ;KARPIA;17B/lok28;7;2;0;0.0;2.0
+Poznañ;Kaliowa;39;50;6;1;0.75;6.75
+Poznañ;Kartuska;17;75;5;0;0.0;5.0
+Poznañ;Kasprzaka;46;85;9;5;0.79;9.79
+Poznañ;Kasztelañska;19;75;6;7;0.42;6.42
+Poznañ;Kazimierza Wielkiego;19/21;178;17;9;3.54;20.54
+Poznañ;Keplera;5;149;15;7;0.64;15.64
+Poznañ;Kolejowa;29a;27;3;1;0.5;3.5
+Poznañ;Kolorowa;10;8;2;0;0.0;2.0
+Poznañ;Kosowska;42;149;12;0;0.0;12.0
+Poznañ;Koœcielskiego;12;42;1;5;3.92;4.92
+Poznañ;Koœcierzyñska;76/78;13;0;10;3.0;3.0
+Poznañ;Krysiewicza;7/8;45;0;0;0.0;0.0
+Poznañ;Krzesiny;13;42;0;0;0.0;0.0
+Poznañ;Ksiêcia Józefa;1/3;75;7;5;1.21;8.21
+Poznañ;Ksiê¿ycowa;10;175;17;3;0.63;17.63
+Poznañ;K³uszyñska;19;133;11;0;0.0;11.0
+Poznañ;Lecha;43;39;5;2;0.3;5.3
+Poznañ;Lecha;79;138;13;6;1.34;14.34
+Poznañ;Leszka;25A;19;4;0;0.0;4.0
+Poznañ;Leszka;42;72;0;0;0.0;0.0
+Poznañ;Libelta;31;43;8;3;1.09;9.09
+Poznañ;Libelta;35;30;19;0;0.0;19.0
+Poznañ;Limanowskiego;23B;100;8;6;1.3;9.3
+Poznañ;Limbowa;2;46;20;3;1.6;21.6
+Poznañ;Lubeckiego;30a;19;1;0;0.0;1.0
+Poznañ;Lubowska;53;19;2;4;1.43;3.43
+Poznañ;Lêborska;51;37;3;0;0.0;3.0
+Poznañ;M.Pawlikowskiej-Jasnorzewskiej;12a;32;7;0;0.0;7.0
+Poznañ;Madziarska;1;17;1;0;0.0;1.0
+Poznañ;Maków Polnych;2/2a;54;10;1;0.25;10.25
+Poznañ;Marceliñska;96c/220;19;1;2;1.25;2.25
+Poznañ;Marcina Ro¿ka;9;149;13;3;0.46;13.46
+Poznañ;Marcinkowskiego;1;40;7;2;0.36;7.36
+Poznañ;Marka H³aski;16;240;22;2;0.42;22.42
+Poznañ;Mazowiecka;20;48;7;0;0.0;7.0
+Poznañ;Mazowiecka;26;18;1;0;0.0;1.0
+Poznañ;Mazowiecka;6;98;13;0;0.0;13.0
+Poznañ;Miastkowska;124;70;8;0;0.0;8.0
+Poznañ;Micha³a Sobeskiego;1;133;14;3;0.29;14.29
+Poznañ;Mickiewicza;32/3;62;9;4;2.2;11.2
+Poznañ;Miel¿yñskiego;21;98;9;4;0.22;9.22
+Poznañ;Miko³owska;14;70;7;3;0.55;7.55
+Poznañ;Milczañska;1;56;0;6;1.2;1.2
+Poznañ;Mi³os³awska;4;45;0;4;1.52;1.52
+Poznañ;Miñska;32;31;3;6;0.93;3.93
+Poznañ;Na Uboczu;8;19;1;0;0.0;1.0
+Poznañ;Nad Ró¿anym Potokiem;43;41;3;0;0.0;3.0
+Poznañ;Nad Segank¹;4;25;4;1;0.74;4.74
+Poznañ;Nad Segank¹;6;18;7;1;0.13;7.13
+Poznañ;Nadolnik;9a;75;6;1;0.13;6.13
+Poznañ;Naramowicka;222;74;10;0;0.0;10.0
+Poznañ;Naramowicka;244;30;0;1;0.25;0.25
+Poznañ;Noskowskiego;35/37;141;12;4;0.52;12.52
+Poznañ;OS. ZWYCIÊSTWA;101;199;0;0;0.0;0.0
+Poznañ;OS.RUSA;120;143;13;5;1.0;14.0
+Poznañ;OSIEDLE TYSI¥CLECIA;69;137;13;1;0.22;13.22
+Poznañ;Orzechowa;2 B;100;9;4;0.39;9.39
+Poznañ;Os. Boh. II Wojny Œwiatowej;1;121;14;3;0.31;14.31
+Poznañ;Os. Boles³awa Chrobrego;109;170;17;4;0.45;17.45
+Poznañ;Os. Jagielloñskie;9;99;8;5;0.5;8.5
+Poznañ;Os. Or³a Bia³ego;102;123;12;10;0.79;12.79
+Poznañ;Os. Pod Lipami;102;145;12;6;0.47;12.47
+Poznañ;Os. W³. £okietka;4h;29;3;1;0.07;3.07
+Poznañ;Os. £okietka;3D;32;3;1;0.07;3.07
+Poznañ;Os.Kosmonautów;107;124;11;4;0.89;11.89
+Poznañ;Os.Kosmonautów;108;123;10;9;1.55;11.55
+Poznañ;Os.Pod Lipami;107;81;17;5;1.91;18.91
+Poznañ;Os.Pod Lipami;17;26;3;2;0.72;3.72
+Poznañ;Os.PrzyjaŸni;135;125;16;3;0.35;16.35
+Poznañ;Osiedle Boles³awa Œmia³ego;105;175;13;8;1.6;14.6
+Poznañ;Osiedle Przyja¿ni;117;125;11;1;0.12;11.12
+Poznañ;Osinowa;14a;116;11;2;0.66;11.66
+Poznañ;Oœ. Jana III Sobieskiego;116;75;8;1;0.4;8.4
+Poznañ;Palucha;15;34;4;1;0.5;4.5
+Poznañ;Perzycka;11;44;8;2;0.58;8.58
+Poznañ;Perzycka;30B;175;20;5;1.38;21.38
+Poznañ;Piwna;1 A;93;9;5;0.43;9.43
+Poznañ;Piwna;1a;34;3;0;0.0;3.0
+Poznañ;Plac Wiktora Degi;9;110;9;0;0.0;9.0
+Poznañ;Podchor¹¿ych;22;58;4;1;0.02;4.02
+Poznañ;Podlaska;2;75;7;2;0.08;7.08
+Poznañ;Polanka;7F;55;7;0;0.0;7.0
+Poznañ;Powidzka;10;32;4;0;0.0;4.0
+Poznañ;Poznañskie Sady;18;15;1;1;0.5;1.5
+Poznañ;Prze³êcz;60;34;5;0;0.0;5.0
+Poznañ;Przyjazni;129;125;12;0;0.0;12.0
+Poznañ;Pr¹dzyñskiego;15a;125;12;2;0.25;12.25
+Poznañ;Pr¹dzyñskiego;55;15;1;0;0.0;1.0
+Poznañ;Pucka;18;18;2;1;0.17;2.17
+Poznañ;Pu³askiego;16;70;8;4;0.35;8.35
+Poznañ;P³omienna;1;117;9;3;1.61;10.61
+Poznañ;P³owiecka;5;14;0;0;0.0;0.0
+Poznañ;REJTANA;8;42;3;2;0.63;3.63
+Poznañ;ROMKA STRZA£KOWSKIEGO;5/7;59;1;0;0.0;1.0
+Poznañ;RUBIE¯;46;54;6;1;0.5;6.5
+Poznañ;Rejtana;6;27;3;0;0.0;3.0
+Poznañ;Romana Dmowskiego;17;137;11;7;1.75;12.75
+Poznañ;Roœlinna;36a;26;0;2;0.06;0.06
+Poznañ;Rycerska;8;28;2;2;1.3;3.3
+Poznañ;Rynek Wildecki;4;44;5;0;0.0;5.0
+Poznañ;Rzepiñska;19;23;1;0;0.0;1.0
+Poznañ;Ró¿ana;1/3;120;0;0;0.0;0.0
+Poznañ;SENATORSKA;1;72;5;4;1.09;6.09
+Poznañ;STARO£ÊCKA;42;75;4;2;1.5;5.5
+Poznañ;Saperska;29;70;6;3;0.3;6.3
+Poznañ;Saperska;51/1;36;5;1;0.28;5.28
+Poznañ;Sarmacka;105 A;64;7;4;0.63;7.63
+Poznañ;Sarmacka;5;100;10;5;0.43;10.43
+Poznañ;Sierakowska;23;123;11;6;1.68;12.68
+Poznañ;Sióstr Misjonarek;1;49;8;3;0.41;8.41
+Poznañ;Skarbka;9;75;7;5;1.08;8.08
+Poznañ;Skibowa;13;200;21;2;0.37;21.37
+Poznañ;Smoluchowskiego;5;14;2;0;0.0;2.0
+Poznañ;Sowice29;29;34;4;0;0.0;4.0
+Poznañ;Soœnicka;10;54;3;0;0.0;3.0
+Poznañ;Sporna;4;100;9;6;0.46;9.46
+Poznañ;Strzeszyñska;67A;37;5;0;0.0;5.0
+Poznañ;Stêszewska;6;17;2;1;0.5;2.5
+Poznañ;Swoboda;57;100;8;6;0.44;8.44
+Poznañ;Szpitalna;27/33;77;0;0;0.0;0.0
+Poznañ;S³oneczna;19;27;5;0;0.0;5.0
+Poznañ;S³owackiego;58/60;125;2;9;6.13;8.13
+Poznañ;S³owicza;15;212;22;3;0.82;22.82
+Poznañ;Tczewska;11;140;14;9;1.95;15.95
+Poznañ;Tomickiego;3;95;9;2;0.15;9.15
+Poznañ;Trzemeszeñska;12;168;16;2;1.19;17.19
+Poznañ;Umultowska;100A;25;5;0;0.0;5.0
+Poznañ;WILCZAK15B;1;40;3;1;0.2;3.2
+Poznañ;WINOGRADY;24;45;4;5;1.19;5.19
+Poznañ;Wichrowe Wzgórze;130;14;2;0;0.0;2.0
+Poznañ;Wierzbêcice;64;135;13;7;2.03;15.03
+Poznañ;Wi¹zowa;5;122;11;4;0.59;11.59
+Poznañ;Wolbromska;20;81;10;0;0.0;10.0
+Poznañ;Wolsztyñska;15;68;9;3;0.89;9.89
+Poznañ;Za Cytadel¹;120;150;6;0;0.0;6.0
+Poznañ;Zawady;26;96;9;3;0.21;9.21
+Poznañ;Z³ota;10;33;4;0;0.0;4.0
+Poznañ;Z³otowska;32;13;1;1;0.8;1.8
+Poznañ;os. B. Chrobrego;6/66;16;8;1;0.6;8.6
+Poznañ;os. Bohaterów II Wojny Œwiat.;30;124;11;4;0.47;11.47
+Poznañ;os. Boles³awa Chrobrego;104;125;9;7;2.46;11.46
+Poznañ;os. Boles³awa Œmia³ego;107;200;0;0;0.0;0.0
+Poznañ;os. Czecha;140;111;14;8;3.47;17.47
+Poznañ;os. Jana III Sobieskiego;105;92;0;0;0.0;0.0
+Poznañ;os. Jana III Sobieskiego;106;150;12;9;1.27;13.27
+Poznañ;os. Jana III Sobieskiego;52;19;1;1;0.5;1.5
+Poznañ;os. Kosmonautów;111;125;0;0;0.0;0.0
+Poznañ;os. Lecha;14;119;22;5;2.52;24.52
+Poznañ;os. Or³a BIa³ego;72;125;14;8;0.69;14.69
+Poznañ;os. Or³a Bia³ego;29;125;11;2;0.18;11.18
+Poznañ;os. Oœwiecenia;26;123;11;4;0.55;11.55
+Poznañ;os. Piastowskie;105;116;11;7;1.77;12.77
+Poznañ;os. Piastowskie;26;99;8;5;1.07;9.07
+Poznañ;os. Piastowskie;55;95;8;4;0.17;8.17
+Poznañ;os. PrzyjaŸni;126;117;10;3;1.0;11.0
+Poznañ;os. Rusa;7;73;8;4;0.41;8.41
+Poznañ;os. Rzeczypospolitej;43;96;16;4;0.88;16.88
+Poznañ;os. Stare ¯egrze;1;143;0;0;0.0;0.0
+Poznañ;os. Strare ¯egrze;55;24;4;0;0.0;4.0
+Poznañ;os. Winiary;2;190;21;4;1.05;22.05
+Poznañ;os. W³adys³awa £okietka;104;272;0;0;0.0;0.0
+Poznañ;os.Boles³awa Chrobrego;121;164;18;3;0.58;18.58
+Poznañ;os.Czecha;76;124;9;6;1.72;10.72
+Poznañ;os.Piastowskie;42;40;5;0;0.0;5.0
+Poznañ;os.Polan;1;42;5;3;0.89;5.89
+Poznañ;os.Rzeczypospolitej;7;124;9;4;1.03;10.03
+Poznañ;os.Wichrowe Wzgórze;118;125;12;4;0.43;12.43
+Poznañ;osiedle Armii Krajowej;97;123;8;4;1.71;9.71
+Poznañ;osiedle Dêbina;15;125;11;7;0.59;11.59
+Poznañ;oœ. Wichrowe Wzgórze;112;125;12;3;0.29;12.29
+Poznañ;ul. Œw. Antoniego;42;150;13;5;0.46;13.46
+Poznañ;£agodna;4;49;3;0;0.0;3.0
+Poznañ;£ozowa;77;75;0;0;0.0;0.0
+Poznañ;£ubinowa;7;17;3;0;0.0;3.0
+Poznañ;£ukaszewicza;35;70;6;6;0.37;6.37
+Poznañ;£ukaszewicza;9/13;24;1;0;0.0;1.0
+Poznañ;Œw. Kingi;1A;100;7;4;1.07;8.07
+Poznañ;Œwit;16A;118;12;4;0.33;12.33
+Poznañ;Œwit;40/42;130;9;0;0.0;9.0
+Poznañ;œw. Czes³awa;6A;100;8;4;0.43;8.43
+Poznañ;œw. Rocha;10;24;1;0;0.0;1.0
+Poznañ;¯onkilowa;34;13;1;0;0.0;1.0
