@@ -1,777 +1,777 @@
-miasto;Ulica;Nr domu;Kod poczt.;miasto;Publiczność;Uczniowie;odzialy;pelnozatrudnieni;stos. Pracy;w etatach;suma etatów
-Poznań;Świt;40/42;60-376;Poznań;001;130;6.00;9;0;0.00;9.00
-Poznań;Wierzbęcice;64;61-548;Poznań;001;135;6.00;13;7;2.03;15.03
-Poznań;Jawornicka;17;60-161;Poznań;001;146;6.00;15;3;0.44;15.44
-Poznań;os. Oświecenia;26;61-206;Poznań;001;123;5.00;11;4;0.55;11.55
-Poznań;Świt;16A;60-375;Poznań;001;118;5.00;12;4;0.33;12.33
-Poznań;Osinowa;14a;61-451;Poznań;001;116;5.00;11;2;0.66;11.66
-Poznań;os.Rzeczypospolitej;7;61-395;Poznań;001;124;5.00;9;4;1.03;10.03
-Poznań;Os.Pod Lipami;107;61-632;Poznań;001;81;5.00;17;5;1.91;18.91
-Poznań;os. Piastowskie;105;61-164;Poznań;001;116;5.00;11;7;1.77;12.77
-Poznań;Płomienna;1;60-392;Poznań;001;117;5.00;9;3;1.61;10.61
-Poznań;os. Piastowskie;55;61-156;Poznań;001;95;4.00;8;4;0.17;8.17
-Poznań;Biskupińska;65;60-463;Poznań;001;50;2.00;5;6;1.61;6.61
-Poznań;os. Bohaterów II Wojny Świat.;30;61-386;Poznań;001;124;5.00;11;4;0.47;11.47
-Poznań;os. Piastowskie;26;61-148;Poznań;001;99;4.00;8;5;1.07;9.07
-Poznań;Os. Pod Lipami;102;61-632;Poznań;001;145;6.00;12;6;0.47;12.47
-Poznań;Os.Przyjaźni;135;61-687;Poznań;001;125;5.00;16;3;0.35;16.35
-Poznań;Keplera;5;60-158;Poznań;001;149;6.00;15;7;0.64;15.64
-Poznań;Osiedle Przyjażni;117;61-681;Poznań;001;125;5.00;11;1;0.12;11.12
-Poznań;Os.Kosmonautów;108;61-642;Poznań;001;123;5.00;10;9;1.55;11.55
-Poznań;Tczewska;11;60-454;Poznań;001;140;7.00;14;9;1.95;15.95
-Poznań;Przyjazni;129;61-683;Poznań;001;125;5.00;12;0;0.00;12.00
-Poznań;Sarmacka;5;61-616;Poznań;001;100;4.00;10;5;0.43;10.43
-Poznań;Marcina Rożka;9;60-465;Poznań;001;149;6.00;13;3;0.46;13.46
-Poznań;os.Czecha;76;61-289;Poznań;001;124;5.00;9;6;1.72;10.72
-Poznań;os.Bolesława Chrobrego;121;60-681;Poznań;001;164;7.00;18;3;0.58;18.58
-Poznań;ul. Św. Antoniego;42;61-359;Poznań;001;150;6.00;13;5;0.46;13.46
-Poznań;OS.RUSA;120;61-245;POZNAŃ;001;143;6.00;13;5;1.00;14.00
-Poznań;os. Winiary;2;60-665;Poznań;001;190;9.00;21;4;1.05;22.05
-Poznań;Os.Kosmonautów;107;61-624;Poznań;001;124;5.00;11;4;0.89;11.89
-Poznań;Sarmacka;105 A;61-616;Poznań;001;64;3.00;7;4;0.63;7.63
-Poznań;OSIEDLE TYSIĄCLECIA;69;61-255;POZNAŃ;001;137;6.00;13;1;0.22;13.22
-Poznań;os. Rusa;7;61-245;Poznań;001;73;5.00;8;4;0.41;8.41
-Poznań;B. Chrobrego;106;60-681;Poznań;001;125;5.00;11;3;0.38;11.38
-Poznań;Głuszyna;206A;61-329;Poznań;001;120;5.00;12;3;0.34;12.34
-Poznań;Podlaska;2;60-622;Poznań;001;75;4.00;7;2;0.08;7.08
-Poznań;0s.Jana III Sobieskiego;108;60-688;Poznań;001;149;5.96;13;10;1.49;14.49
-Poznań;Saperska;29;61-494;Poznań;001;70;3.00;6;3;0.30;6.30
-Poznań;os. Orła BIałego;72;61-251;Poznań;001;125;5.00;14;8;0.69;14.69
-Poznań;os.Polan;1;61-253;Poznań;001;42;3.00;5;3;0.89;5.89
-Poznań;os. Jana III Sobieskiego;106;60-688;Poznań;001;150;6.00;12;9;1.27;13.27
-Poznań;Sióstr Misjonarek;1;61-680;Poznń;001;49;2.75;8;3;0.41;8.41
-Poznań;os.Wichrowe Wzgórze;118;61-674;Poznań;001;125;5.00;12;4;0.43;12.43
-Poznań;osiedle Dębina;15;61-450;Poznań;001;125;5.00;11;7;0.59;11.59
-Poznań;Osiedle Bolesława Śmiałego;105;60-682;Poznań;001;175;7.00;13;8;1.60;14.60
-Poznań;Grobla;1;61-858;Poznań;001;99;5.00;10;3;0.26;10.26
-Poznań;os. Orła Białego;29;61-251;Poznań;001;125;5.00;11;2;0.18;11.18
-Poznań;Os. Orła Białego;102;61-251;Poznań;001;123;5.00;12;10;0.79;12.79
-Poznań;Orzechowa;2 B;61-447;Poznań;001;100;4.00;9;4;0.39;9.39
-Poznań;Głogowska;97;60-265;Poznań;001;98;4.00;11;7;0.95;11.95
-Poznań;Tomickiego;3;61-116;Poznań;001;95;4.00;9;2;0.15;9.15
-Poznań;Galileusza;7;60-159;Poznań;001;121;5.00;12;3;0.17;12.17
-Poznań;Księcia Józefa;1/3;61-718;Poznań;001;75;3.00;7;5;1.21;8.21
-Poznań;Dojazd;3;60-632;Poznań;001;75;4.00;9;2;0.17;9.17
-Poznań;Michała Sobeskiego;1;60-566;Poznań;001;133;6.00;14;3;0.29;14.29
-Poznań;Mielżyńskiego;21;61-725;Poznań;001;98;4.00;9;4;0.22;9.22
-Poznań;Chociszewskiego;44c;60-259;Poznań;001;100;4.00;10;4;0.81;10.81
-Poznań;Os. Bolesława Chrobrego;109;60-681;Poznań;001;170;7.00;17;4;0.45;17.45
-Poznań;Perzycka;30B;60-182;Poznań;001;175;8.00;20;5;1.38;21.38
-Poznań;oś. Wichrowe Wzgórze;112;61-674;POZNAŃ;001;125;5.00;12;3;0.29;12.29
-Poznań;JUNIKOWSKA;15;60-163;POZNAŃ;001;125;5.00;10;3;1.04;11.04
-Poznań;Limanowskiego;23B;60-744;Poznań;001;100;4.00;8;6;1.30;9.30
-Poznań;Św. Kingi;1A;61-055;Poznań;001;100;4.00;7;4;1.07;8.07
-Poznań;Cześnikowska;18a;60-330;Poznań;001;137;6.00;13;8;1.69;14.69
-Poznań;Prądzyńskiego;15a;61-527;Poznań;001;125;5.00;12;2;0.25;12.25
-Poznań;Romana Dmowskiego;17;60-222;Poznań;001;137;6.00;11;7;1.75;12.75
-Poznań;Trzemeszeńska;12;61-038;Poznań;001;168;7.00;16;2;1.19;17.19
-Poznań;Księżycowa;10;60-281;Poznań;001;175;7.00;17;3;0.63;17.63
-Poznań;SENATORSKA;1;60-326;POZNAŃ;001;72;3.00;5;4;1.09;6.09
-Poznań;Łukaszewicza;35;60-720;Poznań;001;70;3.00;6;6;0.37;6.37
-Poznań;Głogowska;40;60-736;Poznań;001;74;3.00;7;6;0.84;7.84
-Poznań;os. Lecha;14;61-293;Poznań;001;119;7.00;22;5;2.52;24.52
-Poznań;Dolina;6;61-551;Poznań;001;70;3.00;6;6;1.39;7.39
-Poznań;Wolsztyńska;15;60-361;Poznań;001;68;4.00;9;3;0.89;9.89
-Poznań;Lecha;79;61-296;Poznań;001;138;6.00;13;6;1.34;14.34
-Poznań;WINOGRADY;24;61-663;POZNAŃ;001;45;2.00;4;5;1.19;5.19
-Poznań;Czechosłowacka;29;61-456;Poznań;001;98;4.00;10;4;0.21;10.21
-Poznań;Noskowskiego;35/37;61-705;Poznań;001;141;6.00;12;4;0.52;12.52
-Poznań;Słowicza;15;60-121;POZNAŃ;001;212;9.00;22;3;0.82;22.82
-Poznań;Piwna;1 A;61-066;Poznań;001;93;4.00;9;5;0.43;9.43
-Poznań;Chopina;3;61-708;Poznań;001;155;7.00;19;5;0.85;19.85
-Poznań;Mikołowska;14;60-102;Poznań;001;70;3.00;7;3;0.55;7.55
-Poznań;Skarbka;9;60-348;Poznań;001;75;4.00;7;5;1.08;8.08
-Poznań;Galla Anonima;13;60-547;Poznań;001;119;5.00;12;3;0.24;12.24
-Poznań;os. Czecha;140;61-292;Poznań;001;111;6.00;14;8;3.47;17.47
-Poznań;Kazimierza Wielkiego;19/21;61-863;Poznań;001;178;8.00;17;9;3.54;20.54
-Poznań;Sporna;4;61-709;Poznań;001;100;4.00;9;6;0.46;9.46
-Poznań;Marka Hłaski;16;60-461;Poznań;001;240;10.00;22;2;0.42;22.42
-Poznań;Bosa;16;60-125;Poznań;001;75;3.00;6;5;0.57;6.57
-Poznań;Limbowa;2;61-446;Poznań;001;46;4.00;20;3;1.60;21.60
-Poznań;Zawady;26;61-002;Poznań;001;96;4.00;9;3;0.21;9.21
-Poznań;Kasztelańska;19;60-316;Poznań;001;75;3.00;6;7;0.42;6.42
-Poznań;Juliusza Słowackiego;15;60-822;Poznań;001;120;5.00;10;9;2.64;12.64
-Poznań;św. Czesława;6A;61-575;Poznań;001;100;5.00;8;4;0.43;8.43
-Poznań;Kasprzaka;46;60-245;Poznań;001;85;4.00;9;5;0.79;9.79
-Poznań;Os. Jagiellońskie;9;61-226;Poznań;001;99;4.00;8;5;0.50;8.50
-Poznań;Cześnikowska;19a;60-329;Poznań;001;69;5.00;16;4;1.58;17.58
-Poznań;Skibowa;13;61-312;Poznań;001;200;8.00;21;2;0.37;21.37
-Poznań;Janickiego;24A;60-544;Poznań;001;124;5.00;11;1;0.50;11.50
-Poznań;Pułaskiego;16;60-607;Poznań;001;70;4.00;8;4;0.35;8.35
-Poznań;Wiązowa;5;61-432;Poznań;001;122;5.00;11;4;0.59;11.59
-Poznań;Os. Boh. II Wojny Światowej;1;61-388;Poznań;001;121;5.00;14;3;0.31;14.31
-Poznań;os. Bolesława Chrobrego;104;60-681;Poznań;001;125;5.00;9;7;2.46;11.46
-Poznań;Libelta;35;61-707;Poznań;001;30;5.00;19;0;0.00;19.00
-Poznań;Swoboda;57;60-391;Poznań;001;100;4.00;8;6;0.44;8.44
-Poznań;os. Rzeczypospolitej;43;61-395;Poznań;001;96;5.00;16;4;0.88;16.88
-Poznań;Nadolnik;9a;61-012;Poznań;001;75;3.00;6;1;0.13;6.13
-Poznań;Fabianowo;29;60-005;Poznań;001;111;5.00;5;8;1.87;6.87
-Poznań;Sierakowska;23;60-367;Poznań;001;123;5.00;11;6;1.68;12.68
-Poznań;Chojnicka;72;60-480;Poznań;001;125;5.00;5;0;0.00;5.00
-Poznań;Słowackiego;58/60;60-521;Poznań;001;125;5.00;2;9;6.13;8.13
-Poznań;Lecha;43;61-294;Poznań;001;39;3.00;5;2;0.30;5.30
-Poznań;Bukowska;47a;60-555;POZNAŃ;001;118;5.00;9;2;1.50;10.50
-Poznań;Druskienicka;32;60-476;Poznań;001;93;4.00;0;6;4.33;4.33
-Poznań;Os. Wł. Łokietka;4h;61-616;Poznań;001;29;2.00;3;1;0.07;3.07
-Poznań;Os. Łokietka;3D;61-616;Poznań;001;32;2.00;3;1;0.07;3.07
-Poznań;Za Cytadelą;120;61-659;Poznań;001;150;6.00;6;0;0.00;6.00
-Poznań;Łagodna;4;60-680;Poznań;001;49;2.00;3;0;0.00;3.00
-Poznań;STAROŁĘCKA;42;61-341;POZNAŃ;001;75;3.00;4;2;1.50;5.50
-Poznań;Naramowicka;244;61-611;polska;001;30;2.00;0;1;0.25;0.25
-Poznań;Bogusza;8a;61-608;Poznań;004;39;2.00;5;0;0.00;5.00
-Poznań;Drewlańska;10;61-614;Poznan;004;26;2.00;2;0;0.00;2.00
-Poznań;Madziarska;1;61-615;Poznan;004;17;1.00;1;0;0.00;1.00
-Poznań;Kolejowa;29a;60-718;Poznań;004;27;3.00;3;1;0.50;3.50
-Poznań;Mazowiecka;26;60-623;Poznań;004;18;2.00;1;0;0.00;1.00
-Poznań;Mazowiecka;6;60-617;Poznań;004;98;5.00;13;0;0.00;13.00
-Poznań;Mazowiecka;20;60-617;Poznań;004;48;3.00;7;0;0.00;7.00
-Poznań;Kościelskiego;12;60-573;Poznań;004;42;3.00;1;5;3.92;4.92
-Poznań;Gerberowa;30;60-175;Poznań;004;21;2.00;4;0;0.00;4.00
-Poznań;Piwna;1a;61-065;Poznań;004;34;2.00;3;0;0.00;3.00
-Poznań;Palucha;15;60-409;Poznań;004;34;3.00;4;1;0.50;4.50
-Poznań;M.Pawlikowskiej-Jasnorzewskiej;12a;60-461;Poznań;004;32;3.00;7;0;0.00;7.00
-Poznań;Dziurawcowa;11;61-680;Poznań;004;9;1.00;0;1;0.63;0.63
-Poznań;Bliźniąt;12/2;61-244;Poznań;004;22;1.00;2;1;0.50;2.50
-Poznań;Dąbrowskiego;172;60-594;Poznań;004;16;1.00;1;0;0.00;1.00
-Poznań;Maków Polnych;2/2a;61-606;Poznań;004;54;3.00;10;1;0.25;10.25
-Poznań;Jeleniogórska;7;60-179;Poznań;004;16;2.00;5;0;0.00;5.00
-Poznań;REJTANA;8;60-653;POZNAŃ;004;42;3.00;3;2;0.63;3.63
-Poznań;Słoneczna;19;60-258;Poznań - Grunwald;004;27;2.00;5;0;0.00;5.00
-Poznań;Leszka;25A;61-062;Poznań;004;19;2.00;4;0;0.00;4.00
-Poznań;Oś. Jana III Sobieskiego;116;60-688;Poznań;004;75;3.00;8;1;0.40;8.40
-Poznań;Rzepińska;19;60-176;Poznań;004;23;1.00;1;0;0.00;1.00
-Poznań;Os.Pod Lipami;17;61-638;Poznań;004;26;2.00;3;2;0.72;3.72
-Poznań;os. Strare Żegrze;55;61-249;Poznań Nowe Miasto;004;24;3.00;4;0;0.00;4.00
-Poznań;Kaliowa;39;60-175;Poznań;004;50;4.00;6;1;0.75;6.75
-Poznań;Plac Wiktora Degi;9;61-606;Poznań;004;110;8.00;9;0;0.00;9.00
-Poznań;Sowice29;29;61-306;Poznań;004;34;1.00;4;0;0.00;4.00
-Poznań;Milczańska;1;61-131;ul. Katowicka;004;56;5.00;0;6;1.20;1.20
-Poznań;Lubowska;53;60-454;Poznań;004;19;2.00;2;4;1.43;3.43
-Poznań;Hipolita Cegielskiego;1;61-862;Poznań;004;35;4.00;5;0;0.00;5.00
-Poznań;Dmowskiego;50;60-204;Poznań;004;16;1.00;1;0;0.00;1.00
-Poznań;Glebowa;36;61-312;Poznań;004;13;1.00;2;0;0.00;2.00
-Poznań;Łukaszewicza;9/13;60-409;Poznań;004;24;1.00;1;0;0.00;1.00
-Poznań;św. Rocha;10;61-142;Poznań;004;24;0.96;1;0;0.00;1.00
-Poznań;Harcerska;3;61-011;Poznań;004;18;1.00;1;0;0.00;1.00
-Poznań;28 Czerwca 1956;290;61-469;Poznań;004;24;1.00;2;0;0.00;2.00
-Poznań;Żonkilowa;34;60-175;Poznań;004;13;1.00;1;0;0.00;1.00
-Poznań;Gajowa;8/12;60-815;Poznań;004;18;1.00;2;0;0.00;2.00
-Poznań;Mińska;32;61-049;Poznań;004;31;2.00;3;6;0.93;3.93
-Poznań;osiedle Armii Krajowej;97;61-381;Poznań;004;123;5.00;8;4;1.71;9.71
-Poznań;Gnieźnieńska;2;61-015;Poznań;004;21;2.00;3;0;0.00;3.00
-Poznań;Bosa;15;60-125;Poznań;004;5;1.00;2;0;0.00;2.00
-Poznań;Marcelińska;96c/220;60-324;Poznań;004;19;2.00;1;2;1.25;2.25
-Poznań;Poznańskie Sady;18;61-312;Poznań;004;15;1.00;1;1;0.50;1.50
-Poznań;Sośnicka;10;61-058;Poznań;004;54;3.00;3;0;0.00;3.00
-Poznań;Polanka;7F;61-131;Poznań;004;55;4.00;7;0;0.00;7.00
-Poznań;Pucka;18;60-454;Poznań;004;18;2.00;2;1;0.17;2.17
-Poznań;Strzeszyńska;67A;60-479;Poznań;004;37;3.00;5;0;0.00;5.00
-Poznań;Kościerzyńska;76/78;60-446;Poznań;004;13;2.00;0;10;3.00;3.00
-Poznań;Lęborska;51;60-454;Poznań;004;37;3.00;3;0;0.00;3.00
-Poznań;Przełęcz;60;60-115;Poznań;004;34;3.00;5;0;0.00;5.00
-Poznań;Grudzieniec;34;60-601;Poznań;004;75;6.00;10;1;0.25;10.25
-Poznań;Darzyborska;1a;61-303;Poznań;004;19;2.00;4;6;2.10;6.10
-Poznań;GÓRCZYŃSKA;46/1;60-132;POZNAŃ;004;17;1.00;4;0;0.00;4.00
-Poznań;Vetulaniego 11/Krasickiego 25;;61-409;Poznań;004;42;3.00;5;0;0.00;5.00
-Poznań;Kosowska;42;60-464;Poznań;004;149;9.00;12;0;0.00;12.00
-Poznań;Nad Seganką;6;60-541;Poznań;004;18;3.00;7;1;0.13;7.13
-Poznań;Powidzka;10;61-039;Poznań;004;32;3.00;4;0;0.00;4.00
-Poznań;Roślinna;36a;61-311;Poznań;004;26;2.00;0;2;0.06;0.06
-Poznań;Grochowe Łąki;2/A1;61-752;Poznań;004;19;2.00;0;1;0.17;0.17
-Poznań;Saperska;51/1;61-493;Poznań;004;36;3.00;5;1;0.28;5.28
-Poznań;Złotowska;32;60-189;Poznań;004;13;1.00;1;1;0.80;1.80
-Poznań;Bułgarska;19;60-320;Poznań;004;71;5.00;4;3;2.39;6.39
-Poznań;Naramowicka;222;61-611;Poznań;004;74;5.00;10;0;0.00;10.00
-Poznań;Podchorążych;22;60-143;Poznań;004;58;2.00;4;1;0.02;4.02
-Poznań;Nad Seganką;4;60-541;Poznań;004;25;3.00;4;1;0.74;4.74
-Poznań;Kłuszyńska;19;60-136;Poznań;004;133;6.00;11;0;0.00;11.00
-Poznań;Nad Różanym Potokiem;43;61-680;Poznań;004;41;3.00;3;0;0.00;3.00
-Poznań;Marcinkowskiego;1;61-745;Poznań;004;40;3.00;7;2;0.36;7.36
-Poznań;Prądzyńskiego;55;61-527;Poznań;004;15;1.00;1;0;0.00;1.00
-Poznań;Golęcińska;9;60-626;Poznań;004;16;1.00;1;4;0.83;1.83
-Poznań;Dobrowita;22;61-062;Poznań;004;87;5.00;7;2;0.88;7.88
-Poznań;Rynek Wildecki;4;61-547;Poznań;004;44;2.00;5;0;0.00;5.00
-Poznań;Berwińskigo;2/4;60-765;Poznań;004;57;7.00;23;2;1.10;24.10
-Poznań;Na Uboczu;8;60-115;Poznań;004;19;2.00;1;0;0.00;1.00
-Poznań;ROMKA STRZAŁKOWSKIEGO;5/7;60-854;POZNAŃ;004;59;4.00;1;0;0.00;1.00
-Poznań;Czesława Miłosza;31;60-461;Poznań;004;3;1.00;2;1;0.50;2.50
-Poznań;Wolbromska;20;61-341;Poznań;004;81;5.00;10;0;0.00;10.00
-Poznań;Miłosławska;4;61-029;Poznań;004;45;2.00;0;4;1.52;1.52
-Poznań;Kolorowa;10;60-198;POZNAŃ;004;8;1.00;2;0;0.00;2.00
-Poznań;Bartoszycka;7;60-434;Poznań;004;35;2.00;3;0;0.00;3.00
-Poznań;os. Przyjaźni;126;61-684;Poznań;004;117;5.00;10;3;1.00;11.00
-Poznań;Stęszewska;6;60-111;Poznań;004;17;2.00;2;1;0.50;2.50
-Poznań;RUBIEŻ;46;61-612;POZNAŃ;004;54;3.00;6;1;0.50;6.50
-Poznań;Jasna Rola;58;61-609;Poznań;004;45;4.00;6;0;0.00;6.00
-Poznań;os. Jana III Sobieskiego;52;60-688;Poznań;004;19;2.00;1;1;0.50;1.50
-Poznań;KARPIA;17B/lok28;61-619;POZNAŃ;004;7;1.00;2;0;0.00;2.00
-Poznań;Brzeska;7;61-048;Poznan;004;33;1.00;1;3;1.75;2.75
-Poznań;Smoluchowskiego;5;60-179;Poznań;004;14;3.00;2;0;0.00;2.00
-Poznań;Rycerska;8;60-346;Poznań;004;28;2.00;2;2;1.30;3.30
-Poznań;Grunwaldzla;68;60-311;Poznań;004;60;4.00;8;0;0.00;8.00
-Poznań;Grunwaldzka;182;60-166;Poznań;004;47;3.00;9;0;0.00;9.00
-Poznań;Rejtana;6;60-653;Poznań;004;27;2.00;3;0;0.00;3.00
-Poznań;Gnieźnieńska;32;61-021;Poznań;004;49;4.00;5;0;0.00;5.00
-Poznań;Perzycka;11;60-182;Poznań;004;44;3.00;8;2;0.58;8.58
-Poznań;Kartuska;17;60-471;Poznań;004;75;4.00;5;0;0.00;5.00
-Poznań;Lubeckiego;30a;60-348;Poznań;004;19;1.00;1;0;0.00;1.00
-Poznań;Złota;10;60-592;Poznań;004;33;2.00;4;0;0.00;4.00
-Poznań;Umultowska;100A;61-614;Poznań;004;25;3.00;5;0;0.00;5.00
-Poznań;Miastkowska;124;60-184;Poznań;004;70;4.00;8;0;0.00;8.00
-Poznań;os.Piastowskie;42;61-152;Poznań;004;40;5.00;5;0;0.00;5.00
-Poznań;os. B. Chrobrego;6/66;60-681;Poznań;004;16;2.00;8;1;0.60;8.60
-Poznań;Wichrowe Wzgórze;130;61-699;Poznań;004;14;2.00;2;0;0.00;2.00
-Poznań;WILCZAK15B;1;61-623;POZNAŃ;004;40;1.00;3;1;0.20;3.20
-Poznań;Łubinowa;7;60-175;Poznań;004;17;2.00;3;0;0.00;3.00
-Poznań;Libelta;31;61-707;Poznań;004;43;3.00;8;3;1.09;9.09
-Poznań;Mickiewicza;32/3;60-836;Poznań;004;62;3.00;9;4;2.20;11.20
-Poznań;Grabowa;33;61-473;Poznań;004;48;3.00;7;1;0.56;7.56
-Poznań;Głogowska;92;60-262;Poznań;001;397;16.00;24;24;12.66;36.66
-Poznań;SIERAKOWSKA;23;60-367;POZNAŃ;001;311;13.00;24;16;6.82;30.82
-Poznań;Mińska;32;61-049;Poznań;001;103;7.00;3;21;9.71;12.71
-Poznań;Fabianowo;29;60-005;Poznań;001;180;9.00;2;27;14.21;16.21
-Poznań;Chojnicka;57;60-480;Poznań;001;613;28.00;50;16;10.44;60.44
-Poznań;HEZJODA;15;60-461;POZNAŃ;001;1 066;49.00;99;46;13.85;112.85
-Poznań;BOSA;9;60-125;POZNAŃ;001;526;26.00;51;18;10.34;61.34
-Poznań;os. Wichrowe Wzgórze;119;61-699;Poznań;001;483;25.00;52;14;8.02;60.02
-Poznań;Osiedle Piastowskie;65;61-156;Poznań;001;340;17.00;44;9;4.03;48.03
-Poznań;os. B. Chrobrego;105;60-681;Poznań;001;759;36.00;61;11;6.03;67.03
-Poznań;os. Armii Krajowej;100;61-381;Poznań;001;456;22.00;49;3;1.80;50.80
-Poznań;os. Oświecenia;1;61-205;Poznań;001;447;23.00;46;7;4.26;50.26
-Poznań;os. Jagiellońskie;128;61-223;Poznań;001;377;15.00;29;25;12.91;41.91
-Poznań;os. Rzeczypospolitej;44;61-395;Poznań;001;517;28.00;68;7;2.74;70.74
-Poznań;Norwida;21;60-867;Poznań;001;344;19.00;38;9;3.83;41.83
-Poznań;Prądzyńskiego;53;61-527;Poznań;001;595;40.00;111;33;11.19;122.19
-Poznań;Winiary;2;60-665;Poznań;001;423;20.00;43;8;4.68;47.68
-Poznań;Os.Piastowskie;27;61-149;Poznań;001;303;16.00;30;12;5.59;35.59
-Poznań;Słowackiego;54/56;60-521;Poznań;001;263;14.00;24;16;4.72;28.72
-Poznań;Romana Brandstaettera;6;61-659;Poznań;001;548;24.00;47;8;4.33;51.33
-Poznań;Rawicka;12/14;60-113;Poznań;001;497;23.00;43;13;7.71;50.71
-Poznań;Harcerska;3;61-011;POZNAŃ;001;382;20.00;38;9;4.45;42.45
-Poznań;Inowrocławska;19;61-044;Poznań;001;397;19.00;37;12;6.73;43.73
-Poznań;Sarmacka;105;61-616;Poznań;001;281;16.00;37;4;1.22;38.22
-Poznań;Traugutta;42;61-514;Poznań;001;449;20.00;43;6;3.21;46.21
-Poznań;os.Lecha;37;61-294;Poznań;001;743;34.00;76;12;6.15;82.15
-Poznań;Małoszyńska;38;60-176;Poznań;001;474;21.00;43;6;3.27;46.27
-Poznań;Szpaków;1;61-065;Poznań;001;247;13.00;22;10;4.38;26.38
-Poznań;Leśnowolska;35;60-452;Poznań;001;516;22.00;34;29;14.83;48.83
-Poznań;Ławica;3;60-186;Poznań;001;447;21.00;38;7;3.65;41.65
-Poznań;Baranowska;1;61-353;Poznań;001;289;16.00;28;17;8.17;36.17
-Poznań;osiedle Rusa;56;61-245;Poznań;001;825;39.00;113;7;4.14;117.14
-Poznań;Boranta;2;61-608;Poznań;001;499;23.00;45;5;2.09;47.09
-Poznań;Szczepankowo;72a;61-306;Poznań;001;583;27.00;53;7;4.54;57.54
-Poznań;Druskienicka;32;60-476;Poznań;001;610;28.00;43;20;10.90;53.90
-Poznań;Starołęcka;142;61-341;Poznań;001;280;13.00;21;13;6.67;27.67
-Poznań;os. Orła Białego;120;61-251;Poznań;001;643;31.00;59;11;6.10;65.10
-Poznań;os. Przyjaźni;127;61-684;Poznań;001;682;33.00;72;19;9.89;81.89
-Poznań;Os. St. Batorego;101;60-587;Poznań;001;820;33.00;71;7;4.10;75.10
-Poznań;os. J. III Sobieskiego;102;60-688;Poznań;001;207;24.00;62;3;1.74;63.74
-Poznań;Galileusza;14;60-158;Poznań;001;718;33.00;69;6;3.97;72.97
-Poznań;Piękna;37;60-591;Poznań;001;501;24.00;46;7;3.49;49.49
-Poznań;Przybyszewskiego;37;60-356;Poznań;001;461;23.00;39;12;6.08;45.08
-Poznań;Newtona;2;60-161;Poznań;001;233;10.00;20;18;9.10;29.10
-Poznań;Drzymały;4/6;60-613;Poznań;001;179;7.00;13;11;5.48;18.48
-Poznań;Trybunalska;17/25;60-325;Poznań;001;514;24.00;36;20;10.96;46.96
-Poznań;Powstańców Wielkopolskich;3;61-895;Poznań;001;367;22.00;64;17;9.82;73.82
-Poznań;Dmowskiego;50;60-204;Poznań;001;462;23.00;40;12;6.80;46.80
-Poznań;Żonkilowa;34;60-175;Poznań;001;519;26.00;61;9;5.13;66.13
-Poznań;Pogodna;84;60-137;Poznań;001;314;16.00;27;11;4.46;31.46
-Poznań;Krakowska;10;61-889;Poznań;001;304;17.00;30;16;6.69;36.69
-Poznań;Brandstaettera;1;61-659;Poznań;001;256;10.00;19;21;10.36;29.36
-Poznań;św. Szczepana;3;61-465;Poznań;001;466;21.00;41;23;7.80;48.80
-Poznań;Tomickiego;16;61-116;Poznań;001;273;14.00;28;12;4.93;32.93
-Poznań;Swoboda;53;60-389;Poznań;001;441;22.00;48;8;4.47;52.47
-Poznań;Sochaczewska;3;60-645;POZNAŃ;001;385;18.00;32;10;4.50;36.50
-Poznań;Łukaszewicza;9/13;60-726;Poznań;001;393;24.00;42;8;4.96;46.96
-Poznań;Chociszewskiego;56;60-261;Poznań;001;486;22.00;39;13;5.61;44.61
-Poznań;Promyk;4;60-393;Poznań;001;368;15.00;33;16;4.68;37.68
-Poznań;Juliusza Słowackiego;58/60;60-521;Poznań;001;226;10.00;15;12;5.35;20.35
-Poznań;al. Niepodległości;41;61-714;Poznań;001;323;13.00;16;37;17.29;33.29
-Poznań;Janickiego;22;60-542;Poznań;001;54;6.00;10;11;5.68;15.68
-Poznań;Dąbrowskiego;73;60-523;Poznań;001;36;4.99;7;12;4.98;11.98
-Poznań;Obornicka;314;60-691;Poznań;001;30;10.00;20;17;8.45;28.45
-Poznań;Borówki;10;61-304;Poznań;002;86;7.00;9;6;1.80;10.80
-Poznań;Hipolita Cegielskiego;1;61-862;Poznań;002;134;7.00;4;23;9.19;13.19
-Poznań;Piwna;1;61-065;Poznań;002;311;15.00;17;24;14.79;31.79
-Poznań;Drzymały;4/6;60-613;Poznań;002;124;11.00;15;5;2.51;17.51
-Poznań;Kościerzyńska;76/78;60-446;Poznań;002;242;17.00;0;24;8.14;8.14
-Poznań;Starołęcka;138;61-341;Poznań;002;9;4.00;1;17;3.67;4.67
-Poznań;Al. Niepodległości;36;61-714;Poznań;002;203;16.00;4;30;16.37;20.37
-Poznań;os. Jana III Sobieskiego;109;60-688;Poznań;002;25;6.00;1;18;8.89;9.89
-Poznań;Winogrady;139;61-626;Poznań;002;1;1.00;1;0;0.00;1.00
-Poznań;Przełajowa;5;61-622;Poznań;002;34;8.00;18;0;0.00;18.00
-Poznań;STRZAŁKOWSKIEGO;5/7;60-854;POZNAŃ;002;370;24.00;14;20;8.96;22.96
-Poznań;Darzyborska;1a;61-303;Poznań;002;51;7.00;8;11;5.34;13.34
-Poznań;Kossaka;3;60-759;Poznań;002;154;5.00;0;11;2.48;2.48
-Poznań;Ściegiennego;10;60-128;Poznań;002;137;4.00;0;11;4.29;4.29
-Poznań;św. Michała;50 M;61-118;Poznań;002;512;28.00;55;14;11.96;66.96
-Poznań;Świerzawska;18;60-321;Poznań;002;77;6.00;10;13;4.11;14.11
-Poznań;Druskienicka;6;60-476;Poznań;002;75;10.00;7;12;4.75;11.75
-Poznań;Winogrady;144;61-626;Poznań;002;20;7.00;22;6;3.77;25.77
-Poznań;Os. Wichrowe Wzgórze;114;61-670;Poznań;002;409;25.00;51;9;4.71;55.71
-Poznań;Grabowa;33;61-473;Poznań;002;339;19.00;30;18;13.14;43.14
-Poznań;os. Oświecenia;64;61-209;Poznań;002;326;20.00;38;8;5.07;43.07
-Poznań;Łozowa;77;61-448;Poznań;002;85;8.00;8;19;9.93;17.93
-Poznań;Golęcińska;9;60-626;Poznań;002;414;26.00;28;44;18.97;46.97
-Poznań;Szczepankowo;131;60-840;Poznań;002;64;7.00;10;8;3.18;13.18
-Poznań;Głogowska;147;60-206;Poznań;002;81;6.00;3;26;10.50;13.50
-Poznań;PIĄTKOWSKA;148;60-650;POZNAŃ;002;24;4.00;3;11;4.44;7.44
-Poznań;Mariacka;24/28;61-012;Poznań;002;6;1.00;2;1;0.78;2.78
-Poznań;Taczanowskiego;18;60-147;Poznań;002;437;24.00;38;23;13.44;51.44
-Poznań;Szamotulska;33;60-365;Poznań;002;12;1.00;0;13;1.15;1.15
-Poznań;Ściegiennego;10;60-128;Poznań;002;21;6.00;2;1;0.13;2.13
-Poznań;Łozowa;77;61-488;Poznań;002;20;4.00;8;1;0.15;8.15
-Poznań;Filipińska;4;61-123;Poznań;001;31;2.00;0;13;2.33;2.33
-Poznań;Łozowa;53;61-448;Poznań;001;162;7.00;17;15;4.89;21.89
-Poznań;Ściegiennego;134;60-304;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Mińska;32;61-049;Poznań;001;39;2.00;0;20;4.09;4.09
-Poznań;Hipolita Cegielskiego;1;61-862;Poznań;002;42;2.00;0;21;6.05;6.05
-Poznań;Drzymały;4/6;60-613;Poznań;002;24;2.00;3;10;3.91;6.91
-Poznań;gen. T. Kutrzeby;10;61-719;Poznań;002;106;6.00;2;29;12.31;14.31
-Poznań;os. Lecha;37;61-294;Poznań;002;87;4.00;1;10;4.78;5.78
-Poznań;Kościerzyńska;76/78;60-446;Poznań;002;20;4.00;0;21;2.16;2.16
-Poznań;Starołęcka;138;61-341;Poznań;002;7;2.00;0;18;3.31;3.31
-Poznań;al. Niepodległości;36;61-714;Poznań;002;33;2.00;0;17;3.26;3.26
-Poznań;os. Jana III Sobieskiego;109;60-688;Poznań;002;10;2.00;0;14;4.19;4.19
-Poznań;Piwna;1;61-065;Poznań;002;69;4.00;4;16;6.71;10.71
-Poznań;św. Michała;50 M;61-118;Poznań;002;65;4.00;2;19;6.43;8.43
-Poznań;Strzałkowskiego;5/7;61-854;Poznań;002;33;2.00;0;15;4.60;4.60
-Poznań;Druskienicka;6;60-476;Poznań;002;17;1.00;0;10;3.09;3.09
-Poznań;Grabowa;33;61-473;Poznań;002;68;4.00;2;22;8.10;10.10
-Poznań;Winogrady;144;61-626;Poznań;002;0;0.00;0;0;0.00;0.00
-Poznań;Os. Oświecenia;64;61-209;Poznań;002;57;3.00;1;13;2.54;3.54
-Poznań;Łozowa;77;61-448;Poznań;002;17;2.00;0;15;3.36;3.36
-Poznań;Ściegiennego;134;60-304;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Strzelecka;10;61-845;Poznań;001;554;18.00;37;11;6.16;43.16
-Poznań;Swojska;6;60-592;Poznań;001;613;21.00;42;10;5.99;47.99
-Poznań;Warzywna;24;61-658;Poznań;001;541;18.00;39;12;7.76;46.76
-Poznań;os. Tysiąclecia;43;61-255;Poznań;001;601;29.00;76;27;15.96;91.96
-Poznań;Garbary;24;61-867;Poznań;001;542;19.00;33;29;10.68;43.68
-Poznań;Strzałkowskiego;5/7;61-854;Poznań;001;133;6.00;3;21;11.67;14.67
-Poznań;Ściegiennego;134;60-304;Poznań;001;174;3.00;2;8;1.31;3.31
-Poznań;Głogowska;92;60-262;Poznań;001;175;6.00;5;26;13.46;18.46
-Poznań;Zmartwychwstańców;10;61-501;Poznań;001;738;24.00;49;12;5.64;54.64
-Poznań;Żeromskiego;8/12;60-544;Poznań;001;579;19.00;40;20;12.12;52.12
-Poznań;Hipolita Cegielskiego;1;61-862;Poznań;001;653;21.00;39;22;13.95;52.95
-Poznań;Ściegiennego;134;60-304;Poznań;001;548;18.00;40;14;8.97;48.97
-Poznań;Kutrzeby;8;61-719;Poznań;001;468;16.00;29;18;8.23;37.23
-Poznań;os. Piastowskie;106;61-164;Poznań;001;258;10.00;22;17;5.56;27.56
-Poznań;OS. BOLESŁAWA CHROBREGO;107;60-681;POZNAŃ;001;432;18.00;38;9;5.88;43.88
-Poznań;Osiedle Wichrowe Wzgórze;111;61-699;Poznań;001;507;20.00;44;29;15.08;59.08
-Poznań;Widna;1;60-655;Poznań;001;301;11.00;22;23;10.05;32.05
-Poznań;Klaudyny Potockiej;38;60-211;Poznań;001;118;8.00;10;19;8.98;18.98
-Poznań;Małoszyńska;38;60-176;Poznań;001;352;11.00;31;16;7.68;38.68
-Poznań;Półwiejska;9/6;61-885;Poznań;002;109;6.00;0;3;0.99;0.99
-Poznań;Starołęcka;138;61-341;POZNAŃ;002;3;1.00;0;15;3.52;3.52
-Poznań;Starołęcka;138;61-341;Poznań;002;10;3.00;1;14;2.88;3.88
-Poznań;gen. T. Kutrzeby;10;61-719;Poznań;002;48;5.00;1;21;6.55;7.55
-Poznań;Szamotulska;33;60-365;Poznań;002;80;6.00;0;10;3.05;3.05
-Poznań;Półwiejska;30;61-888;Poznań;002;109;6.00;0;10;0.51;0.51
-Poznań;Bułgarska;55;60-320;Poznań;002;70;3.00;0;10;2.20;2.20
-Poznań;os. Przyjaźni;136;61-685;Poznań;002;207;8.00;0;12;3.56;3.56
-Poznań;Bosa;9;60-125;Poznań;002;48;3.00;1;9;1.49;2.49
-Poznań;Podgórna 3;1;61-829;Poznań;002;57;4.00;0;8;0.75;0.75
-Poznań;Os. Rusa;56;61-245;Poznań;002;168;7.00;2;9;1.73;3.73
-Poznań;Taczanowskiego;18;60-147;Poznań;002;125;7.00;4;18;9.42;13.42
-Poznań;Głogowska;147;60-206;Poznań;002;44;3.00;4;22;7.83;11.83
-Poznań;al. Niepodległości;43;61-714;Poznań;002;106;4.00;2;40;17.45;19.45
-Poznań;Szamotulska;33;60-365;Poznań;002;27;1.00;0;15;1.70;1.70
-Poznań;os. Lecha;37;61-294;Poznań;002;130;6.00;1;10;5.68;6.68
-Poznań;Przełajowa;5;61-622;Poznań;002;2;1.00;12;0;0.00;12.00
-Poznań;Półwiejska;20/7a;61-888;Poznań;002;89;4.00;2;4;1.61;3.61
-Poznań;Półwiejska;23/6;61-885;Poznań;002;133;7.00;0;13;3.40;3.40
-Poznań;Kossaka;3;60-759;Poznań;002;504;9.00;0;17;4.74;4.74
-Poznań;Ściegiennego;10;60-128;Poznań;002;309;9.00;0;21;8.91;8.91
-Poznań;św. Jerzego;6/10;60-546;Poznań;002;101;3.00;0;12;3.18;3.18
-Poznań;os. Jagiellońskie;128;61-223;Poznań;002;96;3.00;0;5;1.06;1.06
-Poznań;Słowackiego;58/60;60-521;Poznań;002;107;5.00;1;21;7.72;8.72
-Poznań;os. Tysiąclecia;43;61-255;Poznań;002;306;6.00;0;8;2.58;2.58
-Poznań;Os. Kosmonautów;111;61-642;Poznań;002;179;5.00;0;7;1.79;1.79
-Poznań;Półwiejska;25/2;61-889;Poznań;002;216;5.00;0;9;2.50;2.50
-Poznań;27 Grudnia;7;61-737;Poznań;002;662;13.00;0;14;5.69;5.69
-Poznań;Dąbrowskiego;163;60-594;Poznań;001;284;11.00;31;16;7.93;38.93
-Poznań;Golęcińska;9;60-626;Poznań;001;468;18.00;37;8;4.35;41.35
-Poznań;ul. 28 Czerwca 1956 r.;352/360;61-441;Poznań;001;505;20.00;42;22;11.02;53.02
-Poznań;Rynek Jeżycki;1;60-847;Poznań;002;197;12.00;9;20;9.97;18.97
-Poznań;Strzałkowskiego;5/7;60-854;Poznań;001;22;3.00;0;7;1.58;1.58
-Poznań;Czechosłowacka;27;61-459;Poznań;001;177;8.00;48;0;0.00;48.00
-Poznań;Orzeszkowej;1;60-778;Poznań;002;146;8.00;0;26;8.95;8.95
-Poznań;Półwiejska;9/6;61-885;Poznań;002;84;3.00;0;3;1.06;1.06
-Poznań;Półwiejska;9/6;61-885;Poznań;002;363;14.00;0;3;0.99;0.99
-Poznań;Półwiejska;25/2;61-889;Poznań;002;636;13.00;0;14;5.92;5.92
-Poznań;GAJOWA;8/1;61-815;POZNAŃ;002;48;3.00;3;0;0.00;3.00
-Poznań;Półwiejska;20/7a;61-888;Poznań;002;27;1.00;0;4;1.61;1.61
-Poznań;Półwiejska;20/7a;61-888;Poznań;002;242;16.00;0;17;9.45;9.45
-Poznań;Półwiejska;23/6;61-885;Poznań;002;311;13.00;1;27;7.14;8.14
-Poznań;Półwiejska;23/6;61-885;Poznań;002;483;27.00;2;35;10.59;12.59
-Poznań;Elizy Orzeszkowej;1;60-778;Poznań;002;0;0.00;0;0;0.00;0.00
-Poznań;27 Grudnia;7;61-737;POZNAŃ;002;1 332;36.00;0;40;18.89;18.89
-Poznań;Podgórna 3;1;61-829;Poznań;002;400;13.00;0;23;2.94;2.94
-Poznań;Półwiejska;25/2;61-889;Poznań;002;131;4.00;0;8;2.22;2.22
-Poznań;Bydgoska;4a;61-127;Poznań;002;27;2.00;0;3;1.00;1.00
-Poznań;Półwiejska;25/2;61-889;Poznań;002;153;4.00;0;7;2.27;2.27
-Poznań;Rynek Jeżycki;1;60-847;Poznań;002;351;22.00;1;21;12.61;13.61
-Poznań;Szamotulska;33;60-365;Poznań;002;203;15.00;0;12;3.66;3.66
-Poznań;Bosa;9;60-125;Poznań;002;0;0.00;0;0;0.00;0.00
-Poznań;Piotra Ściegiennego;134;60-304;Poznań;002;15;1.00;0;5;1.45;1.45
-Poznań;Bosa;9;60-125;Poznań;002;30;2.00;1;7;1.65;2.65
-Poznań;Brzeźnicka;3;60-133;Poznań;002;50;2.00;1;10;2.71;3.71
-Poznań;Brzeźnicka;3;60-133;Poznań;002;138;6.00;0;14;3.80;3.80
-Poznań;Pawłowskiego;6;60-681;Poznań;002;6;1.00;1;7;0.12;1.12
-Poznań;Bułgarska;55;60-320;Poznań;002;3;1.00;0;6;1.32;1.32
-Poznań;Bułgarska;55;60-320;Poznań;002;9;2.00;0;7;1.54;1.54
-Poznań;Bułgarska;55;60-320;Poznań;002;6;1.00;0;6;1.32;1.32
-Poznań;Bułgarska;55;60-320;Poznań;002;16;2.00;0;8;1.76;1.76
-Poznań;Zeylanda;1;60-808;Poznań;002;88;4.00;0;5;2.41;2.41
-Poznań;Ściegiennego;10;60-128;Poznań;002;26;2.00;0;8;2.88;2.88
-Poznań;os. Tysiąclecia;43;61-255;Poznań;002;68;3.00;0;3;1.24;1.24
-Poznań;os. Jagiellońskie;128;61-223;Poznań;002;79;2.00;0;3;0.89;0.89
-Poznań;Osiedle Kosmonautów;111;61-642;Poznań;002;105;4.00;0;4;1.41;1.41
-Poznań;Kossaka;3;60-759;Poznań;002;118;4.00;0;6;1.97;1.97
-Poznań;Woźna 9/4;47;61-777;Poznań;002;85;5.00;0;4;0.51;0.51
-Poznań;Rynek Jeżycki;1;60-847;Poznań;002;326;18.00;7;42;19.09;26.09
-Poznań;ŚW.MARCIN;66/72;61-807;POZNAŃ-STARE MIASTO;002;67;3.00;1;2;0.33;1.33
-Poznań;ŚW,MARCIN;66/72;61-807;Poznań;002;0;0.00;0;0;0.00;0.00
-Poznań;Hangarowa;14;60-409;Poznań;002;39;3.00;0;3;0.72;0.72
-Poznań;Półwiejska;30;61-888;Poznań;002;372;17.00;0;24;1.20;1.20
-Poznań;ŚW.MARCIN;66/72;61-807;POZNAŃ-STARE MIASTO;002;164;7.00;0;3;1.01;1.01
-Poznań;Os. Rusa;56;61-245;Poznań;002;485;14.00;3;6;2.69;5.69
-Poznań;Bułgarska;55;60-320;Poznań;002;25;6.00;0;10;2.20;2.20
-Poznań;Warzywna;24;61-658;POZNAŃ;002;212;14.00;9;0;0.00;9.00
-Poznań;28 Czerwca;231/239;61-485;Poznań;002;308;13.00;6;18;9.34;15.34
-Poznań;28 Czerwca 1956 r.;231/239;61-485;Poznań;002;169;5.00;1;11;3.26;4.26
-Poznań;Warzywna;24;61-658;Poznań;002;54;3.00;3;0;0.00;3.00
-Poznań;PÓŁWIEJSKA;9/6;61-885;POZNAŃ;003;0;0.00;0;0;0.00;0.00
-Poznań;Półwiejska;9/6;61-885;Poznań;003;0;0.00;0;0;0.00;0.00
-Poznań;Półwiejska;25/2;61-889;Poznań;003;199;18.00;0;9;2.17;2.17
-Poznań;Rynek Jeżycki;1;60-847;Poznań;003;14;1.00;0;8;2.11;2.11
-Poznań;Półwiejska;23/6;61-885;Poznań;003;91;8.00;0;16;4.88;4.88
-Poznań;Półwiejska;30;61-888;Poznań;003;306;24.00;0;12;0.16;0.16
-Poznań;ŚW.MARCIN 66/72;9/10;61-807;Poznań;003;47;2.00;0;6;0.73;0.73
-Poznań;FILIPIŃSKA;4;61-123;Poznań;001;164;7.00;22;42;19.96;41.96
-Poznań;Solna;12;61-736;Poznań;001;336;14.00;55;44;23.37;78.37
-Poznań;Bydgoska;4;61-127;Poznań;001;183;8.00;26;36;18.53;44.53
-Poznań;Druskiennicka;32;60-476;Poznań;002;75;0.00;1;10;5.17;6.17
-Poznań;Solna;12;61-736;Poznań;001;296;12.00;50;93;50.44;100.44
-Poznań;Junikowska;35;60-163;Poznań;001;207;8.00;24;21;11.55;35.55
-Poznań;Gołębia;8;61-834;Poznań;001;202;12.00;27;42;18.28;45.28
-Poznań;Mansfelda;4;60-854;Poznań;003;121;0.00;3;6;2.66;5.66
-Poznań;Droga Dębińska;21;61-555;Poznań;001;0;0.00;11;15;8.21;19.21
-Poznań;ul.Za Cytadelą;121;61-663;Poznań;001;0;0.00;12;17;9.33;21.33
-Poznań;Jarochowskiego;1;60-235;Poznań 34;001;0;0.00;6;13;6.71;12.71
-Poznań;Przybyszewskiego;30A;60-357;Poznań;001;0;0.00;3;5;0.94;3.94
-Poznań;Biskupińska;27;60-463;Poznań;004;0;0.00;1;0;0.00;1.00
-Poznań;Michała Drzymały;3;60-613;Poznań;004;0;0.00;0;1;0.20;0.20
-Poznań;Tomickiego;16;61-116;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Półwiejska;25/2;61-889;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Nowowiejskiego;29;61-733;Poznań;001;0;0.00;11;8;4.00;15.00
-Poznań;Os. RUSA;56/D1;61-245;POZNAŃ;001;0;0.00;8;1;0.75;8.75
-Poznań;Św. Antoniego;42;61-359;Poznań;001;0;0.00;10;7;3.50;13.50
-Poznań;Sierakowska;23;60-367;Poznań;001;0;0.00;15;8;4.00;19.00
-Poznań;os. Bolesława Chrobrego;105;60-681;Poznań;001;0;0.00;6;5;2.75;8.75
-Poznań;Oliwska;14;60-454;Poznań;004;0;0.00;1;11;3.18;4.18
-Poznań;Frezjowa;22;60-175;Polska;004;0;0.00;1;13;5.75;6.75
-Poznań;Golęcińska;9;60-626;Poznań;004;0;0.00;0;2;0.75;0.75
-Poznań;Piątkowska;41A/5;60-648;Poznań;004;0;0.00;0;2;0.50;0.50
-Poznań;Jarochowskiego;44;60-239;Poznań;004;0;0.00;1;1;0.13;1.13
-Poznań;Al. Niepodległości;36;61-714;Poznań;004;0;0.00;1;11;2.75;3.75
-Poznań;Promienista;6;60-288;Poznań;004;0;0.00;0;3;0.99;0.99
-Poznań;Bosa;15;60-125;Poznań;004;0;0.00;0;1;0.20;0.20
-Poznań;Plac Kolegiacki;12a;61-841;Poznań;004;0;0.00;1;0;0.00;1.00
-Poznań;Os. Łokietka;4H;61-616;Poznań;004;0;0.00;0;1;0.07;0.07
-Poznań;Radojewo;28;61-680;Poznań;004;0;0.00;5;0;0.00;5.00
-Poznań;Mariacka;24/28;61-012;Poznań;004;63;0.00;13;3;1.28;14.28
-Poznań;Szamarzewskiego;78/82;60-569;Poznań;001;47;0.00;90;23;12.01;102.01
-Poznań;Szamarzewskiego;78/82;60-569;Poznań;001;17;7.00;0;0;0.00;0.00
-Poznań;Szamarzewskiego;78/82;60-569;Poznań;001;44;6.00;0;0;0.00;0.00
-Poznań;Płowiecka;5;60-277;Poznań;001;14;14.00;0;0;0.00;0.00
-Poznań;Szamarzewskiego;78/82;60-569;Poznań;001;22;12.00;0;0;0.00;0.00
-Poznań;Szamarzewskiego;78/82;60-569;Poznań;001;34;5.00;0;0;0.00;0.00
-Poznań;Szamarzewskiego;78/82;60-569;Poznań;001;11;4.00;0;0;0.00;0.00
-Poznań;Bydgoska;4a;61-127;Poznań;001;44;0.00;100;4;2.34;102.34
-Poznań;Bydgoska;4a;61-127;Poznań;001;12;2.00;0;0;0.00;0.00
-Poznań;Bydgoska;4a;61-127;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Bydgoska;4a;61-127;Poznań;001;12;3.00;0;0;0.00;0.00
-Poznań;Bydgoska;4a;61-127;Poznań;001;82;16.00;0;0;0.00;0.00
-Poznań;Bydgoska;4a;61-127;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Bydgoska;4a;61-127;Poznań;001;23;4.00;0;0;0.00;0.00
-Poznań;BOSA;15;60-125;POZNAŃ;004;80;0.00;8;0;0.00;8.00
-Poznań;Pilicka;5;60-401;Poznań;004;0;0.00;1;0;0.00;1.00
-Poznań;Św.Rocha;16a;61-142;Poznań;004;0;0.00;7;0;0.00;7.00
-Poznań;Krakowska;17;61-889;Poznań;001;0;0.00;11;1;0.50;11.50
-Poznań;Stanisława Hejmowskiego;1;61-736;Poznań;001;0;0.00;14;6;3.10;17.10
-Poznań;ul. Górecka;1;60-201;Poznań;001;0;0.00;18;4;1.70;19.70
-Poznań;Jeleniogórska;4/6;60-179;Ponzań;004;0;0.00;0;0;0.00;0.00
-Poznań;ŚW. MARCIN;59;61-806;POZNAŃ;004;0;0.00;0;0;0.00;0.00
-Poznań;Kochanowskiego;22/6;60-846;Poznań;004;0;0.00;0;3;1.00;1.00
-Poznań;Tomickiego;16;61-116;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Os. Wichrowe Wzgórze;119;61-699;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Obornicka;274;60-693;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;ul. Bułgarska;19;60-320;Poznań;001;0;0.00;41;2;1.00;42.00
-Poznań;Podbiałowa;11;61-680;Poznań;004;0;0.00;5;0;0.00;5.00
-Poznań;Bliźniat;12a/9;61-224;Poznań;004;0;0.00;0;1;0.20;0.20
-Poznań;Mołdawska;22;61-614;Poznań;003;116;0.00;4;4;1.17;5.17
-Poznań;os. Stefana Batorego;101;60-687;Poznań;001;0;0.00;0;1;0.01;0.01
-Poznań;Półwiejska;30;61-888;Poznań;001;0;0.00;0;2;0.02;0.02
-Poznań;Zeylanda;1;60-808;Poznań;001;0;0.00;0;2;0.86;0.86
-Poznań;Półwiejska;9/6;61-885;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Mielżyńskiego;20;61-725;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Taczaka;10;61-818;Poznań;004;0;0.00;0;39;26.13;26.13
-Poznań;Świętego Marcina;66/72;60-766;Poznań;004;0;0.00;5;0;0.00;5.00
-Poznań;Półwiejska;20/7a;61-888;Poznan;004;0;0.00;2;0;0.00;2.00
-Poznań;Wieniawskiego;5/6;61-712;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;WARSZAWSKA;39/41;61-028;POZNAŃ;004;0;0.00;0;4;0.53;0.53
-Poznań;Obornicka;274;60-693;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Obornicka;274;60-693;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;MAJAKOWSKIEGO 309A;24;61-066;POZNAŃ;004;0;0.00;0;1;0.38;0.38
-Poznań;Półwiejska;23/6;61-885;Poznań;004;0;0.00;0;5;2.22;2.22
-Poznań;Rynek Jeżycki;1;60-847;Poznań;004;0;0.00;0;6;1.89;1.89
-Poznań;Wawrzyniaka;37;60-504;Poznań;004;0;0.00;0;0;0.00;0.00
-Poznań;Listopadowa;22;60-153;Poznań;004;14;1.00;1;0;0.00;1.00
-Poznań;Bogusza;81;61-608;Poznań;004;51;7.00;20;0;0.00;20.00
-Poznań;Kaliska;13;61-131;Poznań;004;6;1.00;1;1;0.75;1.75
-Poznań;Naramowicka;264a/1;61-601;Poznań;004;5;2.00;1;0;0.00;1.00
-Poznań;Oliwska;14;60-454;Poznań;004;10;1.00;4;4;2.00;6.00
-Poznań;Frezjowa;22;60-175;Polska;004;66;3.00;14;4;1.73;15.73
-Poznań;Naramowicka;264a/1;61-601;Poznań;004;5;1.00;1;0;0.00;1.00
-Poznań;Knapowskiego;23;60-126;Poznań;004;4;1.00;0;1;0.48;0.48
-Poznań;Dąbrowskiego;25/2b;60-840;Poznań;004;23;1.00;1;0;0.00;1.00
-Poznań;Wiankowa;1;61-049;Poznań;004;7;1.00;2;0;0.00;2.00
-Poznań;Gromadzka;12;61-655;Poznań;004;11;1.00;2;0;0.00;2.00
-Poznań;Os. Wichrowe Wzgórze;119;61-699;Poznań;004;22;1.00;3;0;0.00;3.00
-Poznań;Starołęcka;129;61-341;Poznań;004;25;2.00;4;0;0.00;4.00
-Poznań;Przemysłowa;68;61-541;Poznań;004;42;9.00;28;1;0.50;28.50
-Poznań;Cegielskiego;1;61-862;Poznań;001;192;9.00;31;43;17.88;48.88
-Poznań;Dąbrowskiego;163;61-777;Poznań;003;0;0.00;0;0;0.00;0.00
-Poznań;ul. 27 Grudnia;3;61-737;Poznań;003;25;2.00;0;12;0.42;0.42
-Poznań;;;60-236;Poznań;003;59;5.00;0;9;1.63;1.63
-Poznań;Taczaka;10;61-818;Poznań;003;45;2.00;0;12;8.04;8.04
-Poznań;św. Jerzego;6/10;61-546;Poznań;001;184;14.00;23;13;6.31;29.31
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;33;14;6.49;39.49
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;GRUNWALDZKA;200;60-166;POZNAŃ;001;0;0.00;0;0;0.00;0.00
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Jawornicka;1;60-161;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Jawornicka;1;60-161;Poznań;001;320;13.00;0;0;0.00;0.00
-Poznań;SZAMARZEWSKIEGO;99;60-568;POZNAŃ;001;0;0.00;20;55;18.21;38.21
-Poznań;Szamarzewskiego;99;60-568;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;SZAMARZEWSKIEGO;99;60-568;POZNAŃ;001;177;11.00;0;0;0.00;0.00
-Poznań;SZAMARZEWSKIEGO;99;60-568;POZNAŃ;001;87;6.00;0;0;0.00;0.00
-Poznań;Mostowa;6;61-855;Poznań;001;0;0.00;24;22;8.33;32.33
-Poznań;Mostowa;6;61-855;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Mostowa;6;61-855;Poznań;001;51;3.00;0;0;0.00;0.00
-Poznań;Mostowa;6;61-855;Poznań;001;68;4.00;0;0;0.00;0.00
-Poznań;Mostowa;6;61-855;Poznań;001;96;4.00;0;0;0.00;0.00
-Poznań;Wagrowska;9;61-369;Poznań;001;0;0.00;18;15;12.91;30.91
-Poznań;Wagrowska;9;61-369;Poznań;001;2;2.00;0;0;0.00;0.00
-Poznań;Wagrowska;9;61-369;Poznań;001;4;2.00;0;0;0.00;0.00
-Poznań;SŁOWACKIEGO;54/56;60-521;POZNAŃ;001;0;0.00;24;3;1.50;25.50
-Poznań;SŁOWACKIEGO;54/56;60-521;POZNAŃ;001;0;0.00;0;0;0.00;0.00
-Poznań;SŁOWACKIEGO;54/56;60-521;POZNAŃ;001;0;0.00;0;0;0.00;0.00
-Poznań;28 Czerwca 1956r.;296/298;61-469;Poznań;001;0;0.00;22;13;7.00;29.00
-Poznań;28 Czerwca 1956r.;296/298;61-469;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;28 Czerwca 1956r.;296/298;61-469;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Jesionowa;14;61-432;Poznań;001;0;0.00;73;20;7.10;80.10
-Poznań;Jesionowa;14;61-432;Poznań;001;119;5.00;0;0;0.00;0.00
-Poznań;Jesionowa;14;61-432;Poznań;001;565;28.00;0;0;0.00;0.00
-Poznań;os. Bolesława Śmiałego;107;60-682;Poznań;001;0;0.00;108;8;3.26;111.26
-Poznań;os. Bolesława Śmiałego;107;60-682;Poznań;001;200;8.00;0;0;0.00;0.00
-Poznań;os. Bolesława Śmiałego;107;60-682;Poznań;001;828;37.00;0;0;0.00;0.00
-Poznań;os. Władysława Łokietka;104;61-616;Poznań;001;0;0.00;69;16;7.82;76.82
-Poznań;os. Władysława Łokietka;104;61-616;Poznań;001;272;11.00;0;0;0.00;0.00
-Poznań;os. Władysława Łokietka;104;61-616;Poznań;001;554;25.00;0;0;0.00;0.00
-Poznań;Łozowa;77;61-448;Poznań;001;0;0.00;54;19;9.19;63.19
-Poznań;Łozowa;77;61-448;Poznań;001;75;3.00;0;0;0.00;0.00
-Poznań;Łozowa;77;61-448;Poznań;001;537;26.00;0;0;0.00;0.00
-Poznań;GARBARY;82;61-758;POZNAN;001;0;0.00;38;5;2.75;40.75
-Poznań;GARBARY;82;61-758;POZNAN;001;67;3.00;0;0;0.00;0.00
-Poznań;GARBARY;82;61-758;POZNAN;001;256;13.00;0;0;0.00;0.00
-Poznań;os. Kosmonautów;111;61-642;Poznań;001;0;0.00;41;35;15.42;56.42
-Poznań;os. Kosmonautów;111;61-642;Poznań;001;125;5.00;0;0;0.00;0.00
-Poznań;os. Kosmonautów;111;61-642;Poznań;001;415;21.00;0;0;0.00;0.00
-Poznań;os. Jana III Sobieskiego;105;60-688;Poznan;001;0;0.00;55;8;5.14;60.14
-Poznań;os. Jana III Sobieskiego;105;60-688;Poznan;001;92;4.00;0;0;0.00;0.00
-Poznań;os. Jana III Sobieskiego;105;60-688;Poznan;001;552;24.00;0;0;0.00;0.00
-Poznań;Leszka;42;61-062;Poznań;001;0;0.00;51;14;7.88;58.88
-Poznań;Leszka;42;61-062;Poznań;001;72;3.00;0;0;0.00;0.00
-Poznań;Leszka;42;61-062;Poznań;001;460;22.00;0;0;0.00;0.00
-Poznań;Raszyńska;48;60-135;Poznań;001;0;0.00;45;15;8.12;53.12
-Poznań;Raszyńska;48;60-135;Poznań;001;59;3.00;0;0;0.00;0.00
-Poznań;Raszyńska;48;60-135;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Raszyńska;48;60-135;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Raszyńska;48;60-135;Poznań;001;188;10.00;0;0;0.00;0.00
-Poznań;Raszyńska;48;60-135;Poznań;001;133;5.00;0;0;0.00;0.00
-Poznań;Raszyńska;48;60-135;Poznań;001;50;2.00;0;0;0.00;0.00
-Poznań;Grunwaldzka;152;60-309;Poznań;001;0;0.00;28;12;7.66;35.66
-Poznań;Grunwaldzka;152;60-309;Poznań;001;297;12.00;0;0;0.00;0.00
-Poznań;Grunwaldzka;152;60-309;Poznań;001;206;11.00;0;0;0.00;0.00
-Poznań;Rybaki;17;61-883;Poznań;001;0;0.00;47;12;6.14;53.14
-Poznań;Rybaki;17;61-883;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Rybaki;17;61-883;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Rybaki;17;61-883;Poznań;001;290;11.50;0;0;0.00;0.00
-Poznań;Rybaki;17;61-883;Poznań;001;311;11.00;0;0;0.00;0.00
-Poznań;Marszałkowska;40;60-327;Poznań;001;0;0.00;51;20;9.58;60.58
-Poznań;Marszałkowka;40;60-327;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Marszałkowska;40;60-327;Poznań;001;28;1.00;0;0;0.00;0.00
-Poznań;Marszałkowka;40;60-327;Poznań;001;658;25.00;0;0;0.00;0.00
-Poznań;Świt;25;60-375;Poznań;001;0;0.00;37;15;7.32;44.32
-Poznań;ul. Świt;25;60-375;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Świt;25;60-375;Poznań;001;416;16.00;0;0;0.00;0.00
-Poznań;Świt;25;60-375;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Podkomorska;49;60-326;Poznań;001;0;0.00;47;11;7.20;54.20
-Poznań;;;60-326;Poznań;001;157;6.00;0;0;0.00;0.00
-Poznań;Podkomorska;49;60-326;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Podkomorska;49;60-326;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Podkomorska;49;60-326;Poznań;001;425;16.00;0;0;0.00;0.00
-Poznań;Szamotulska;33;60-365;Poznań;001;0;0.00;48;27;11.97;59.97
-Poznań;Szamotulska;33;60-365;Poznań;001;52;3.00;0;0;0.00;0.00
-Poznań;Szamotulska;33;60-365;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Szamotulska;33;60-365;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Szamotulska;33;60-365;Poznań;001;291;12.00;0;0;0.00;0.00
-Poznań;Szamotulska;33;60-365;Poznań;001;76;3.00;0;0;0.00;0.00
-Poznań;Stanisława Wyspiańskiego;27;60-751;Poznań;001;0;0.00;35;15;5.81;40.81
-Poznań;Stanisława Wyspiańskiego;27;60-751;Poznań;001;330;13.00;0;0;0.00;0.00
-Poznań;Stanisława Wyspiańskiego;27;60-751;Poznań;001;78;3.00;0;0;0.00;0.00
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;0;0.00;85;21;13.08;98.08
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;68;3.00;0;0;0.00;0.00
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;19;1.00;0;0;0.00;0.00
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;1 006;35.00;0;0;0.00;0.00
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;167;6.00;0;0;0.00;0.00
-Poznań;Śniadeckich;54/58;60-774;Poznań;001;90;3.00;0;0;0.00;0.00
-Poznań;Berwińskiego;2/4;60-765;Poznań;001;0;0.00;35;9;4.05;39.05
-Poznań;Berwińskiego;2/4;60-765;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Berwińskiego;2/4;60-765;Poznań;001;400;20.00;0;0;0.00;0.00
-Poznań;Fredry;13;61-701;Poznań;001;0;0.00;73;23;10.81;83.81
-Poznań;Fredry;13;61-701;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Fredry;13;61-701;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Fredry;13;61-701;Poznań;001;853;32.00;0;0;0.00;0.00
-Poznań;Fredry;13;61-701;Poznań;001;54;2.00;0;0;0.00;0.00
-Poznań;Przełajowa;4;61-622;Poznań;001;0;0.00;73;23;13.31;86.31
-Poznań;Przełajowa 4;4;61-622;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Przełajowa;4;61-622;Poznan;001;0;0.00;0;0;0.00;0.00
-Poznań;Przełajowa;4;61-622;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Przełajowa;4;61-622;Poznań;001;928;35.00;0;0;0.00;0.00
-Poznań;Świerkowa;8;61-472;Poznań;001;0;0.00;61;26;12.85;73.85
-Poznań;Świerkowa;8;61-472;Poznań;001;46;2.00;0;0;0.00;0.00
-Poznań;Czeremchowa;22;61-474;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Świerkowa;8;61-472;Poznań;001;351;15.00;0;0;0.00;0.00
-Poznań;Świerkowa;8;61-472;Poznań;001;343;12.00;0;0;0.00;0.00
-Poznań;Świerkowa;8;61-472;Poznań;001;28;2.00;0;0;0.00;0.00
-Poznań;Al. Niepodległości;32;61-714;Poznań;001;0;0.00;61;19;12.80;73.80
-Poznań;Solna;2;62-028;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Al. Niepodległości;32;61-714;Poznań;001;515;25.00;0;0;0.00;0.00
-Poznań;Głogowska;90;60-262;Poznań;001;0;0.00;73;92;46.81;119.81
-Poznań;Głogowska;90;60-262;Poznań;001;49;6.00;0;0;0.00;0.00
-Poznań;Głogowska;90;60-262;Poznań;001;322;0.00;0;0;0.00;0.00
-Poznań;Głogowska;90;60-262;Poznań;001;236;0.00;0;0;0.00;0.00
-Poznań;Głogowska;90;60-262;Poznań;001;13;3.00;0;0;0.00;0.00
-Poznań;Hangarowa;14;60-409;Poznań;001;0;0.00;41;44;14.85;55.85
-Poznań;Hangarowa;14;60-409;Poznań;001;64;3.00;0;0;0.00;0.00
-Poznań;Hangarowa;14;60-409;Poznań;001;447;20.00;0;0;0.00;0.00
-Poznań;Różana;1/3;61-577;Poznań;001;0;0.00;50;27;11.82;61.82
-Poznań;Różana;1/3;61-577;Poznań;001;120;5.00;0;0;0.00;0.00
-Poznań;Różana;1/3;61-577;Poznań;001;398;19.00;0;0;0.00;0.00
-Poznań;OS. ZWYCIĘSTWA;101;61-643;Poznań;001;0;0.00;70;10;4.68;74.68
-Poznań;OS. ZWYCIĘSTWA;101;61-643;Poznań;001;199;8.00;0;0;0.00;0.00
-Poznań;OS. ZWYCIĘSTWA;101;61-643;Poznań;001;507;22.00;0;0;0.00;0.00
-Poznań;Jarochowskiego;62;60-249;Poznań;001;0;0.00;79;18;10.29;89.29
-Poznań;Jarochowskiego;62;60-249;Poznań;001;173;6.92;0;0;0.00;0.00
-Poznań;Jarochowskiego;62;60-249;Poznań;001;512;26.00;0;0;0.00;0.00
-Poznań;Kazimierza Wielkiego;17;61-863;Poznań;001;0;0.00;39;12;5.88;44.88
-Poznań;kazimierza Wielkiego;17;61-863;Poznań;001;260;12.00;0;0;0.00;0.00
-Poznań;Kazimierza Wielkiego;17;61-863;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Kazimierza Wielkiego;17;61-863;POZNAŃ;001;0;0.00;0;0;0.00;0.00
-Poznań;Kazimierza Wielkiego;17;61-863;Poznań;001;226;10.00;0;0;0.00;0.00
-Poznań;Kazimierza Wielkiego;17;61-863;Poznań;001;46;2.00;0;0;0.00;0.00
-Poznań;Bukowska;16;60-809;Poznań;001;0;0.00;58;28;15.16;73.16
-Poznań;Bukowska;16;60-809;Poznań;001;732;24.00;0;0;0.00;0.00
-Poznań;Bukowska;16;60-809;Poznań;001;104;4.00;0;0;0.00;0.00
-Poznań;Matejki;8/10;60-766;Poznań;001;0;0.00;49;23;11.59;60.59
-Poznań;Matejki;8/10;60-766;Poznań;001;577;18.00;0;0;0.00;0.00
-Poznań;Matejki;8/10;60-766;Poznań;001;35;2.00;0;0;0.00;0.00
-Poznań;Tarnowska;27;61-323;Poznań;001;0;0.00;91;19;7.40;98.40
-Poznań;Krzesiny;13;61-321;Poznań;001;42;2.00;0;0;0.00;0.00
-Poznań;Tarnowska;27;61-323;Poznań;001;709;28.00;0;0;0.00;0.00
-Poznań;Tarnowska;27;61-323;Poznań;001;295;9.00;0;0;0.00;0.00
-Poznań;osiedle Czecha;59;61-288;Poznań;001;0;0.00;76;15;7.06;83.06
-Poznań;os. Czecha;59;61-288;Poznań;001;602;23.00;0;0;0.00;0.00
-Poznań;osiedle Czecha;59;61-288;Poznań;001;348;12.00;0;0;0.00;0.00
-Poznań;Krakowska;17a;61-889;Poznań;001;0;0.00;53;14;9.54;62.54
-Poznań;Krakowska;17a;61-889;Poznań;001;740;24.00;0;0;0.00;0.00
-Poznań;Krakowska;17a;61-889;Poznań;001;142;3.00;0;0;0.00;0.00
-Poznań;os.Rzeczypospolitej;111;61-389;Poznań;001;0;0.00;36;7;4.22;40.22
-Poznań;os.Rzeczypospolitej;111;61-389;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;os.Rzeczypospolitej;111;61-389;Poznań;001;445;16.00;0;0;0.00;0.00
-Poznań;Warzywna;19;61-658;Poznań;001;0;0.00;56;2;0.76;56.76
-Poznań;Warzywna;19;61-658;Poznań;001;151;7.00;0;0;0.00;0.00
-Poznań;Warzywna;19;61-658;Poznań;001;249;11.75;0;0;0.00;0.00
-Poznań;Warzywna;19;61-658;Poznań;001;48;2.00;0;0;0.00;0.00
-Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;001;0;0.00;61;11;7.37;68.37
-Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;001;408;16.00;0;0;0.00;0.00
-Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;001;152;6.00;0;0;0.00;0.00
-Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;001;94;3.00;0;0;0.00;0.00
-Poznań;Zamenhofa;142;61-139;Poznań;001;0;0.00;49;11;5.64;54.64
-Poznań;Zamenhofa;142;61-139;Poznań;001;171;6.00;0;0;0.00;0.00
-Poznań;Zamenhofa;142;61-139;Poznań;001;453;19.00;0;0;0.00;0.00
-Poznań;Swoboda;41;60-389;Poznań;001;0;0.00;64;2;1.17;65.17
-Poznań;Swoboda;41;60-389;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Swoboda;41;60-389;Poznań;001;93;14.00;0;0;0.00;0.00
-Poznań;Swoboda;41;60-389;Poznań;001;40;8.00;0;0;0.00;0.00
-Poznań;Przełajowa;6;61-622;Poznań;001;0;0.00;95;3;1.67;96.67
-Poznań;Przełajowa;6;61-622;Poznań;001;25;2.00;0;0;0.00;0.00
-Poznań;Przełajowa;6;61-622;Poznań;001;190;29.00;0;0;0.00;0.00
-Poznań;Przełajowa;6;61-622;Poznań;001;29;5.00;0;0;0.00;0.00
-Poznań;Rycerska;43;60-345;Poznań;001;0;0.00;120;14;7.91;127.91
-Poznań;Rycerska;43;60-345;Poznań;001;96;21.00;0;0;0.00;0.00
-Poznań;Rycerska;43;60-345;Poznań;001;27;5.00;0;0;0.00;0.00
-Poznań;Nieszawska;21;61-021;Poznań;001;0;0.00;78;3;0.83;78.83
-Poznań;Nieszawska;21;61-021;Poznań;001;120;21.00;0;0;0.00;0.00
-Poznań;Nieszawska;21;61-021;Poznań;001;33;6.00;0;0;0.00;0.00
-Poznań;Krysiewicza;7/8;61-825;Poznań;001;0;0.00;24;11;6.20;30.20
-Poznań;Krysiewicza;7/8;61-825;Poznań;001;45;0.00;0;0;0.00;0.00
-Poznań;Krysiewicza;7/8;61-825;Poznań;001;51;1.00;0;0;0.00;0.00
-Poznań;SANATORYJNA;2;60-480;POZNAŃ;001;0;0.00;31;8;3.73;34.73
-Poznań;SANATORYJNA;2;60-480;POZNAŃ;001;13;0.00;0;0;0.00;0.00
-Poznań;SANATORYJNA;2;60-480;POZNAŃ;001;40;0.00;0;0;0.00;0.00
-Poznań;Szpitalna;27/33;60-572;Poznań;001;0;0.00;38;12;7.46;45.46
-Poznań;Szpitalna;27/33;60-572;Poznań;001;77;0.00;0;0;0.00;0.00
-Poznań;Szpitalna;27/33;61-572;Poznań;001;100;0.00;0;0;0.00;0.00
-Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;001;0;0.00;33;10;4.37;37.37
-Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;001;94;5.00;0;0;0.00;0.00
-Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;001;63;0.00;0;0;0.00;0.00
-Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;001;41;0.00;0;0;0.00;0.00
-Poznań;os. Stare Żegrze;1;61-249;Poznań;001;0;0.00;94;16;8.10;102.10
-Poznań;os. Stare Żegrze;1;61-249;Poznań;001;143;7.00;0;0;0.00;0.00
-Poznań;os. Stare Żegrze;1;61-249;Poznań;001;488;25.00;0;0;0.00;0.00
-Poznań;os. Pod Lipami;106;61-638;Poznań;001;0;0.00;80;5;2.39;82.39
-Poznań;os. Pod Lipami;106;61-638;Poznań;001;152;7.00;0;0;0.00;0.00
-Poznań;os. Pod Lipami;106;61-638;Poznań;001;492;24.00;0;0;0.00;0.00
-Poznań;Głuszyna;187;61-329;Poznań;001;0;0.00;41;10;5.48;46.48
-Poznań;Głuszyna;187;61-329;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Głuszyna;187;61-329;Poznań;001;421;21.00;0;0;0.00;0.00
-Poznań;os. Jana III Sobieskiego;114;60-688;Poznań;001;0;0.00;72;19;12.30;84.30
-Poznań;os. Jana III Sobieskiego;114;60-688;Poznań;001;596;23.00;0;0;0.00;0.00
-Poznań;os. Jana III Sobieskiego;114;60-688;Poznań;001;192;9.00;0;0;0.00;0.00
-Poznań;Św.Floriana;3;60-536;Poznań;001;0;0.00;24;25;10.55;34.55
-Poznań;Św. Floriana;3;60-536;Poznań;001;36;2.00;0;0;0.00;0.00
-Poznań;Św.Floriana;3;60-536;Poznań;001;386;16.00;0;0;0.00;0.00
-Poznań;Żniwna;1;61-663;Poznań;001;0;0.00;48;6;3.63;51.63
-Poznań;ŻNIWNA;1;61-663;POZNAŃ;001;168;12.97;0;0;0.00;0.00
-Poznań;Żniwna;1;61-663;POZNAŃ;001;69;6.03;0;0;0.00;0.00
-Poznań;Żniwna;1;61-663;Poznań;001;19;5.00;0;0;0.00;0.00
-Poznań;Działyńskich;4/5;61-727;Poznań;001;0;0.00;45;13;6.87;51.87
-Poznań;Działyńskich;4/5;61-727;Poznań;001;66;3.00;0;0;0.00;0.00
-Poznań;Działyńskich;4/5;61-727;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Działyńskich;4/5;61-727;Poznań;001;391;16.00;0;0;0.00;0.00
-Poznań;Działyńskich;4/5;61-727;Poznań;001;114;5.00;0;0;0.00;0.00
-Poznań;Działyńskich;4/5;61-727;Poznań;001;0;0.00;0;0;0.00;0.00
-Poznań;Stróżyńskiego;16;60-688;Poznań;004;0;0.00;27;19;11.94;38.94
-Poznań;Stróżyńskiego;16;60-688;Poznań;002;254;17.00;0;0;0.00;0.00
-Poznań;Stróżyńskiego;16;60-688;Poznań;002;38;2.00;0;0;0.00;0.00
-Poznań;Grunwaldzka;154;30-309;Poznań;004;0;0.00;60;30;13.09;73.09
-Poznań;Grunwaldzka;154;30-309;Poznań;002;456;26.00;0;0;0.00;0.00
-Poznań;Grunwaldzka;154;30-309;Poznań;002;111;7.00;0;0;0.00;0.00
+﻿miasto;Ulica;Nr domu;Kod poczt.;miasto;Publiczność;Uczniowie;odzialy;pelnozatrudnieni;stos. Pracy;w etatach;suma etatów
+Poznań;Świt;40/42;60-376;Poznań;1;130;6;9;0;0;9
+Poznań;Wierzbęcice;64;61-548;Poznań;1;135;6;13;7;2.03;15.03
+Poznań;Jawornicka;17;60-161;Poznań;1;146;6;15;3;0.44;15.44
+Poznań;os. Oświecenia;26;61-206;Poznań;1;123;5;11;4;0.55;11.55
+Poznań;Świt;16A;60-375;Poznań;1;118;5;12;4;0.33;12.33
+Poznań;Osinowa;14a;61-451;Poznań;1;116;5;11;2;0.66;11.66
+Poznań;os.Rzeczypospolitej;7;61-395;Poznań;1;124;5;9;4;1.03;10.03
+Poznań;Os.Pod Lipami;107;61-632;Poznań;1;81;5;17;5;1.91;18.91
+Poznań;os. Piastowskie;105;61-164;Poznań;1;116;5;11;7;1.77;12.77
+Poznań;Płomienna;1;60-392;Poznań;1;117;5;9;3;1.61;10.61
+Poznań;os. Piastowskie;55;61-156;Poznań;1;95;4;8;4;0.17;8.17
+Poznań;Biskupińska;65;60-463;Poznań;1;50;2;5;6;1.61;6.61
+Poznań;os. Bohaterów II Wojny Świat.;30;61-386;Poznań;1;124;5;11;4;0.47;11.47
+Poznań;os. Piastowskie;26;61-148;Poznań;1;99;4;8;5;1.07;9.07
+Poznań;Os. Pod Lipami;102;61-632;Poznań;1;145;6;12;6;0.47;12.47
+Poznań;Os.Przyjaźni;135;61-687;Poznań;1;125;5;16;3;0.35;16.35
+Poznań;Keplera;5;60-158;Poznań;1;149;6;15;7;0.64;15.64
+Poznań;Osiedle Przyjażni;117;61-681;Poznań;1;125;5;11;1;0.12;11.12
+Poznań;Os.Kosmonautów;108;61-642;Poznań;1;123;5;10;9;1.55;11.55
+Poznań;Tczewska;11;60-454;Poznań;1;140;7;14;9;1.95;15.95
+Poznań;Przyjazni;129;61-683;Poznań;1;125;5;12;0;0;12
+Poznań;Sarmacka;5;61-616;Poznań;1;100;4;10;5;0.43;10.43
+Poznań;Marcina Rożka;9;60-465;Poznań;1;149;6;13;3;0.46;13.46
+Poznań;os.Czecha;76;61-289;Poznań;1;124;5;9;6;1.72;10.72
+Poznań;os.Bolesława Chrobrego;121;60-681;Poznań;1;164;7;18;3;0.58;18.58
+Poznań;ul. Św. Antoniego;42;61-359;Poznań;1;150;6;13;5;0.46;13.46
+Poznań;OS.RUSA;120;61-245;POZNAŃ;1;143;6;13;5;1;14
+Poznań;os. Winiary;2;60-665;Poznań;1;190;9;21;4;1.05;22.05
+Poznań;Os.Kosmonautów;107;61-624;Poznań;1;124;5;11;4;0.89;11.89
+Poznań;Sarmacka;105 A;61-616;Poznań;1;64;3;7;4;0.63;7.63
+Poznań;OSIEDLE TYSIĄCLECIA;69;61-255;POZNAŃ;1;137;6;13;1;0.22;13.22
+Poznań;os. Rusa;7;61-245;Poznań;1;73;5;8;4;0.41;8.41
+Poznań;B. Chrobrego;106;60-681;Poznań;1;125;5;11;3;0.38;11.38
+Poznań;Głuszyna;206A;61-329;Poznań;1;120;5;12;3;0.34;12.34
+Poznań;Podlaska;2;60-622;Poznań;1;75;4;7;2;0.08;7.08
+Poznań;0s.Jana III Sobieskiego;108;60-688;Poznań;1;149;5.96;13;10;1.49;14.49
+Poznań;Saperska;29;61-494;Poznań;1;70;3;6;3;0.3;6.3
+Poznań;os. Orła BIałego;72;61-251;Poznań;1;125;5;14;8;0.69;14.69
+Poznań;os.Polan;1;61-253;Poznań;1;42;3;5;3;0.89;5.89
+Poznań;os. Jana III Sobieskiego;106;60-688;Poznań;1;150;6;12;9;1.27;13.27
+Poznań;Sióstr Misjonarek;1;61-680;Poznń;1;49;2.75;8;3;0.41;8.41
+Poznań;os.Wichrowe Wzgórze;118;61-674;Poznań;1;125;5;12;4;0.43;12.43
+Poznań;osiedle Dębina;15;61-450;Poznań;1;125;5;11;7;0.59;11.59
+Poznań;Osiedle Bolesława Śmiałego;105;60-682;Poznań;1;175;7;13;8;1.6;14.6
+Poznań;Grobla;1;61-858;Poznań;1;99;5;10;3;0.26;10.26
+Poznań;os. Orła Białego;29;61-251;Poznań;1;125;5;11;2;0.18;11.18
+Poznań;Os. Orła Białego;102;61-251;Poznań;1;123;5;12;10;0.79;12.79
+Poznań;Orzechowa;2 B;61-447;Poznań;1;100;4;9;4;0.39;9.39
+Poznań;Głogowska;97;60-265;Poznań;1;98;4;11;7;0.95;11.95
+Poznań;Tomickiego;3;61-116;Poznań;1;95;4;9;2;0.15;9.15
+Poznań;Galileusza;7;60-159;Poznań;1;121;5;12;3;0.17;12.17
+Poznań;Księcia Józefa;01.mar;61-718;Poznań;1;75;3;7;5;1.21;8.21
+Poznań;Dojazd;3;60-632;Poznań;1;75;4;9;2;0.17;9.17
+Poznań;Michała Sobeskiego;1;60-566;Poznań;1;133;6;14;3;0.29;14.29
+Poznań;Mielżyńskiego;21;61-725;Poznań;1;98;4;9;4;0.22;9.22
+Poznań;Chociszewskiego;44c;60-259;Poznań;1;100;4;10;4;0.81;10.81
+Poznań;Os. Bolesława Chrobrego;109;60-681;Poznań;1;170;7;17;4;0.45;17.45
+Poznań;Perzycka;30B;60-182;Poznań;1;175;8;20;5;1.38;21.38
+Poznań;oś. Wichrowe Wzgórze;112;61-674;POZNAŃ;1;125;5;12;3;0.29;12.29
+Poznań;JUNIKOWSKA;15;60-163;POZNAŃ;1;125;5;10;3;1.04;11.04
+Poznań;Limanowskiego;23B;60-744;Poznań;1;100;4;8;6;1.3;9.3
+Poznań;Św. Kingi;1A;61-055;Poznań;1;100;4;7;4;1.07;8.07
+Poznań;Cześnikowska;18a;60-330;Poznań;1;137;6;13;8;1.69;14.69
+Poznań;Prądzyńskiego;15a;61-527;Poznań;1;125;5;12;2;0.25;12.25
+Poznań;Romana Dmowskiego;17;60-222;Poznań;1;137;6;11;7;1.75;12.75
+Poznań;Trzemeszeńska;12;61-038;Poznań;1;168;7;16;2;1.19;17.19
+Poznań;Księżycowa;10;60-281;Poznań;1;175;7;17;3;0.63;17.63
+Poznań;SENATORSKA;1;60-326;POZNAŃ;1;72;3;5;4;1.09;6.09
+Poznań;Łukaszewicza;35;60-720;Poznań;1;70;3;6;6;0.37;6.37
+Poznań;Głogowska;40;60-736;Poznań;1;74;3;7;6;0.84;7.84
+Poznań;os. Lecha;14;61-293;Poznań;1;119;7;22;5;2.52;24.52
+Poznań;Dolina;6;61-551;Poznań;1;70;3;6;6;1.39;7.39
+Poznań;Wolsztyńska;15;60-361;Poznań;1;68;4;9;3;0.89;9.89
+Poznań;Lecha;79;61-296;Poznań;1;138;6;13;6;1.34;14.34
+Poznań;WINOGRADY;24;61-663;POZNAŃ;1;45;2;4;5;1.19;5.19
+Poznań;Czechosłowacka;29;61-456;Poznań;1;98;4;10;4;0.21;10.21
+Poznań;Noskowskiego;35/37;61-705;Poznań;1;141;6;12;4;0.52;12.52
+Poznań;Słowicza;15;60-121;POZNAŃ;1;212;9;22;3;0.82;22.82
+Poznań;Piwna;1:00 AM;61-066;Poznań;1;93;4;9;5;0.43;9.43
+Poznań;Chopina;3;61-708;Poznań;1;155;7;19;5;0.85;19.85
+Poznań;Mikołowska;14;60-102;Poznań;1;70;3;7;3;0.55;7.55
+Poznań;Skarbka;9;60-348;Poznań;1;75;4;7;5;1.08;8.08
+Poznań;Galla Anonima;13;60-547;Poznań;1;119;5;12;3;0.24;12.24
+Poznań;os. Czecha;140;61-292;Poznań;1;111;6;14;8;3.47;17.47
+Poznań;Kazimierza Wielkiego;19/21;61-863;Poznań;1;178;8;17;9;3.54;20.54
+Poznań;Sporna;4;61-709;Poznań;1;100;4;9;6;0.46;9.46
+Poznań;Marka Hłaski;16;60-461;Poznań;1;240;10;22;2;0.42;22.42
+Poznań;Bosa;16;60-125;Poznań;1;75;3;6;5;0.57;6.57
+Poznań;Limbowa;2;61-446;Poznań;1;46;4;20;3;1.6;21.6
+Poznań;Zawady;26;61-002;Poznań;1;96;4;9;3;0.21;9.21
+Poznań;Kasztelańska;19;60-316;Poznań;1;75;3;6;7;0.42;6.42
+Poznań;Juliusza Słowackiego;15;60-822;Poznań;1;120;5;10;9;2.64;12.64
+Poznań;św. Czesława;6A;61-575;Poznań;1;100;5;8;4;0.43;8.43
+Poznań;Kasprzaka;46;60-245;Poznań;1;85;4;9;5;0.79;9.79
+Poznań;Os. Jagiellońskie;9;61-226;Poznań;1;99;4;8;5;0.5;8.5
+Poznań;Cześnikowska;19a;60-329;Poznań;1;69;5;16;4;1.58;17.58
+Poznań;Skibowa;13;61-312;Poznań;1;200;8;21;2;0.37;21.37
+Poznań;Janickiego;24A;60-544;Poznań;1;124;5;11;1;0.5;11.5
+Poznań;Pułaskiego;16;60-607;Poznań;1;70;4;8;4;0.35;8.35
+Poznań;Wiązowa;5;61-432;Poznań;1;122;5;11;4;0.59;11.59
+Poznań;Os. Boh. II Wojny Światowej;1;61-388;Poznań;1;121;5;14;3;0.31;14.31
+Poznań;os. Bolesława Chrobrego;104;60-681;Poznań;1;125;5;9;7;2.46;11.46
+Poznań;Libelta;35;61-707;Poznań;1;30;5;19;0;0;19
+Poznań;Swoboda;57;60-391;Poznań;1;100;4;8;6;0.44;8.44
+Poznań;os. Rzeczypospolitej;43;61-395;Poznań;1;96;5;16;4;0.88;16.88
+Poznań;Nadolnik;9a;61-012;Poznań;1;75;3;6;1;0.13;6.13
+Poznań;Fabianowo;29;60-005;Poznań;1;111;5;5;8;1.87;6.87
+Poznań;Sierakowska;23;60-367;Poznań;1;123;5;11;6;1.68;12.68
+Poznań;Chojnicka;72;60-480;Poznań;1;125;5;5;0;0;5
+Poznań;Słowackiego;58/60;60-521;Poznań;1;125;5;2;9;6.13;8.13
+Poznań;Lecha;43;61-294;Poznań;1;39;3;5;2;0.3;5.3
+Poznań;Bukowska;47a;60-555;POZNAŃ;1;118;5;9;2;1.5;10.5
+Poznań;Druskienicka;32;60-476;Poznań;1;93;4;0;6;4.33;4.33
+Poznań;Os. Wł. Łokietka;4h;61-616;Poznań;1;29;2;3;1;0.07;3.07
+Poznań;Os. Łokietka;3D;61-616;Poznań;1;32;2;3;1;0.07;3.07
+Poznań;Za Cytadelą;120;61-659;Poznań;1;150;6;6;0;0;6
+Poznań;Łagodna;4;60-680;Poznań;1;49;2;3;0;0;3
+Poznań;STAROŁĘCKA;42;61-341;POZNAŃ;1;75;3;4;2;1.5;5.5
+Poznań;Naramowicka;244;61-611;polska;1;30;2;0;1;0.25;0.25
+Poznań;Bogusza;8a;61-608;Poznań;4;39;2;5;0;0;5
+Poznań;Drewlańska;10;61-614;Poznan;4;26;2;2;0;0;2
+Poznań;Madziarska;1;61-615;Poznan;4;17;1;1;0;0;1
+Poznań;Kolejowa;29a;60-718;Poznań;4;27;3;3;1;0.5;3.5
+Poznań;Mazowiecka;26;60-623;Poznań;4;18;2;1;0;0;1
+Poznań;Mazowiecka;6;60-617;Poznań;4;98;5;13;0;0;13
+Poznań;Mazowiecka;20;60-617;Poznań;4;48;3;7;0;0;7
+Poznań;Kościelskiego;12;60-573;Poznań;4;42;3;1;5;3.92;4.92
+Poznań;Gerberowa;30;60-175;Poznań;4;21;2;4;0;0;4
+Poznań;Piwna;1a;61-065;Poznań;4;34;2;3;0;0;3
+Poznań;Palucha;15;60-409;Poznań;4;34;3;4;1;0.5;4.5
+Poznań;M.Pawlikowskiej-Jasnorzewskiej;12a;60-461;Poznań;4;32;3;7;0;0;7
+Poznań;Dziurawcowa;11;61-680;Poznań;4;9;1;0;1;0.63;0.63
+Poznań;Bliźniąt;12.lut;61-244;Poznań;4;22;1;2;1;0.5;2.5
+Poznań;Dąbrowskiego;172;60-594;Poznań;4;16;1;1;0;0;1
+Poznań;Maków Polnych;2/2a;61-606;Poznań;4;54;3;10;1;0.25;10.25
+Poznań;Jeleniogórska;7;60-179;Poznań;4;16;2;5;0;0;5
+Poznań;REJTANA;8;60-653;POZNAŃ;4;42;3;3;2;0.63;3.63
+Poznań;Słoneczna;19;60-258;Poznań - Grunwald;4;27;2;5;0;0;5
+Poznań;Leszka;25A;61-062;Poznań;4;19;2;4;0;0;4
+Poznań;Oś. Jana III Sobieskiego;116;60-688;Poznań;4;75;3;8;1;0.4;8.4
+Poznań;Rzepińska;19;60-176;Poznań;4;23;1;1;0;0;1
+Poznań;Os.Pod Lipami;17;61-638;Poznań;4;26;2;3;2;0.72;3.72
+Poznań;os. Strare Żegrze;55;61-249;Poznań Nowe Miasto;4;24;3;4;0;0;4
+Poznań;Kaliowa;39;60-175;Poznań;4;50;4;6;1;0.75;6.75
+Poznań;Plac Wiktora Degi;9;61-606;Poznań;4;110;8;9;0;0;9
+Poznań;Sowice29;29;61-306;Poznań;4;34;1;4;0;0;4
+Poznań;Milczańska;1;61-131;ul. Katowicka;4;56;5;0;6;1.2;1.2
+Poznań;Lubowska;53;60-454;Poznań;4;19;2;2;4;1.43;3.43
+Poznań;Hipolita Cegielskiego;1;61-862;Poznań;4;35;4;5;0;0;5
+Poznań;Dmowskiego;50;60-204;Poznań;4;16;1;1;0;0;1
+Poznań;Glebowa;36;61-312;Poznań;4;13;1;2;0;0;2
+Poznań;Łukaszewicza;wrz.13;60-409;Poznań;4;24;1;1;0;0;1
+Poznań;św. Rocha;10;61-142;Poznań;4;24;0.96;1;0;0;1
+Poznań;Harcerska;3;61-011;Poznań;4;18;1;1;0;0;1
+Poznań;28 Czerwca 1956;290;61-469;Poznań;4;24;1;2;0;0;2
+Poznań;Żonkilowa;34;60-175;Poznań;4;13;1;1;0;0;1
+Poznań;Gajowa;08.gru;60-815;Poznań;4;18;1;2;0;0;2
+Poznań;Mińska;32;61-049;Poznań;4;31;2;3;6;0.93;3.93
+Poznań;osiedle Armii Krajowej;97;61-381;Poznań;4;123;5;8;4;1.71;9.71
+Poznań;Gnieźnieńska;2;61-015;Poznań;4;21;2;3;0;0;3
+Poznań;Bosa;15;60-125;Poznań;4;5;1;2;0;0;2
+Poznań;Marcelińska;96c/220;60-324;Poznań;4;19;2;1;2;1.25;2.25
+Poznań;Poznańskie Sady;18;61-312;Poznań;4;15;1;1;1;0.5;1.5
+Poznań;Sośnicka;10;61-058;Poznań;4;54;3;3;0;0;3
+Poznań;Polanka;7F;61-131;Poznań;4;55;4;7;0;0;7
+Poznań;Pucka;18;60-454;Poznań;4;18;2;2;1;0.17;2.17
+Poznań;Strzeszyńska;67A;60-479;Poznań;4;37;3;5;0;0;5
+Poznań;Kościerzyńska;76/78;60-446;Poznań;4;13;2;0;10;3;3
+Poznań;Lęborska;51;60-454;Poznań;4;37;3;3;0;0;3
+Poznań;Przełęcz;60;60-115;Poznań;4;34;3;5;0;0;5
+Poznań;Grudzieniec;34;60-601;Poznań;4;75;6;10;1;0.25;10.25
+Poznań;Darzyborska;1a;61-303;Poznań;4;19;2;4;6;2.1;6.1
+Poznań;GÓRCZYŃSKA;46/1;60-132;POZNAŃ;4;17;1;4;0;0;4
+Poznań;Vetulaniego 11/Krasickiego 25;;61-409;Poznań;4;42;3;5;0;0;5
+Poznań;Kosowska;42;60-464;Poznań;4;149;9;12;0;0;12
+Poznań;Nad Seganką;6;60-541;Poznań;4;18;3;7;1;0.13;7.13
+Poznań;Powidzka;10;61-039;Poznań;4;32;3;4;0;0;4
+Poznań;Roślinna;36a;61-311;Poznań;4;26;2;0;2;0.06;0.06
+Poznań;Grochowe Łąki;2/A1;61-752;Poznań;4;19;2;0;1;0.17;0.17
+Poznań;Saperska;51/1;61-493;Poznań;4;36;3;5;1;0.28;5.28
+Poznań;Złotowska;32;60-189;Poznań;4;13;1;1;1;0.8;1.8
+Poznań;Bułgarska;19;60-320;Poznań;4;71;5;4;3;2.39;6.39
+Poznań;Naramowicka;222;61-611;Poznań;4;74;5;10;0;0;10
+Poznań;Podchorążych;22;60-143;Poznań;4;58;2;4;1;0.02;4.02
+Poznań;Nad Seganką;4;60-541;Poznań;4;25;3;4;1;0.74;4.74
+Poznań;Kłuszyńska;19;60-136;Poznań;4;133;6;11;0;0;11
+Poznań;Nad Różanym Potokiem;43;61-680;Poznań;4;41;3;3;0;0;3
+Poznań;Marcinkowskiego;1;61-745;Poznań;4;40;3;7;2;0.36;7.36
+Poznań;Prądzyńskiego;55;61-527;Poznań;4;15;1;1;0;0;1
+Poznań;Golęcińska;9;60-626;Poznań;4;16;1;1;4;0.83;1.83
+Poznań;Dobrowita;22;61-062;Poznań;4;87;5;7;2;0.88;7.88
+Poznań;Rynek Wildecki;4;61-547;Poznań;4;44;2;5;0;0;5
+Poznań;Berwińskigo;02.kwi;60-765;Poznań;4;57;7;23;2;1.1;24.1
+Poznań;Na Uboczu;8;60-115;Poznań;4;19;2;1;0;0;1
+Poznań;ROMKA STRZAŁKOWSKIEGO;05.lip;60-854;POZNAŃ;4;59;4;1;0;0;1
+Poznań;Czesława Miłosza;31;60-461;Poznań;4;3;1;2;1;0.5;2.5
+Poznań;Wolbromska;20;61-341;Poznań;4;81;5;10;0;0;10
+Poznań;Miłosławska;4;61-029;Poznań;4;45;2;0;4;1.52;1.52
+Poznań;Kolorowa;10;60-198;POZNAŃ;4;8;1;2;0;0;2
+Poznań;Bartoszycka;7;60-434;Poznań;4;35;2;3;0;0;3
+Poznań;os. Przyjaźni;126;61-684;Poznań;4;117;5;10;3;1;11
+Poznań;Stęszewska;6;60-111;Poznań;4;17;2;2;1;0.5;2.5
+Poznań;RUBIEŻ;46;61-612;POZNAŃ;4;54;3;6;1;0.5;6.5
+Poznań;Jasna Rola;58;61-609;Poznań;4;45;4;6;0;0;6
+Poznań;os. Jana III Sobieskiego;52;60-688;Poznań;4;19;2;1;1;0.5;1.5
+Poznań;KARPIA;17B/lok28;61-619;POZNAŃ;4;7;1;2;0;0;2
+Poznań;Brzeska;7;61-048;Poznan;4;33;1;1;3;1.75;2.75
+Poznań;Smoluchowskiego;5;60-179;Poznań;4;14;3;2;0;0;2
+Poznań;Rycerska;8;60-346;Poznań;4;28;2;2;2;1.3;3.3
+Poznań;Grunwaldzla;68;60-311;Poznań;4;60;4;8;0;0;8
+Poznań;Grunwaldzka;182;60-166;Poznań;4;47;3;9;0;0;9
+Poznań;Rejtana;6;60-653;Poznań;4;27;2;3;0;0;3
+Poznań;Gnieźnieńska;32;61-021;Poznań;4;49;4;5;0;0;5
+Poznań;Perzycka;11;60-182;Poznań;4;44;3;8;2;0.58;8.58
+Poznań;Kartuska;17;60-471;Poznań;4;75;4;5;0;0;5
+Poznań;Lubeckiego;30a;60-348;Poznań;4;19;1;1;0;0;1
+Poznań;Złota;10;60-592;Poznań;4;33;2;4;0;0;4
+Poznań;Umultowska;100A;61-614;Poznań;4;25;3;5;0;0;5
+Poznań;Miastkowska;124;60-184;Poznań;4;70;4;8;0;0;8
+Poznań;os.Piastowskie;42;61-152;Poznań;4;40;5;5;0;0;5
+Poznań;os. B. Chrobrego;cze.66;60-681;Poznań;4;16;2;8;1;0.6;8.6
+Poznań;Wichrowe Wzgórze;130;61-699;Poznań;4;14;2;2;0;0;2
+Poznań;WILCZAK15B;1;61-623;POZNAŃ;4;40;1;3;1;0.2;3.2
+Poznań;Łubinowa;7;60-175;Poznań;4;17;2;3;0;0;3
+Poznań;Libelta;31;61-707;Poznań;4;43;3;8;3;1.09;9.09
+Poznań;Mickiewicza;32/3;60-836;Poznań;4;62;3;9;4;2.2;11.2
+Poznań;Grabowa;33;61-473;Poznań;4;48;3;7;1;0.56;7.56
+Poznań;Głogowska;92;60-262;Poznań;1;397;16;24;24;12.66;36.66
+Poznań;SIERAKOWSKA;23;60-367;POZNAŃ;1;311;13;24;16;6.82;30.82
+Poznań;Mińska;32;61-049;Poznań;1;103;7;3;21;9.71;12.71
+Poznań;Fabianowo;29;60-005;Poznań;1;180;9;2;27;14.21;16.21
+Poznań;Chojnicka;57;60-480;Poznań;1;613;28;50;16;10.44;60.44
+Poznań;HEZJODA;15;60-461;POZNAŃ;1;1066;49;99;46;13.85;112.85
+Poznań;BOSA;9;60-125;POZNAŃ;1;526;26;51;18;10.34;61.34
+Poznań;os. Wichrowe Wzgórze;119;61-699;Poznań;1;483;25;52;14;8.02;60.02
+Poznań;Osiedle Piastowskie;65;61-156;Poznań;1;340;17;44;9;4.03;48.03
+Poznań;os. B. Chrobrego;105;60-681;Poznań;1;759;36;61;11;6.03;67.03
+Poznań;os. Armii Krajowej;100;61-381;Poznań;1;456;22;49;3;1.8;50.8
+Poznań;os. Oświecenia;1;61-205;Poznań;1;447;23;46;7;4.26;50.26
+Poznań;os. Jagiellońskie;128;61-223;Poznań;1;377;15;29;25;12.91;41.91
+Poznań;os. Rzeczypospolitej;44;61-395;Poznań;1;517;28;68;7;2.74;70.74
+Poznań;Norwida;21;60-867;Poznań;1;344;19;38;9;3.83;41.83
+Poznań;Prądzyńskiego;53;61-527;Poznań;1;595;40;111;33;11.19;122.19
+Poznań;Winiary;2;60-665;Poznań;1;423;20;43;8;4.68;47.68
+Poznań;Os.Piastowskie;27;61-149;Poznań;1;303;16;30;12;5.59;35.59
+Poznań;Słowackiego;54/56;60-521;Poznań;1;263;14;24;16;4.72;28.72
+Poznań;Romana Brandstaettera;6;61-659;Poznań;1;548;24;47;8;4.33;51.33
+Poznań;Rawicka;gru.14;60-113;Poznań;1;497;23;43;13;7.71;50.71
+Poznań;Harcerska;3;61-011;POZNAŃ;1;382;20;38;9;4.45;42.45
+Poznań;Inowrocławska;19;61-044;Poznań;1;397;19;37;12;6.73;43.73
+Poznań;Sarmacka;105;61-616;Poznań;1;281;16;37;4;1.22;38.22
+Poznań;Traugutta;42;61-514;Poznań;1;449;20;43;6;3.21;46.21
+Poznań;os.Lecha;37;61-294;Poznań;1;743;34;76;12;6.15;82.15
+Poznań;Małoszyńska;38;60-176;Poznań;1;474;21;43;6;3.27;46.27
+Poznań;Szpaków;1;61-065;Poznań;1;247;13;22;10;4.38;26.38
+Poznań;Leśnowolska;35;60-452;Poznań;1;516;22;34;29;14.83;48.83
+Poznań;Ławica;3;60-186;Poznań;1;447;21;38;7;3.65;41.65
+Poznań;Baranowska;1;61-353;Poznań;1;289;16;28;17;8.17;36.17
+Poznań;osiedle Rusa;56;61-245;Poznań;1;825;39;113;7;4.14;117.14
+Poznań;Boranta;2;61-608;Poznań;1;499;23;45;5;2.09;47.09
+Poznań;Szczepankowo;72a;61-306;Poznań;1;583;27;53;7;4.54;57.54
+Poznań;Druskienicka;32;60-476;Poznań;1;610;28;43;20;10.9;53.9
+Poznań;Starołęcka;142;61-341;Poznań;1;280;13;21;13;6.67;27.67
+Poznań;os. Orła Białego;120;61-251;Poznań;1;643;31;59;11;6.1;65.1
+Poznań;os. Przyjaźni;127;61-684;Poznań;1;682;33;72;19;9.89;81.89
+Poznań;Os. St. Batorego;101;60-587;Poznań;1;820;33;71;7;4.1;75.1
+Poznań;os. J. III Sobieskiego;102;60-688;Poznań;1;207;24;62;3;1.74;63.74
+Poznań;Galileusza;14;60-158;Poznań;1;718;33;69;6;3.97;72.97
+Poznań;Piękna;37;60-591;Poznań;1;501;24;46;7;3.49;49.49
+Poznań;Przybyszewskiego;37;60-356;Poznań;1;461;23;39;12;6.08;45.08
+Poznań;Newtona;2;60-161;Poznań;1;233;10;20;18;9.1;29.1
+Poznań;Drzymały;04.cze;60-613;Poznań;1;179;7;13;11;5.48;18.48
+Poznań;Trybunalska;17/25;60-325;Poznań;1;514;24;36;20;10.96;46.96
+Poznań;Powstańców Wielkopolskich;3;61-895;Poznań;1;367;22;64;17;9.82;73.82
+Poznań;Dmowskiego;50;60-204;Poznań;1;462;23;40;12;6.8;46.8
+Poznań;Żonkilowa;34;60-175;Poznań;1;519;26;61;9;5.13;66.13
+Poznań;Pogodna;84;60-137;Poznań;1;314;16;27;11;4.46;31.46
+Poznań;Krakowska;10;61-889;Poznań;1;304;17;30;16;6.69;36.69
+Poznań;Brandstaettera;1;61-659;Poznań;1;256;10;19;21;10.36;29.36
+Poznań;św. Szczepana;3;61-465;Poznań;1;466;21;41;23;7.8;48.8
+Poznań;Tomickiego;16;61-116;Poznań;1;273;14;28;12;4.93;32.93
+Poznań;Swoboda;53;60-389;Poznań;1;441;22;48;8;4.47;52.47
+Poznań;Sochaczewska;3;60-645;POZNAŃ;1;385;18;32;10;4.5;36.5
+Poznań;Łukaszewicza;wrz.13;60-726;Poznań;1;393;24;42;8;4.96;46.96
+Poznań;Chociszewskiego;56;60-261;Poznań;1;486;22;39;13;5.61;44.61
+Poznań;Promyk;4;60-393;Poznań;1;368;15;33;16;4.68;37.68
+Poznań;Juliusza Słowackiego;58/60;60-521;Poznań;1;226;10;15;12;5.35;20.35
+Poznań;al. Niepodległości;41;61-714;Poznań;1;323;13;16;37;17.29;33.29
+Poznań;Janickiego;22;60-542;Poznań;1;54;6;10;11;5.68;15.68
+Poznań;Dąbrowskiego;73;60-523;Poznań;1;36;4.99;7;12;4.98;11.98
+Poznań;Obornicka;314;60-691;Poznań;1;30;10;20;17;8.45;28.45
+Poznań;Borówki;10;61-304;Poznań;2;86;7;9;6;1.8;10.8
+Poznań;Hipolita Cegielskiego;1;61-862;Poznań;2;134;7;4;23;9.19;13.19
+Poznań;Piwna;1;61-065;Poznań;2;311;15;17;24;14.79;31.79
+Poznań;Drzymały;04.cze;60-613;Poznań;2;124;11;15;5;2.51;17.51
+Poznań;Kościerzyńska;76/78;60-446;Poznań;2;242;17;0;24;8.14;8.14
+Poznań;Starołęcka;138;61-341;Poznań;2;9;4;1;17;3.67;4.67
+Poznań;Al. Niepodległości;36;61-714;Poznań;2;203;16;4;30;16.37;20.37
+Poznań;os. Jana III Sobieskiego;109;60-688;Poznań;2;25;6;1;18;8.89;9.89
+Poznań;Winogrady;139;61-626;Poznań;2;1;1;1;0;0;1
+Poznań;Przełajowa;5;61-622;Poznań;2;34;8;18;0;0;18
+Poznań;STRZAŁKOWSKIEGO;05.lip;60-854;POZNAŃ;2;370;24;14;20;8.96;22.96
+Poznań;Darzyborska;1a;61-303;Poznań;2;51;7;8;11;5.34;13.34
+Poznań;Kossaka;3;60-759;Poznań;2;154;5;0;11;2.48;2.48
+Poznań;Ściegiennego;10;60-128;Poznań;2;137;4;0;11;4.29;4.29
+Poznań;św. Michała;50 M;61-118;Poznań;2;512;28;55;14;11.96;66.96
+Poznań;Świerzawska;18;60-321;Poznań;2;77;6;10;13;4.11;14.11
+Poznań;Druskienicka;6;60-476;Poznań;2;75;10;7;12;4.75;11.75
+Poznań;Winogrady;144;61-626;Poznań;2;20;7;22;6;3.77;25.77
+Poznań;Os. Wichrowe Wzgórze;114;61-670;Poznań;2;409;25;51;9;4.71;55.71
+Poznań;Grabowa;33;61-473;Poznań;2;339;19;30;18;13.14;43.14
+Poznań;os. Oświecenia;64;61-209;Poznań;2;326;20;38;8;5.07;43.07
+Poznań;Łozowa;77;61-448;Poznań;2;85;8;8;19;9.93;17.93
+Poznań;Golęcińska;9;60-626;Poznań;2;414;26;28;44;18.97;46.97
+Poznań;Szczepankowo;131;60-840;Poznań;2;64;7;10;8;3.18;13.18
+Poznań;Głogowska;147;60-206;Poznań;2;81;6;3;26;10.5;13.5
+Poznań;PIĄTKOWSKA;148;60-650;POZNAŃ;2;24;4;3;11;4.44;7.44
+Poznań;Mariacka;24/28;61-012;Poznań;2;6;1;2;1;0.78;2.78
+Poznań;Taczanowskiego;18;60-147;Poznań;2;437;24;38;23;13.44;51.44
+Poznań;Szamotulska;33;60-365;Poznań;2;12;1;0;13;1.15;1.15
+Poznań;Ściegiennego;10;60-128;Poznań;2;21;6;2;1;0.13;2.13
+Poznań;Łozowa;77;61-488;Poznań;2;20;4;8;1;0.15;8.15
+Poznań;Filipińska;4;61-123;Poznań;1;31;2;0;13;2.33;2.33
+Poznań;Łozowa;53;61-448;Poznań;1;162;7;17;15;4.89;21.89
+Poznań;Ściegiennego;134;60-304;Poznań;1;0;0;0;0;0;0
+Poznań;Mińska;32;61-049;Poznań;1;39;2;0;20;4.09;4.09
+Poznań;Hipolita Cegielskiego;1;61-862;Poznań;2;42;2;0;21;6.05;6.05
+Poznań;Drzymały;04.cze;60-613;Poznań;2;24;2;3;10;3.91;6.91
+Poznań;gen. T. Kutrzeby;10;61-719;Poznań;2;106;6;2;29;12.31;14.31
+Poznań;os. Lecha;37;61-294;Poznań;2;87;4;1;10;4.78;5.78
+Poznań;Kościerzyńska;76/78;60-446;Poznań;2;20;4;0;21;2.16;2.16
+Poznań;Starołęcka;138;61-341;Poznań;2;7;2;0;18;3.31;3.31
+Poznań;al. Niepodległości;36;61-714;Poznań;2;33;2;0;17;3.26;3.26
+Poznań;os. Jana III Sobieskiego;109;60-688;Poznań;2;10;2;0;14;4.19;4.19
+Poznań;Piwna;1;61-065;Poznań;2;69;4;4;16;6.71;10.71
+Poznań;św. Michała;50 M;61-118;Poznań;2;65;4;2;19;6.43;8.43
+Poznań;Strzałkowskiego;05.lip;61-854;Poznań;2;33;2;0;15;4.6;4.6
+Poznań;Druskienicka;6;60-476;Poznań;2;17;1;0;10;3.09;3.09
+Poznań;Grabowa;33;61-473;Poznań;2;68;4;2;22;8.1;10.1
+Poznań;Winogrady;144;61-626;Poznań;2;0;0;0;0;0;0
+Poznań;Os. Oświecenia;64;61-209;Poznań;2;57;3;1;13;2.54;3.54
+Poznań;Łozowa;77;61-448;Poznań;2;17;2;0;15;3.36;3.36
+Poznań;Ściegiennego;134;60-304;Poznań;1;0;0;0;0;0;0
+Poznań;Strzelecka;10;61-845;Poznań;1;554;18;37;11;6.16;43.16
+Poznań;Swojska;6;60-592;Poznań;1;613;21;42;10;5.99;47.99
+Poznań;Warzywna;24;61-658;Poznań;1;541;18;39;12;7.76;46.76
+Poznań;os. Tysiąclecia;43;61-255;Poznań;1;601;29;76;27;15.96;91.96
+Poznań;Garbary;24;61-867;Poznań;1;542;19;33;29;10.68;43.68
+Poznań;Strzałkowskiego;05.lip;61-854;Poznań;1;133;6;3;21;11.67;14.67
+Poznań;Ściegiennego;134;60-304;Poznań;1;174;3;2;8;1.31;3.31
+Poznań;Głogowska;92;60-262;Poznań;1;175;6;5;26;13.46;18.46
+Poznań;Zmartwychwstańców;10;61-501;Poznań;1;738;24;49;12;5.64;54.64
+Poznań;Żeromskiego;08.gru;60-544;Poznań;1;579;19;40;20;12.12;52.12
+Poznań;Hipolita Cegielskiego;1;61-862;Poznań;1;653;21;39;22;13.95;52.95
+Poznań;Ściegiennego;134;60-304;Poznań;1;548;18;40;14;8.97;48.97
+Poznań;Kutrzeby;8;61-719;Poznań;1;468;16;29;18;8.23;37.23
+Poznań;os. Piastowskie;106;61-164;Poznań;1;258;10;22;17;5.56;27.56
+Poznań;OS. BOLESŁAWA CHROBREGO;107;60-681;POZNAŃ;1;432;18;38;9;5.88;43.88
+Poznań;Osiedle Wichrowe Wzgórze;111;61-699;Poznań;1;507;20;44;29;15.08;59.08
+Poznań;Widna;1;60-655;Poznań;1;301;11;22;23;10.05;32.05
+Poznań;Klaudyny Potockiej;38;60-211;Poznań;1;118;8;10;19;8.98;18.98
+Poznań;Małoszyńska;38;60-176;Poznań;1;352;11;31;16;7.68;38.68
+Poznań;Półwiejska;09.cze;61-885;Poznań;2;109;6;0;3;0.99;0.99
+Poznań;Starołęcka;138;61-341;POZNAŃ;2;3;1;0;15;3.52;3.52
+Poznań;Starołęcka;138;61-341;Poznań;2;10;3;1;14;2.88;3.88
+Poznań;gen. T. Kutrzeby;10;61-719;Poznań;2;48;5;1;21;6.55;7.55
+Poznań;Szamotulska;33;60-365;Poznań;2;80;6;0;10;3.05;3.05
+Poznań;Półwiejska;30;61-888;Poznań;2;109;6;0;10;0.51;0.51
+Poznań;Bułgarska;55;60-320;Poznań;2;70;3;0;10;2.2;2.2
+Poznań;os. Przyjaźni;136;61-685;Poznań;2;207;8;0;12;3.56;3.56
+Poznań;Bosa;9;60-125;Poznań;2;48;3;1;9;1.49;2.49
+Poznań;Podgórna 3;1;61-829;Poznań;2;57;4;0;8;0.75;0.75
+Poznań;Os. Rusa;56;61-245;Poznań;2;168;7;2;9;1.73;3.73
+Poznań;Taczanowskiego;18;60-147;Poznań;2;125;7;4;18;9.42;13.42
+Poznań;Głogowska;147;60-206;Poznań;2;44;3;4;22;7.83;11.83
+Poznań;al. Niepodległości;43;61-714;Poznań;2;106;4;2;40;17.45;19.45
+Poznań;Szamotulska;33;60-365;Poznań;2;27;1;0;15;1.7;1.7
+Poznań;os. Lecha;37;61-294;Poznań;2;130;6;1;10;5.68;6.68
+Poznań;Przełajowa;5;61-622;Poznań;2;2;1;12;0;0;12
+Poznań;Półwiejska;20/7a;61-888;Poznań;2;89;4;2;4;1.61;3.61
+Poznań;Półwiejska;23.cze;61-885;Poznań;2;133;7;0;13;3.4;3.4
+Poznań;Kossaka;3;60-759;Poznań;2;504;9;0;17;4.74;4.74
+Poznań;Ściegiennego;10;60-128;Poznań;2;309;9;0;21;8.91;8.91
+Poznań;św. Jerzego;06.pa?60-546;Poznań;2;101;3;0;12;3.18;3.18
+Poznań;os. Jagiellońskie;128;61-223;Poznań;2;96;3;0;5;1.06;1.06
+Poznań;Słowackiego;58/60;60-521;Poznań;2;107;5;1;21;7.72;8.72
+Poznań;os. Tysiąclecia;43;61-255;Poznań;2;306;6;0;8;2.58;2.58
+Poznań;Os. Kosmonautów;111;61-642;Poznań;2;179;5;0;7;1.79;1.79
+Poznań;Półwiejska;25.lut;61-889;Poznań;2;216;5;0;9;2.5;2.5
+Poznań;27 Grudnia;7;61-737;Poznań;2;662;13;0;14;5.69;5.69
+Poznań;Dąbrowskiego;163;60-594;Poznań;1;284;11;31;16;7.93;38.93
+Poznań;Golęcińska;9;60-626;Poznań;1;468;18;37;8;4.35;41.35
+Poznań;ul. 28 Czerwca 1956 r.;352/360;61-441;Poznań;1;505;20;42;22;11.02;53.02
+Poznań;Rynek Jeżycki;1;60-847;Poznań;2;197;12;9;20;9.97;18.97
+Poznań;Strzałkowskiego;05.lip;60-854;Poznań;1;22;3;0;7;1.58;1.58
+Poznań;Czechosłowacka;27;61-459;Poznań;1;177;8;48;0;0;48
+Poznań;Orzeszkowej;1;60-778;Poznań;2;146;8;0;26;8.95;8.95
+Poznań;Półwiejska;09.cze;61-885;Poznań;2;84;3;0;3;1.06;1.06
+Poznań;Półwiejska;09.cze;61-885;Poznań;2;363;14;0;3;0.99;0.99
+Poznań;Półwiejska;25.lut;61-889;Poznań;2;636;13;0;14;5.92;5.92
+Poznań;GAJOWA;08.sty;61-815;POZNAŃ;2;48;3;3;0;0;3
+Poznań;Półwiejska;20/7a;61-888;Poznań;2;27;1;0;4;1.61;1.61
+Poznań;Półwiejska;20/7a;61-888;Poznań;2;242;16;0;17;9.45;9.45
+Poznań;Półwiejska;23.cze;61-885;Poznań;2;311;13;1;27;7.14;8.14
+Poznań;Półwiejska;23.cze;61-885;Poznań;2;483;27;2;35;10.59;12.59
+Poznań;Elizy Orzeszkowej;1;60-778;Poznań;2;0;0;0;0;0;0
+Poznań;27 Grudnia;7;61-737;POZNAŃ;2;1332;36;0;40;18.89;18.89
+Poznań;Podgórna 3;1;61-829;Poznań;2;400;13;0;23;2.94;2.94
+Poznań;Półwiejska;25.lut;61-889;Poznań;2;131;4;0;8;2.22;2.22
+Poznań;Bydgoska;4a;61-127;Poznań;2;27;2;0;3;1;1
+Poznań;Półwiejska;25.lut;61-889;Poznań;2;153;4;0;7;2.27;2.27
+Poznań;Rynek Jeżycki;1;60-847;Poznań;2;351;22;1;21;12.61;13.61
+Poznań;Szamotulska;33;60-365;Poznań;2;203;15;0;12;3.66;3.66
+Poznań;Bosa;9;60-125;Poznań;2;0;0;0;0;0;0
+Poznań;Piotra Ściegiennego;134;60-304;Poznań;2;15;1;0;5;1.45;1.45
+Poznań;Bosa;9;60-125;Poznań;2;30;2;1;7;1.65;2.65
+Poznań;Brzeźnicka;3;60-133;Poznań;2;50;2;1;10;2.71;3.71
+Poznań;Brzeźnicka;3;60-133;Poznań;2;138;6;0;14;3.8;3.8
+Poznań;Pawłowskiego;6;60-681;Poznań;2;6;1;1;7;0.12;1.12
+Poznań;Bułgarska;55;60-320;Poznań;2;3;1;0;6;1.32;1.32
+Poznań;Bułgarska;55;60-320;Poznań;2;9;2;0;7;1.54;1.54
+Poznań;Bułgarska;55;60-320;Poznań;2;6;1;0;6;1.32;1.32
+Poznań;Bułgarska;55;60-320;Poznań;2;16;2;0;8;1.76;1.76
+Poznań;Zeylanda;1;60-808;Poznań;2;88;4;0;5;2.41;2.41
+Poznań;Ściegiennego;10;60-128;Poznań;2;26;2;0;8;2.88;2.88
+Poznań;os. Tysiąclecia;43;61-255;Poznań;2;68;3;0;3;1.24;1.24
+Poznań;os. Jagiellońskie;128;61-223;Poznań;2;79;2;0;3;0.89;0.89
+Poznań;Osiedle Kosmonautów;111;61-642;Poznań;2;105;4;0;4;1.41;1.41
+Poznań;Kossaka;3;60-759;Poznań;2;118;4;0;6;1.97;1.97
+Poznań;Woźna 9/4;47;61-777;Poznań;2;85;5;0;4;0.51;0.51
+Poznań;Rynek Jeżycki;1;60-847;Poznań;2;326;18;7;42;19.09;26.09
+Poznań;ŚW.MARCIN;66/72;61-807;POZNAŃ-STARE MIASTO;2;67;3;1;2;0.33;1.33
+Poznań;ŚW,MARCIN;66/72;61-807;Poznań;2;0;0;0;0;0;0
+Poznań;Hangarowa;14;60-409;Poznań;2;39;3;0;3;0.72;0.72
+Poznań;Półwiejska;30;61-888;Poznań;2;372;17;0;24;1.2;1.2
+Poznań;ŚW.MARCIN;66/72;61-807;POZNAŃ-STARE MIASTO;2;164;7;0;3;1.01;1.01
+Poznań;Os. Rusa;56;61-245;Poznań;2;485;14;3;6;2.69;5.69
+Poznań;Bułgarska;55;60-320;Poznań;2;25;6;0;10;2.2;2.2
+Poznań;Warzywna;24;61-658;POZNAŃ;2;212;14;9;0;0;9
+Poznań;28 Czerwca;231/239;61-485;Poznań;2;308;13;6;18;9.34;15.34
+Poznań;28 Czerwca 1956 r.;231/239;61-485;Poznań;2;169;5;1;11;3.26;4.26
+Poznań;Warzywna;24;61-658;Poznań;2;54;3;3;0;0;3
+Poznań;PÓŁWIEJSKA;09.cze;61-885;POZNAŃ;3;0;0;0;0;0;0
+Poznań;Półwiejska;09.cze;61-885;Poznań;3;0;0;0;0;0;0
+Poznań;Półwiejska;25.lut;61-889;Poznań;3;199;18;0;9;2.17;2.17
+Poznań;Rynek Jeżycki;1;60-847;Poznań;3;14;1;0;8;2.11;2.11
+Poznań;Półwiejska;23.cze;61-885;Poznań;3;91;8;0;16;4.88;4.88
+Poznań;Półwiejska;30;61-888;Poznań;3;306;24;0;12;0.16;0.16
+Poznań;ŚW.MARCIN 66/72;09.pa?61-807;Poznań;3;47;2;0;6;0.73;0.73
+Poznań;FILIPIŃSKA;4;61-123;Poznań;1;164;7;22;42;19.96;41.96
+Poznań;Solna;12;61-736;Poznań;1;336;14;55;44;23.37;78.37
+Poznań;Bydgoska;4;61-127;Poznań;1;183;8;26;36;18.53;44.53
+Poznań;Druskiennicka;32;60-476;Poznań;2;75;0;1;10;5.17;6.17
+Poznań;Solna;12;61-736;Poznań;1;296;12;50;93;50.44;100.44
+Poznań;Junikowska;35;60-163;Poznań;1;207;8;24;21;11.55;35.55
+Poznań;Gołębia;8;61-834;Poznań;1;202;12;27;42;18.28;45.28
+Poznań;Mansfelda;4;60-854;Poznań;3;121;0;3;6;2.66;5.66
+Poznań;Droga Dębińska;21;61-555;Poznań;1;0;0;11;15;8.21;19.21
+Poznań;ul.Za Cytadelą;121;61-663;Poznań;1;0;0;12;17;9.33;21.33
+Poznań;Jarochowskiego;1;60-235;Poznań 34;1;0;0;6;13;6.71;12.71
+Poznań;Przybyszewskiego;30A;60-357;Poznań;1;0;0;3;5;0.94;3.94
+Poznań;Biskupińska;27;60-463;Poznań;4;0;0;1;0;0;1
+Poznań;Michała Drzymały;3;60-613;Poznań;4;0;0;0;1;0.2;0.2
+Poznań;Tomickiego;16;61-116;Poznań;4;0;0;0;0;0;0
+Poznań;Półwiejska;25.lut;61-889;Poznań;4;0;0;0;0;0;0
+Poznań;Nowowiejskiego;29;61-733;Poznań;1;0;0;11;8;4;15
+Poznań;Os. RUSA;56/D1;61-245;POZNAŃ;1;0;0;8;1;0.75;8.75
+Poznań;Św. Antoniego;42;61-359;Poznań;1;0;0;10;7;3.5;13.5
+Poznań;Sierakowska;23;60-367;Poznań;1;0;0;15;8;4;19
+Poznań;os. Bolesława Chrobrego;105;60-681;Poznań;1;0;0;6;5;2.75;8.75
+Poznań;Oliwska;14;60-454;Poznań;4;0;0;1;11;3.18;4.18
+Poznań;Frezjowa;22;60-175;Polska;4;0;0;1;13;5.75;6.75
+Poznań;Golęcińska;9;60-626;Poznań;4;0;0;0;2;0.75;0.75
+Poznań;Piątkowska;41A/5;60-648;Poznań;4;0;0;0;2;0.5;0.5
+Poznań;Jarochowskiego;44;60-239;Poznań;4;0;0;1;1;0.13;1.13
+Poznań;Al. Niepodległości;36;61-714;Poznań;4;0;0;1;11;2.75;3.75
+Poznań;Promienista;6;60-288;Poznań;4;0;0;0;3;0.99;0.99
+Poznań;Bosa;15;60-125;Poznań;4;0;0;0;1;0.2;0.2
+Poznań;Plac Kolegiacki;12a;61-841;Poznań;4;0;0;1;0;0;1
+Poznań;Os. Łokietka;4H;61-616;Poznań;4;0;0;0;1;0.07;0.07
+Poznań;Radojewo;28;61-680;Poznań;4;0;0;5;0;0;5
+Poznań;Mariacka;24/28;61-012;Poznań;4;63;0;13;3;1.28;14.28
+Poznań;Szamarzewskiego;78/82;60-569;Poznań;1;47;0;90;23;12.01;102.01
+Poznań;Szamarzewskiego;78/82;60-569;Poznań;1;17;7;0;0;0;0
+Poznań;Szamarzewskiego;78/82;60-569;Poznań;1;44;6;0;0;0;0
+Poznań;Płowiecka;5;60-277;Poznań;1;14;14;0;0;0;0
+Poznań;Szamarzewskiego;78/82;60-569;Poznań;1;22;12;0;0;0;0
+Poznań;Szamarzewskiego;78/82;60-569;Poznań;1;34;5;0;0;0;0
+Poznań;Szamarzewskiego;78/82;60-569;Poznań;1;11;4;0;0;0;0
+Poznań;Bydgoska;4a;61-127;Poznań;1;44;0;100;4;2.34;102.34
+Poznań;Bydgoska;4a;61-127;Poznań;1;12;2;0;0;0;0
+Poznań;Bydgoska;4a;61-127;Poznań;1;0;0;0;0;0;0
+Poznań;Bydgoska;4a;61-127;Poznań;1;12;3;0;0;0;0
+Poznań;Bydgoska;4a;61-127;Poznań;1;82;16;0;0;0;0
+Poznań;Bydgoska;4a;61-127;Poznań;1;0;0;0;0;0;0
+Poznań;Bydgoska;4a;61-127;Poznań;1;23;4;0;0;0;0
+Poznań;BOSA;15;60-125;POZNAŃ;4;80;0;8;0;0;8
+Poznań;Pilicka;5;60-401;Poznań;4;0;0;1;0;0;1
+Poznań;Św.Rocha;16a;61-142;Poznań;4;0;0;7;0;0;7
+Poznań;Krakowska;17;61-889;Poznań;1;0;0;11;1;0.5;11.5
+Poznań;Stanisława Hejmowskiego;1;61-736;Poznań;1;0;0;14;6;3.1;17.1
+Poznań;ul. Górecka;1;60-201;Poznań;1;0;0;18;4;1.7;19.7
+Poznań;Jeleniogórska;04.cze;60-179;Ponzań;4;0;0;0;0;0;0
+Poznań;ŚW. MARCIN;59;61-806;POZNAŃ;4;0;0;0;0;0;0
+Poznań;Kochanowskiego;22.cze;60-846;Poznań;4;0;0;0;3;1;1
+Poznań;Tomickiego;16;61-116;Poznań;4;0;0;0;0;0;0
+Poznań;Os. Wichrowe Wzgórze;119;61-699;Poznań;4;0;0;0;0;0;0
+Poznań;Obornicka;274;60-693;Poznań;4;0;0;0;0;0;0
+Poznań;ul. Bułgarska;19;60-320;Poznań;1;0;0;41;2;1;42
+Poznań;Podbiałowa;11;61-680;Poznań;4;0;0;5;0;0;5
+Poznań;Bliźniat;12a/9;61-224;Poznań;4;0;0;0;1;0.2;0.2
+Poznań;Mołdawska;22;61-614;Poznań;3;116;0;4;4;1.17;5.17
+Poznań;os. Stefana Batorego;101;60-687;Poznań;1;0;0;0;1;0.01;0.01
+Poznań;Półwiejska;30;61-888;Poznań;1;0;0;0;2;0.02;0.02
+Poznań;Zeylanda;1;60-808;Poznań;1;0;0;0;2;0.86;0.86
+Poznań;Półwiejska;09.cze;61-885;Poznań;4;0;0;0;0;0;0
+Poznań;Mielżyńskiego;20;61-725;Poznań;4;0;0;0;0;0;0
+Poznań;Taczaka;10;61-818;Poznań;4;0;0;0;39;26.13;26.13
+Poznań;Świętego Marcina;66/72;60-766;Poznań;4;0;0;5;0;0;5
+Poznań;Półwiejska;20/7a;61-888;Poznan;4;0;0;2;0;0;2
+Poznań;Wieniawskiego;05.cze;61-712;Poznań;4;0;0;0;0;0;0
+Poznań;WARSZAWSKA;39/41;61-028;POZNAŃ;4;0;0;0;4;0.53;0.53
+Poznań;Obornicka;274;60-693;Poznań;4;0;0;0;0;0;0
+Poznań;Obornicka;274;60-693;Poznań;4;0;0;0;0;0;0
+Poznań;MAJAKOWSKIEGO 309A;24;61-066;POZNAŃ;4;0;0;0;1;0.38;0.38
+Poznań;Półwiejska;23.cze;61-885;Poznań;4;0;0;0;5;2.22;2.22
+Poznań;Rynek Jeżycki;1;60-847;Poznań;4;0;0;0;6;1.89;1.89
+Poznań;Wawrzyniaka;37;60-504;Poznań;4;0;0;0;0;0;0
+Poznań;Listopadowa;22;60-153;Poznań;4;14;1;1;0;0;1
+Poznań;Bogusza;81;61-608;Poznań;4;51;7;20;0;0;20
+Poznań;Kaliska;13;61-131;Poznań;4;6;1;1;1;0.75;1.75
+Poznań;Naramowicka;264a/1;61-601;Poznań;4;5;2;1;0;0;1
+Poznań;Oliwska;14;60-454;Poznań;4;10;1;4;4;2;6
+Poznań;Frezjowa;22;60-175;Polska;4;66;3;14;4;1.73;15.73
+Poznań;Naramowicka;264a/1;61-601;Poznań;4;5;1;1;0;0;1
+Poznań;Knapowskiego;23;60-126;Poznań;4;4;1;0;1;0.48;0.48
+Poznań;Dąbrowskiego;25/2b;60-840;Poznań;4;23;1;1;0;0;1
+Poznań;Wiankowa;1;61-049;Poznań;4;7;1;2;0;0;2
+Poznań;Gromadzka;12;61-655;Poznań;4;11;1;2;0;0;2
+Poznań;Os. Wichrowe Wzgórze;119;61-699;Poznań;4;22;1;3;0;0;3
+Poznań;Starołęcka;129;61-341;Poznań;4;25;2;4;0;0;4
+Poznań;Przemysłowa;68;61-541;Poznań;4;42;9;28;1;0.5;28.5
+Poznań;Cegielskiego;1;61-862;Poznań;1;192;9;31;43;17.88;48.88
+Poznań;Dąbrowskiego;163;61-777;Poznań;3;0;0;0;0;0;0
+Poznań;ul. 27 Grudnia;3;61-737;Poznań;3;25;2;0;12;0.42;0.42
+Poznań;;;60-236;Poznań;3;59;5;0;9;1.63;1.63
+Poznań;Taczaka;10;61-818;Poznań;3;45;2;0;12;8.04;8.04
+Poznań;św. Jerzego;06.pa?61-546;Poznań;1;184;14;23;13;6.31;29.31
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;33;14;6.49;39.49
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;0;0;0;0
+Poznań;GRUNWALDZKA;200;60-166;POZNAŃ;1;0;0;0;0;0;0
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;0;0;0;0
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;0;0;0;0
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;0;0;0;0
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;0;0;0;0
+Poznań;Jawornicka;1;60-161;Poznań;1;0;0;0;0;0;0
+Poznań;Jawornicka;1;60-161;Poznań;1;320;13;0;0;0;0
+Poznań;SZAMARZEWSKIEGO;99;60-568;POZNAŃ;1;0;0;20;55;18.21;38.21
+Poznań;Szamarzewskiego;99;60-568;Poznań;1;0;0;0;0;0;0
+Poznań;SZAMARZEWSKIEGO;99;60-568;POZNAŃ;1;177;11;0;0;0;0
+Poznań;SZAMARZEWSKIEGO;99;60-568;POZNAŃ;1;87;6;0;0;0;0
+Poznań;Mostowa;6;61-855;Poznań;1;0;0;24;22;8.33;32.33
+Poznań;Mostowa;6;61-855;Poznań;1;0;0;0;0;0;0
+Poznań;Mostowa;6;61-855;Poznań;1;51;3;0;0;0;0
+Poznań;Mostowa;6;61-855;Poznań;1;68;4;0;0;0;0
+Poznań;Mostowa;6;61-855;Poznań;1;96;4;0;0;0;0
+Poznań;Wagrowska;9;61-369;Poznań;1;0;0;18;15;12.91;30.91
+Poznań;Wagrowska;9;61-369;Poznań;1;2;2;0;0;0;0
+Poznań;Wagrowska;9;61-369;Poznań;1;4;2;0;0;0;0
+Poznań;SŁOWACKIEGO;54/56;60-521;POZNAŃ;1;0;0;24;3;1.5;25.5
+Poznań;SŁOWACKIEGO;54/56;60-521;POZNAŃ;1;0;0;0;0;0;0
+Poznań;SŁOWACKIEGO;54/56;60-521;POZNAŃ;1;0;0;0;0;0;0
+Poznań;28 Czerwca 1956r.;296/298;61-469;Poznań;1;0;0;22;13;7;29
+Poznań;28 Czerwca 1956r.;296/298;61-469;Poznań;1;0;0;0;0;0;0
+Poznań;28 Czerwca 1956r.;296/298;61-469;Poznań;1;0;0;0;0;0;0
+Poznań;Jesionowa;14;61-432;Poznań;1;0;0;73;20;7.1;80.1
+Poznań;Jesionowa;14;61-432;Poznań;1;119;5;0;0;0;0
+Poznań;Jesionowa;14;61-432;Poznań;1;565;28;0;0;0;0
+Poznań;os. Bolesława Śmiałego;107;60-682;Poznań;1;0;0;108;8;3.26;111.26
+Poznań;os. Bolesława Śmiałego;107;60-682;Poznań;1;200;8;0;0;0;0
+Poznań;os. Bolesława Śmiałego;107;60-682;Poznań;1;828;37;0;0;0;0
+Poznań;os. Władysława Łokietka;104;61-616;Poznań;1;0;0;69;16;7.82;76.82
+Poznań;os. Władysława Łokietka;104;61-616;Poznań;1;272;11;0;0;0;0
+Poznań;os. Władysława Łokietka;104;61-616;Poznań;1;554;25;0;0;0;0
+Poznań;Łozowa;77;61-448;Poznań;1;0;0;54;19;9.19;63.19
+Poznań;Łozowa;77;61-448;Poznań;1;75;3;0;0;0;0
+Poznań;Łozowa;77;61-448;Poznań;1;537;26;0;0;0;0
+Poznań;GARBARY;82;61-758;POZNAN;1;0;0;38;5;2.75;40.75
+Poznań;GARBARY;82;61-758;POZNAN;1;67;3;0;0;0;0
+Poznań;GARBARY;82;61-758;POZNAN;1;256;13;0;0;0;0
+Poznań;os. Kosmonautów;111;61-642;Poznań;1;0;0;41;35;15.42;56.42
+Poznań;os. Kosmonautów;111;61-642;Poznań;1;125;5;0;0;0;0
+Poznań;os. Kosmonautów;111;61-642;Poznań;1;415;21;0;0;0;0
+Poznań;os. Jana III Sobieskiego;105;60-688;Poznan;1;0;0;55;8;5.14;60.14
+Poznań;os. Jana III Sobieskiego;105;60-688;Poznan;1;92;4;0;0;0;0
+Poznań;os. Jana III Sobieskiego;105;60-688;Poznan;1;552;24;0;0;0;0
+Poznań;Leszka;42;61-062;Poznań;1;0;0;51;14;7.88;58.88
+Poznań;Leszka;42;61-062;Poznań;1;72;3;0;0;0;0
+Poznań;Leszka;42;61-062;Poznań;1;460;22;0;0;0;0
+Poznań;Raszyńska;48;60-135;Poznań;1;0;0;45;15;8.12;53.12
+Poznań;Raszyńska;48;60-135;Poznań;1;59;3;0;0;0;0
+Poznań;Raszyńska;48;60-135;Poznań;1;0;0;0;0;0;0
+Poznań;Raszyńska;48;60-135;Poznań;1;0;0;0;0;0;0
+Poznań;Raszyńska;48;60-135;Poznań;1;188;10;0;0;0;0
+Poznań;Raszyńska;48;60-135;Poznań;1;133;5;0;0;0;0
+Poznań;Raszyńska;48;60-135;Poznań;1;50;2;0;0;0;0
+Poznań;Grunwaldzka;152;60-309;Poznań;1;0;0;28;12;7.66;35.66
+Poznań;Grunwaldzka;152;60-309;Poznań;1;297;12;0;0;0;0
+Poznań;Grunwaldzka;152;60-309;Poznań;1;206;11;0;0;0;0
+Poznań;Rybaki;17;61-883;Poznań;1;0;0;47;12;6.14;53.14
+Poznań;Rybaki;17;61-883;Poznań;1;0;0;0;0;0;0
+Poznań;Rybaki;17;61-883;Poznań;1;0;0;0;0;0;0
+Poznań;Rybaki;17;61-883;Poznań;1;290;11.5;0;0;0;0
+Poznań;Rybaki;17;61-883;Poznań;1;311;11;0;0;0;0
+Poznań;Marszałkowska;40;60-327;Poznań;1;0;0;51;20;9.58;60.58
+Poznań;Marszałkowka;40;60-327;Poznań;1;0;0;0;0;0;0
+Poznań;Marszałkowska;40;60-327;Poznań;1;28;1;0;0;0;0
+Poznań;Marszałkowka;40;60-327;Poznań;1;658;25;0;0;0;0
+Poznań;Świt;25;60-375;Poznań;1;0;0;37;15;7.32;44.32
+Poznań;ul. Świt;25;60-375;Poznań;1;0;0;0;0;0;0
+Poznań;Świt;25;60-375;Poznań;1;416;16;0;0;0;0
+Poznań;Świt;25;60-375;Poznań;1;0;0;0;0;0;0
+Poznań;Podkomorska;49;60-326;Poznań;1;0;0;47;11;7.2;54.2
+Poznań;;;60-326;Poznań;1;157;6;0;0;0;0
+Poznań;Podkomorska;49;60-326;Poznań;1;0;0;0;0;0;0
+Poznań;Podkomorska;49;60-326;Poznań;1;0;0;0;0;0;0
+Poznań;Podkomorska;49;60-326;Poznań;1;425;16;0;0;0;0
+Poznań;Szamotulska;33;60-365;Poznań;1;0;0;48;27;11.97;59.97
+Poznań;Szamotulska;33;60-365;Poznań;1;52;3;0;0;0;0
+Poznań;Szamotulska;33;60-365;Poznań;1;0;0;0;0;0;0
+Poznań;Szamotulska;33;60-365;Poznań;1;0;0;0;0;0;0
+Poznań;Szamotulska;33;60-365;Poznań;1;291;12;0;0;0;0
+Poznań;Szamotulska;33;60-365;Poznań;1;76;3;0;0;0;0
+Poznań;Stanisława Wyspiańskiego;27;60-751;Poznań;1;0;0;35;15;5.81;40.81
+Poznań;Stanisława Wyspiańskiego;27;60-751;Poznań;1;330;13;0;0;0;0
+Poznań;Stanisława Wyspiańskiego;27;60-751;Poznań;1;78;3;0;0;0;0
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;0;0;85;21;13.08;98.08
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;68;3;0;0;0;0
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;0;0;0;0;0;0
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;19;1;0;0;0;0
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;1006;35;0;0;0;0
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;167;6;0;0;0;0
+Poznań;Śniadeckich;54/58;60-774;Poznań;1;90;3;0;0;0;0
+Poznań;Berwińskiego;02.kwi;60-765;Poznań;1;0;0;35;9;4.05;39.05
+Poznań;Berwińskiego;02.kwi;60-765;Poznań;1;0;0;0;0;0;0
+Poznań;Berwińskiego;02.kwi;60-765;Poznań;1;400;20;0;0;0;0
+Poznań;Fredry;13;61-701;Poznań;1;0;0;73;23;10.81;83.81
+Poznań;Fredry;13;61-701;Poznań;1;0;0;0;0;0;0
+Poznań;Fredry;13;61-701;Poznań;1;0;0;0;0;0;0
+Poznań;Fredry;13;61-701;Poznań;1;853;32;0;0;0;0
+Poznań;Fredry;13;61-701;Poznań;1;54;2;0;0;0;0
+Poznań;Przełajowa;4;61-622;Poznań;1;0;0;73;23;13.31;86.31
+Poznań;Przełajowa 4;4;61-622;Poznań;1;0;0;0;0;0;0
+Poznań;Przełajowa;4;61-622;Poznan;1;0;0;0;0;0;0
+Poznań;Przełajowa;4;61-622;Poznań;1;0;0;0;0;0;0
+Poznań;Przełajowa;4;61-622;Poznań;1;928;35;0;0;0;0
+Poznań;Świerkowa;8;61-472;Poznań;1;0;0;61;26;12.85;73.85
+Poznań;Świerkowa;8;61-472;Poznań;1;46;2;0;0;0;0
+Poznań;Czeremchowa;22;61-474;Poznań;1;0;0;0;0;0;0
+Poznań;Świerkowa;8;61-472;Poznań;1;351;15;0;0;0;0
+Poznań;Świerkowa;8;61-472;Poznań;1;343;12;0;0;0;0
+Poznań;Świerkowa;8;61-472;Poznań;1;28;2;0;0;0;0
+Poznań;Al. Niepodległości;32;61-714;Poznań;1;0;0;61;19;12.8;73.8
+Poznań;Solna;2;62-028;Poznań;1;0;0;0;0;0;0
+Poznań;Al. Niepodległości;32;61-714;Poznań;1;515;25;0;0;0;0
+Poznań;Głogowska;90;60-262;Poznań;1;0;0;73;92;46.81;119.81
+Poznań;Głogowska;90;60-262;Poznań;1;49;6;0;0;0;0
+Poznań;Głogowska;90;60-262;Poznań;1;322;0;0;0;0;0
+Poznań;Głogowska;90;60-262;Poznań;1;236;0;0;0;0;0
+Poznań;Głogowska;90;60-262;Poznań;1;13;3;0;0;0;0
+Poznań;Hangarowa;14;60-409;Poznań;1;0;0;41;44;14.85;55.85
+Poznań;Hangarowa;14;60-409;Poznań;1;64;3;0;0;0;0
+Poznań;Hangarowa;14;60-409;Poznań;1;447;20;0;0;0;0
+Poznań;Różana;01.mar;61-577;Poznań;1;0;0;50;27;11.82;61.82
+Poznań;Różana;01.mar;61-577;Poznań;1;120;5;0;0;0;0
+Poznań;Różana;01.mar;61-577;Poznań;1;398;19;0;0;0;0
+Poznań;OS. ZWYCIĘSTWA;101;61-643;Poznań;1;0;0;70;10;4.68;74.68
+Poznań;OS. ZWYCIĘSTWA;101;61-643;Poznań;1;199;8;0;0;0;0
+Poznań;OS. ZWYCIĘSTWA;101;61-643;Poznań;1;507;22;0;0;0;0
+Poznań;Jarochowskiego;62;60-249;Poznań;1;0;0;79;18;10.29;89.29
+Poznań;Jarochowskiego;62;60-249;Poznań;1;173;6.92;0;0;0;0
+Poznań;Jarochowskiego;62;60-249;Poznań;1;512;26;0;0;0;0
+Poznań;Kazimierza Wielkiego;17;61-863;Poznań;1;0;0;39;12;5.88;44.88
+Poznań;kazimierza Wielkiego;17;61-863;Poznań;1;260;12;0;0;0;0
+Poznań;Kazimierza Wielkiego;17;61-863;Poznań;1;0;0;0;0;0;0
+Poznań;Kazimierza Wielkiego;17;61-863;POZNAŃ;1;0;0;0;0;0;0
+Poznań;Kazimierza Wielkiego;17;61-863;Poznań;1;226;10;0;0;0;0
+Poznań;Kazimierza Wielkiego;17;61-863;Poznań;1;46;2;0;0;0;0
+Poznań;Bukowska;16;60-809;Poznań;1;0;0;58;28;15.16;73.16
+Poznań;Bukowska;16;60-809;Poznań;1;732;24;0;0;0;0
+Poznań;Bukowska;16;60-809;Poznań;1;104;4;0;0;0;0
+Poznań;Matejki;08.pa?60-766;Poznań;1;0;0;49;23;11.59;60.59
+Poznań;Matejki;08.pa?60-766;Poznań;1;577;18;0;0;0;0
+Poznań;Matejki;08.pa?60-766;Poznań;1;35;2;0;0;0;0
+Poznań;Tarnowska;27;61-323;Poznań;1;0;0;91;19;7.4;98.4
+Poznań;Krzesiny;13;61-321;Poznań;1;42;2;0;0;0;0
+Poznań;Tarnowska;27;61-323;Poznań;1;709;28;0;0;0;0
+Poznań;Tarnowska;27;61-323;Poznań;1;295;9;0;0;0;0
+Poznań;osiedle Czecha;59;61-288;Poznań;1;0;0;76;15;7.06;83.06
+Poznań;os. Czecha;59;61-288;Poznań;1;602;23;0;0;0;0
+Poznań;osiedle Czecha;59;61-288;Poznań;1;348;12;0;0;0;0
+Poznań;Krakowska;17a;61-889;Poznań;1;0;0;53;14;9.54;62.54
+Poznań;Krakowska;17a;61-889;Poznań;1;740;24;0;0;0;0
+Poznań;Krakowska;17a;61-889;Poznań;1;142;3;0;0;0;0
+Poznań;os.Rzeczypospolitej;111;61-389;Poznań;1;0;0;36;7;4.22;40.22
+Poznań;os.Rzeczypospolitej;111;61-389;Poznań;1;0;0;0;0;0;0
+Poznań;os.Rzeczypospolitej;111;61-389;Poznań;1;445;16;0;0;0;0
+Poznań;Warzywna;19;61-658;Poznań;1;0;0;56;2;0.76;56.76
+Poznań;Warzywna;19;61-658;Poznań;1;151;7;0;0;0;0
+Poznań;Warzywna;19;61-658;Poznań;1;249;11.75;0;0;0;0
+Poznań;Warzywna;19;61-658;Poznań;1;48;2;0;0;0;0
+Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;1;0;0;61;11;7.37;68.37
+Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;1;408;16;0;0;0;0
+Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;1;152;6;0;0;0;0
+Poznań;os. Bohat. II Wojny Światowej;29;61-387;Poznań;1;94;3;0;0;0;0
+Poznań;Zamenhofa;142;61-139;Poznań;1;0;0;49;11;5.64;54.64
+Poznań;Zamenhofa;142;61-139;Poznań;1;171;6;0;0;0;0
+Poznań;Zamenhofa;142;61-139;Poznań;1;453;19;0;0;0;0
+Poznań;Swoboda;41;60-389;Poznań;1;0;0;64;2;1.17;65.17
+Poznań;Swoboda;41;60-389;Poznań;1;0;0;0;0;0;0
+Poznań;Swoboda;41;60-389;Poznań;1;93;14;0;0;0;0
+Poznań;Swoboda;41;60-389;Poznań;1;40;8;0;0;0;0
+Poznań;Przełajowa;6;61-622;Poznań;1;0;0;95;3;1.67;96.67
+Poznań;Przełajowa;6;61-622;Poznań;1;25;2;0;0;0;0
+Poznań;Przełajowa;6;61-622;Poznań;1;190;29;0;0;0;0
+Poznań;Przełajowa;6;61-622;Poznań;1;29;5;0;0;0;0
+Poznań;Rycerska;43;60-345;Poznań;1;0;0;120;14;7.91;127.91
+Poznań;Rycerska;43;60-345;Poznań;1;96;21;0;0;0;0
+Poznań;Rycerska;43;60-345;Poznań;1;27;5;0;0;0;0
+Poznań;Nieszawska;21;61-021;Poznań;1;0;0;78;3;0.83;78.83
+Poznań;Nieszawska;21;61-021;Poznań;1;120;21;0;0;0;0
+Poznań;Nieszawska;21;61-021;Poznań;1;33;6;0;0;0;0
+Poznań;Krysiewicza;07.sie;61-825;Poznań;1;0;0;24;11;6.2;30.2
+Poznań;Krysiewicza;07.sie;61-825;Poznań;1;45;0;0;0;0;0
+Poznań;Krysiewicza;07.sie;61-825;Poznań;1;51;1;0;0;0;0
+Poznań;SANATORYJNA;2;60-480;POZNAŃ;1;0;0;31;8;3.73;34.73
+Poznań;SANATORYJNA;2;60-480;POZNAŃ;1;13;0;0;0;0;0
+Poznań;SANATORYJNA;2;60-480;POZNAŃ;1;40;0;0;0;0;0
+Poznań;Szpitalna;27/33;60-572;Poznań;1;0;0;38;12;7.46;45.46
+Poznań;Szpitalna;27/33;60-572;Poznań;1;77;0;0;0;0;0
+Poznań;Szpitalna;27/33;61-572;Poznań;1;100;0;0;0;0;0
+Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;1;0;0;33;10;4.37;37.37
+Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;1;94;5;0;0;0;0
+Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;1;63;0;0;0;0;0
+Poznań;28 Czerwca 1956r.;135/147;61-545;Poznań;1;41;0;0;0;0;0
+Poznań;os. Stare Żegrze;1;61-249;Poznań;1;0;0;94;16;8.1;102.1
+Poznań;os. Stare Żegrze;1;61-249;Poznań;1;143;7;0;0;0;0
+Poznań;os. Stare Żegrze;1;61-249;Poznań;1;488;25;0;0;0;0
+Poznań;os. Pod Lipami;106;61-638;Poznań;1;0;0;80;5;2.39;82.39
+Poznań;os. Pod Lipami;106;61-638;Poznań;1;152;7;0;0;0;0
+Poznań;os. Pod Lipami;106;61-638;Poznań;1;492;24;0;0;0;0
+Poznań;Głuszyna;187;61-329;Poznań;1;0;0;41;10;5.48;46.48
+Poznań;Głuszyna;187;61-329;Poznań;1;0;0;0;0;0;0
+Poznań;Głuszyna;187;61-329;Poznań;1;421;21;0;0;0;0
+Poznań;os. Jana III Sobieskiego;114;60-688;Poznań;1;0;0;72;19;12.3;84.3
+Poznań;os. Jana III Sobieskiego;114;60-688;Poznań;1;596;23;0;0;0;0
+Poznań;os. Jana III Sobieskiego;114;60-688;Poznań;1;192;9;0;0;0;0
+Poznań;Św.Floriana;3;60-536;Poznań;1;0;0;24;25;10.55;34.55
+Poznań;Św. Floriana;3;60-536;Poznań;1;36;2;0;0;0;0
+Poznań;Św.Floriana;3;60-536;Poznań;1;386;16;0;0;0;0
+Poznań;Żniwna;1;61-663;Poznań;1;0;0;48;6;3.63;51.63
+Poznań;ŻNIWNA;1;61-663;POZNAŃ;1;168;12.97;0;0;0;0
+Poznań;Żniwna;1;61-663;POZNAŃ;1;69;6.03;0;0;0;0
+Poznań;Żniwna;1;61-663;Poznań;1;19;5;0;0;0;0
+Poznań;Działyńskich;04.maj;61-727;Poznań;1;0;0;45;13;6.87;51.87
+Poznań;Działyńskich;04.maj;61-727;Poznań;1;66;3;0;0;0;0
+Poznań;Działyńskich;04.maj;61-727;Poznań;1;0;0;0;0;0;0
+Poznań;Działyńskich;04.maj;61-727;Poznań;1;391;16;0;0;0;0
+Poznań;Działyńskich;04.maj;61-727;Poznań;1;114;5;0;0;0;0
+Poznań;Działyńskich;04.maj;61-727;Poznań;1;0;0;0;0;0;0
+Poznań;Stróżyńskiego;16;60-688;Poznań;4;0;0;27;19;11.94;38.94
+Poznań;Stróżyńskiego;16;60-688;Poznań;2;254;17;0;0;0;0
+Poznań;Stróżyńskiego;16;60-688;Poznań;2;38;2;0;0;0;0
+Poznań;Grunwaldzka;154;30-309;Poznań;4;0;0;60;30;13.09;73.09
+Poznań;Grunwaldzka;154;30-309;Poznań;2;456;26;0;0;0;0
+Poznań;Grunwaldzka;154;30-309;Poznań;2;111;7;0;0;0;0
