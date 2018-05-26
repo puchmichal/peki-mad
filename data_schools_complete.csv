@@ -1,1 +1,333 @@
- 
+,Ulica Nr domu,x,y,id,﻿Miejscowość,Ulica,Nr domu,"Uczniowie, wychow., słuchacze",etaty,simiecowki,etaty smieciowki,suma ataty
+0,A. Frycza - Modrzewskiego 3/88,19.945444,50.086833,0,Kraków,A. Frycza - Modrzewskiego,3/88,13,0,3,0.65,0.7
+1,AL.JANA PAWŁA II 192,19.939167,50.061668,1,Kraków,AL.JANA PAWŁA II,192,100,9,0,0.0,9.0
+2,ALEKSANDRY 17,20.017090,50.012715,2,Kraków,ALEKSANDRY,17,75,0,0,0.0,0.0
+3,ALINY 9,19.982623,50.090748,3,Kraków,ALINY,9,29,4,1,0.33,4.3
+4,Agatowa 27,20.046839,50.021617,4,Kraków,Agatowa,27,13,1,0,0.0,1.0
+5,Al. 29 Listopada 195,19.939167,50.061668,5,Kraków,Al. 29 Listopada,195,48,5,0,0.0,5.0
+6,Al. Jana Pawła II 78,19.939167,50.061668,6,Kraków,Al. Jana Pawła II,78,43,5,1,0.25,5.3
+7,Al. Kasztanowa 9,19.939167,50.061668,7,Kraków,Al. Kasztanowa,9,43,2,3,2.33,4.3
+8,Aleksandry 15,20.018558,50.012033,8,Kraków,Aleksandry,15,170,13,4,1.96,15.0
+9,Alfreda Dauna 97 lok.U8,19.976031,50.020693,9,Kraków,Alfreda Dauna,97 lok.U8,11,2,0,0.0,2.0
+10,B. Głowackiego 2,19.906266,50.076337,10,Kraków,B. Głowackiego,2,150,10,3,2.58,12.6
+11,BATALIONU  SKAŁA AK 2,19.924205,50.087221,11,Kraków,BATALIONU  SKAŁA AK,2,65,8,4,1.12,9.1
+12,Babińskiego 1,19.892508,50.007436,12,Kraków,Babińskiego,1,195,16,2,0.56,16.6
+13,Babińskiego 4,19.892695,50.007823,13,Kraków,Babińskiego,4,49,9,0,0.0,9.0
+14,Bajana 8,19.973672,50.079248,14,Kraków,Bajana,8,56,4,2,1.0,5.0
+15,Benedyktyńska 4,19.808561,50.016320,15,Kraków,Benedyktyńska,4,125,11,3,0.58,11.6
+16,Białoprądnicka 10/29,19.937933,50.094346,16,Kraków,Białoprądnicka,10/29,125,0,9,1.49,1.5
+17,Bielaka 5,19.877726,50.065973,17,Kraków,Bielaka,5,55,6,4,1.16,7.2
+18,Bieżanowska 40,19.988431,50.025462,18,Kraków,Bieżanowska,40,163,14,3,0.87,14.9
+19,Biskupia 16,19.935831,50.067665,19,Kraków,Biskupia,16,24,2,3,0.13,2.1
+20,Bitschana 4,19.969467,50.087978,20,Kraków,Bitschana,4,13,1,2,0.75,1.8
+21,Bobrzyńskiego 14,19.939167,50.061668,21,Kraków,Bobrzyńskiego,14,44,5,0,0.0,5.0
+22,Bociana 6A/3,19.957170,50.093864,22,Kraków,Bociana,6A/3,90,10,0,0.0,10.0
+23,Borkowska 25,19.904994,50.003889,23,Kraków,Borkowska,25,51,4,0,0.0,4.0
+24,Brzeska 18f,20.198686,50.059247,24,Kraków,Brzeska,18f,21,3,0,0.0,3.0
+25,Budryka 2,19.907180,50.067809,25,Kraków,Budryka,2,100,9,1,0.16,9.2
+26,Bujaka 17,19.952733,50.010417,26,Kraków,Bujaka,17,447,39,3,1.47,40.5
+27,Bukszpanowa 22,20.067155,50.097178,27,Kraków,Bukszpanowa,22,43,3,0,0.0,3.0
+28,Bułgarska 15,19.917559,50.026285,28,Kraków,Bułgarska,15,64,9,0,0.0,9.0
+29,CHMIELENIEC 39,19.898040,50.017215,29,Kraków,CHMIELENIEC,39,91,7,5,1.43,8.4
+30,"CZORSZTYŃSKA, STATTLERA 3B, 26",19.984071,50.020647,30,Kraków,"CZORSZTYŃSKA, STATTLERA","3B, 26",158,0,15,3.0,3.0
+31,"Chmieleniec 35/14,15",19.898875,50.017672,31,Kraków,Chmieleniec,"35/14,15",103,16,1,0.15,16.2
+32,Ciechocińska 12,19.924693,50.002413,32,Kraków,Ciechocińska,12,28,2,4,1.19,3.2
+33,Cystersów 26C LU5,19.970400,50.062500,33,Kraków,Cystersów 26C,LU5,0,1,1,0.75,1.8
+34,Czarnogórska 14,19.970875,50.019528,34,Kraków,Czarnogórska,14,226,0,0,0.0,0.0
+35,Dekarzy 17,19.923304,50.021226,35,Kraków,Dekarzy,17,39,3,0,0.0,3.0
+36,Dekerta 18,19.966621,50.047022,36,Kraków,Dekerta,18,99,0,1,0.08,0.1
+37,Dekerta 24,19.967622,50.048366,37,Kraków,Dekerta,24,142,12,0,0.0,12.0
+38,Dietla 70,19.944332,50.055754,38,Kraków,Dietla,70,85,0,0,0.0,0.0
+39,Dobczycka 76,19.957035,50.014561,39,Kraków,Dobczycka,76,23,2,1,0.2,2.2
+40,Dobrego Pasterza 52,19.964481,50.087852,40,Kraków,Dobrego Pasterza,52,0,0,0,0.0,0.0
+41,Doktora Judyma 16,19.939167,50.061668,41,Kraków,Doktora Judyma,16,44,4,1,0.67,4.7
+42,Drukarska 5b,19.904545,50.023494,42,Kraków,Drukarska,5b,53,4,0,0.0,4.0
+43,Duża Góra 30,20.021537,50.018226,43,Kraków,Duża Góra,30,107,16,4,0.51,16.5
+44,Działowskiego 54a,19.877959,49.997935,44,Kraków,Działowskiego,54a,43,3,3,1.25,4.3
+45,Eljasza Radzikowskiego 100J 2,19.939167,50.061668,45,Kraków,Eljasza Radzikowskiego 100J,2,32,5,0,0.0,5.0
+46,Emaus 29,19.904974,50.057224,46,Kraków,Emaus,29,150,13,4,1.08,14.1
+47,Estońska 2,19.964974,50.019988,47,Kraków,Estońska,2,120,11,1,0.05,11.1
+48,Fałęcka 39,19.907168,50.004262,48,Kraków,Fałęcka,39,310,24,0,0.0,24.0
+49,Felińskiego 35,19.939167,50.061668,49,Kraków,Felińskiego,35,90,8,6,0.78,8.8
+50,Fiołkowa 13,19.980760,50.078087,50,Kraków,Fiołkowa,13,78,23,7,3.82,26.8
+51,Fiszera 32,19.898085,50.087453,51,Kraków,Fiszera,32,30,4,0,0.0,4.0
+52,Franciszka Bujaka 8,19.946299,50.008881,52,Kraków,Franciszka Bujaka,8,30,3,0,0.0,3.0
+53,G. Zapolskiej 10c,19.897690,50.076524,53,Kraków,G. Zapolskiej,10c,51,5,1,0.5,5.5
+54,GRZEGÓRZECKA 40,19.957374,50.057696,54,Kraków,GRZEGÓRZECKA,40,51,4,0,0.0,4.0
+55,Gałczyńskiego 7,20.011495,50.072288,55,Kraków,Gałczyńskiego,7,46,4,4,1.07,5.1
+56,Gen. Józefa Bema 21,19.962954,50.071913,56,Kraków,Gen. Józefa Bema,21,145,12,5,1.32,13.3
+57,Glogera 5,19.929273,50.098888,57,Kraków,Glogera,5,49,5,4,1.06,6.1
+58,Goszczyńskiego 44,19.992230,50.037122,58,Kraków,Goszczyńskiego,44,99,0,0,0.0,0.0
+59,Gwarna 2a,19.968708,50.011108,59,Kraków,Gwarna,2a,97,21,0,0.0,21.0
+60,Gwieździsta 7,19.906841,50.016074,60,Kraków,Gwieździsta,7,53,5,0,0.0,5.0
+61,"H. Rodakowskiego, Żabiniec 15, 68",19.899466,50.080089,61,Kraków,"H. Rodakowskiego, Żabiniec","15, 68",90,9,1,0.13,9.1
+62,Halszki 28/1,19.939167,50.061668,62,Kraków,Halszki,28/1,342,29,0,0.0,29.0
+63,Heleny Modrzejewskiej 21,19.916122,50.088480,63,Kraków,Heleny Modrzejewskiej,21,125,10,3,1.04,11.0
+64,Hieronima Wietora 7,19.940895,50.046702,64,Kraków,Hieronima Wietora,7,0,0,0,0.0,0.0
+65,IRYSOWA 5/1,19.923565,50.024748,65,Kraków,IRYSOWA,5/1,3,1,0,0.0,1.0
+66,JULIUSZA LEA 179,19.897965,50.072505,66,Kraków,JULIUSZA LEA,179,35,2,0,0.0,2.0
+67,Jabłonkowska 39,19.886664,50.077767,67,Kraków,Jabłonkowska,39,225,19,10,6.32,25.3
+68,Jadwigi z Łobzowa 30,19.902134,50.074761,68,Kraków,Jadwigi z Łobzowa,30,145,13,2,0.25,13.3
+69,Jaremy 12,19.907054,50.087226,69,Kraków,Jaremy,12,150,0,16,11.75,11.8
+70,Jerzego Żuławskiego 9,19.933876,50.072711,70,Kraków,Jerzego Żuławskiego,9,103,11,2,1.0,12.0
+71,Józefa Calińskiego-Sawy 12,20.178854,50.098790,71,Kraków,Józefa Calińskiego-Sawy,12,2,1,1,0.03,1.0
+72,K.Bunscha 20,19.884597,50.014591,72,Kraków,K.Bunscha,20,20,3,0,0.0,3.0
+73,KOSZYKARSKA 21C/3,19.985738,50.047983,73,Kraków,KOSZYKARSKA,21C/3,53,6,1,0.5,6.5
+74,KRAWIECKA 18,19.965979,50.024486,74,Kraków,KRAWIECKA,18,47,6,0,0.0,6.0
+75,KUŹNICY KOŁŁĄTAJOWSKIEJ 17K,19.955358,50.096809,75,Kraków,KUŹNICY KOŁŁĄTAJOWSKIEJ,17K,18,2,1,0.5,2.5
+76,Kaczeńcowa 4,20.032956,50.087172,76,Kraków,Kaczeńcowa,4,27,0,3,1.5,1.5
+77,Kamieniecka 2,19.898911,50.001734,77,Kraków,Kamieniecka,2,38,7,0,0.0,7.0
+78,Kasztanowa 4a,19.939167,50.061668,78,Kraków,Kasztanowa,4a,66,30,50,24.02,54.0
+79,Kasztanowa 6,19.939167,50.061668,79,Kraków,Kasztanowa,6,174,15,5,0.65,15.7
+80,Katowicka 30,19.882750,50.084001,80,Kraków,Katowicka,30,67,5,1,0.2,5.2
+81,Katowicka 47,19.882961,50.085186,81,Kraków,Katowicka,47,42,1,7,5.65,6.7
+82,Kazimierza Odnowiciela 4,19.971672,50.087460,82,Kraków,Kazimierza Odnowiciela,4,195,16,4,0.31,16.3
+83,Kazimierza Wielkiego 117,19.910816,50.075289,83,Kraków,Kazimierza Wielkiego,117,33,5,3,0.63,5.6
+84,Klemensa Janickiego 1a/U4,19.981024,50.074012,84,Kraków,Klemensa Janickiego,1a/U4,43,8,0,0.0,8.0
+85,Kobierzyńska 174a,19.902950,50.014003,85,Kraków,Kobierzyńska,174a,34,5,1,0.5,5.5
+86,Kolorowe 8/48,19.939167,50.061668,86,Kraków,Kolorowe,8/48,62,6,0,0.0,6.0
+87,Komandosów 13,19.930744,50.044263,87,Kraków,Komandosów,13,125,11,6,1.91,12.9
+88,Komandosów 21,19.932029,50.042949,88,Kraków,Komandosów,21,44,8,3,1.11,9.1
+89,Komatantów 13,19.939167,50.061668,89,Kraków,Komatantów,13,149,11,6,1.81,12.8
+90,Komuny Paryskiej 2a,19.895505,50.006685,90,Kraków,Komuny Paryskiej,2a,75,8,1,0.75,8.8
+91,Kopernika 16,19.946828,50.061184,91,Kraków,Kopernika,16,87,7,2,0.72,7.7
+92,Kordylewskiego 14,19.963819,50.061401,92,Kraków,Kordylewskiego,14,104,10,3,0.4,10.4
+93,Korzeniaka 14,19.833659,50.071567,93,Kraków,Korzeniaka,14,38,0,1,0.5,0.5
+94,Kosocicka 38A,20.008831,50.004516,94,Kraków,Kosocicka,38A,70,6,0,0.0,6.0
+95,Kotlarska 5a,19.957963,50.056192,95,Kraków,Kotlarska,5a,125,12,2,0.36,12.4
+96,Kozienicka 17,19.869936,50.006538,96,Kraków,Kozienicka,17,135,12,2,1.0,13.0
+97,Krowoderska 8,19.937685,50.067384,97,Kraków,Krowoderska,8,32,0,0,0.0,0.0
+98,Krowoderskich Zuchów 15a,19.928256,50.087883,98,Kraków,Krowoderskich Zuchów,15a,100,7,5,0.72,7.7
+99,Krowoderskich Zuchów 28,19.924724,50.090093,99,Kraków,Krowoderskich Zuchów,28,150,13,9,3.95,17.0
+100,Królowej Jadwigi 327,19.856870,50.070431,100,Kraków,Królowej Jadwigi,327,12,2,0,0.0,2.0
+101,Ks. Jozefa Meiera 20B,19.964659,50.099007,101,Kraków,Ks. Jozefa Meiera,20B,51,4,4,2.89,6.9
+102,Ks. Wł. Gurgacza 1,19.950497,50.056129,102,Kraków,Ks. Wł. Gurgacza,1,98,8,1,0.5,8.5
+103,Kuczkowskiego 12/14,19.988384,50.097165,103,Kraków,Kuczkowskiego,12/14,22,2,0,0.0,2.0
+104,Kurczaba 19,20.007069,50.014282,104,Kraków,Kurczaba,19,143,14,0,0.0,14.0
+105,Kurczaba 5,20.004774,50.014835,105,Kraków,Kurczaba,5,47,5,5,0.84,5.8
+106,Kutrzeby 6,19.939167,50.061668,106,Kraków,Kutrzeby,6,154,16,2,0.22,16.2
+107,Kuźnicy Kołłątajowskiej 13D,19.958449,50.097476,107,Kraków,Kuźnicy Kołłątajowskiej,13D,34,4,0,0.0,4.0
+108,Kuźnicy Kołłątajowskiej 29A-B,19.954477,50.098246,108,Kraków,Kuźnicy Kołłątajowskiej,29A-B,69,12,12,2.68,14.7
+109,L. Wenedy 7,20.005365,50.018891,109,Kraków,L. Wenedy,7,180,19,2,1.2,20.2
+110,Legnicka 18,19.951242,50.089842,110,Kraków,Legnicka,18,25,2,1,0.08,2.1
+111,Legnicka 26,19.953371,50.090184,111,Kraków,Legnicka,26,35,5,1,0.25,5.3
+112,Lekarska 5,19.941688,50.086274,112,Kraków,Lekarska,5,149,16,2,0.3,16.3
+113,Leopolda Staffa 6,19.911100,50.072742,113,Kraków,Leopolda Staffa,6,169,17,0,0.0,17.0
+114,Lipska 55,20.000017,50.042693,114,Kraków,Lipska,55,59,8,0,0.0,8.0
+115,Lotnicza 4a,19.967957,50.072657,115,Kraków,Lotnicza,4a,69,7,0,0.0,7.0
+116,Lubocka 1 E,20.076269,50.092554,116,Kraków,Lubocka,1 E,69,0,5,1.0,1.0
+117,Ludwinowska 6,19.936978,50.044264,117,Kraków,Ludwinowska,6,60,11,5,1.24,12.2
+118,Macieja Dębskiego 125,19.901300,49.987300,118,Kraków,Macieja Dębskiego,125,3,1,0,0.0,1.0
+119,Macieja Miechowity 11,19.966647,50.083420,119,Kraków,Macieja Miechowity,11,100,8,3,0.36,8.4
+120,Macieja Miechowity 4,19.964902,50.083031,120,Kraków,Macieja Miechowity,4,150,14,2,0.27,14.3
+121,Mackiewicza 15,19.946406,50.093377,121,Kraków,Mackiewicza,15,85,0,0,0.0,0.0
+122,Majora M. Słabego 18,19.939167,50.061668,122,Kraków,Majora M. Słabego,18,44,5,6,0.83,5.8
+123,Mazowiecka 14 C,19.928230,50.073059,123,Kraków,Mazowiecka,14 C,71,0,0,0.0,0.0
+124,Mazowiecka 45,19.924981,50.075876,124,Kraków,Mazowiecka,45,145,13,4,2.83,15.8
+125,Merkuriusza Polskiego 6,19.944828,49.994432,125,Kraków,Merkuriusza Polskiego,6,95,8,2,0.26,8.3
+126,Michała Żaka 19/Lu 4-5,19.948737,50.012014,126,Kraków,Michała Żaka,19/Lu 4-5,110,13,0,0.0,13.0
+127,Michałowskiego 11,19.927799,50.066007,127,Kraków,Michałowskiego,11,13,1,1,0.38,1.4
+128,Mieczysława Wrony 115,19.872293,49.987850,128,Kraków,Mieczysława Wrony,115,75,0,0,0.0,0.0
+129,Mieszczańska 13,19.927224,50.046682,129,Kraków,Mieszczańska,13,42,7,0,0.0,7.0
+130,Mikołaja Reja 13,19.944309,50.086323,130,Kraków,Mikołaja Reja,13,78,0,5,1.0,1.0
+131,Miodowa 24,19.944220,50.052879,131,Kraków,Miodowa,24,6,2,0,0.0,2.0
+132,Miodowa 36,19.947623,50.053598,132,Kraków,Miodowa,36,96,0,0,0.0,0.0
+133,Mirtowa 2,19.945757,49.984306,133,Kraków,Mirtowa,2,150,0,0,0.0,0.0
+134,Mlaskotów 2 a,19.916587,50.054666,134,Kraków,Mlaskotów,2 a,169,13,5,2.4,15.4
+135,Moczydło 7a,19.949844,49.992794,135,Kraków,Moczydło,7a,40,5,1,0.2,5.2
+136,Myśliwska 64,19.992317,50.045683,136,Kraków,Myśliwska,64,150,0,0,0.0,0.0
+137,Myśliwska 76,19.999179,50.045302,137,Kraków,Myśliwska,76,22,3,0,0.0,3.0
+138,Młyńska Boczna 4,19.939167,50.061668,138,Kraków,Młyńska Boczna,4,144,25,7,2.77,27.8
+139,NAZARETAŃSKA 1,19.965176,50.004611,139,Kraków,NAZARETAŃSKA,1,93,10,1,0.5,10.5
+140,Na Błonie 15c,19.884810,50.077747,140,Kraków,Na Błonie,15c,147,14,1,0.04,14.0
+141,"OBOZOWA 24A/1,2,3",19.906980,50.012139,141,Kraków,OBOZOWA,"24A/1,2,3",7,1,0,0.0,1.0
+142,OKÓLNA 18,19.982367,50.015940,142,Kraków,OKÓLNA,18,145,14,1,0.17,14.2
+143,OS. 2. PUŁKU LOTNICZEGO 44/1A,19.939167,50.061668,143,Kraków,OS. 2. PUŁKU LOTNICZEGO,44/1A,21,3,0,0.0,3.0
+144,OS. SŁONECZNE 10,19.939167,50.061668,144,Kraków,OS. SŁONECZNE,10,125,9,5,1.06,10.1
+145,Obozowa 10,19.904205,50.011344,145,Kraków,Obozowa,10,30,0,5,0.88,0.9
+146,Obozowa 41a/4,19.905744,50.015390,146,Kraków,Obozowa,41a/4,10,1,1,0.5,1.5
+147,Orla 52,19.827236,50.042838,147,Kraków,Orla,52,40,3,1,0.63,3.6
+148,Os. Centrum E 15a,19.939167,50.061668,148,Kraków,Os. Centrum E,15a,5,0,2,1.0,1.0
+149,Os. Na Wzgórzach 1A,19.939167,50.061668,149,Kraków,Os. Na Wzgórzach,1A,75,7,0,0.0,7.0
+150,Os. Piastów 10,19.939167,50.061668,150,Kraków,Os. Piastów,10,169,15,5,1.25,16.3
+151,Os. Teatralne 30/39,19.939167,50.061668,151,Kraków,Os. Teatralne,30/39,34,4,1,0.5,4.5
+152,Os.Piastów 41/86,19.939167,50.061668,152,Kraków,Os.Piastów,41/86,15,0,1,0.27,0.3
+153,Osiedle Jagiellońskie 8,19.939167,50.061668,153,Kraków,Osiedle Jagiellońskie,8,124,10,2,0.22,10.2
+154,Osiedle Kalinowe 11,19.939167,50.061668,154,Kraków,Osiedle Kalinowe,11,145,12,5,1.79,13.8
+155,Osiedle Na Wzgórzach 11,19.939167,50.061668,155,Kraków,Osiedle Na Wzgórzach,11,165,13,4,1.17,14.2
+156,Osiedle Spółdzielcze 5,19.939167,50.061668,156,Kraków,Osiedle Spółdzielcze,5,125,9,5,1.1,10.1
+157,Osiedle Strusia 8,19.939167,50.061668,157,Kraków,Osiedle Strusia,8,146,16,3,0.85,16.9
+158,Ostatnia 1d,19.978702,50.069712,158,Kraków,Ostatnia,1d,73,8,2,0.95,9.0
+159,Oś. Bohaterów Września 3/3a,19.939167,50.061668,159,Kraków,Oś. Bohaterów Września,3/3a,22,3,0,0.0,3.0
+160,Pachońskiego 8,19.927875,50.094432,160,Kraków,Pachońskiego,8,66,7,7,3.06,10.1
+161,Parkowa 14,19.953197,50.040880,161,Kraków,Parkowa,14,150,14,2,0.94,14.9
+162,Piaszczysta 8,19.929118,50.097216,162,Kraków,Piaszczysta,8,172,7,1,0.6,7.6
+163,Piekarska 12,19.940312,50.048055,163,Kraków,Piekarska,12,67,6,2,0.16,6.2
+164,Piekarska 14,19.939850,50.047897,164,Kraków,Piekarska,14,99,8,2,0.24,8.2
+165,Piekarska 7a,19.940448,50.048530,165,Kraków,Piekarska,7a,106,8,0,0.0,8.0
+166,Pigonia 2a,19.932960,50.094048,166,Kraków,Pigonia,2a,141,14,3,0.29,14.3
+167,Piltza 34,19.890380,50.011194,167,Kraków,Piltza,34,23,5,0,0.0,5.0
+168,Pl. Gen. Wł. Sikorskiego 12,19.939167,50.061668,168,Kraków,Pl. Gen. Wł. Sikorskiego,12,70,7,0,0.0,7.0
+169,Pod Fortem 2C/LU1,19.923766,50.082673,169,Kraków,Pod Fortem,2C/LU1,18,3,0,0.0,3.0
+170,Podedworze 2a,19.970534,50.014037,170,Kraków,Podedworze,2a,150,13,2,0.33,13.3
+171,Por. Wąchały 7,19.939167,50.061668,171,Kraków,Por. Wąchały,7,90,10,4,1.28,11.3
+172,Poronińska 7,19.915649,49.987417,172,Kraków,Poronińska,7,125,11,2,0.12,11.1
+173,Porzeczkowa 3,19.944267,50.102232,173,Kraków,Porzeczkowa,3,125,0,0,0.0,0.0
+174,Praska 64,19.907285,50.044755,174,Kraków,Praska,64,0,0,0,0.0,0.0
+175,Prochowa 12,19.955716,50.056843,175,Kraków,Prochowa,12,73,10,1,0.5,10.5
+176,Prosta 35B,19.988985,50.021435,176,Kraków,Prosta,35B,34,6,0,0.0,6.0
+177,Przemiarki 23 A/L3,19.902075,50.022483,177,Kraków,Przemiarki,23 A/L3,50,6,0,0.0,6.0
+178,Przemysłowa 4/459,19.959387,50.049217,178,Kraków,Przemysłowa,4/459,154,18,0,0.0,18.0
+179,Przewóz 36,19.994045,50.041630,179,Kraków,Przewóz,36,54,3,0,0.0,3.0
+180,Przykopy 10,19.946451,50.015889,180,Kraków,Przykopy,10,98,10,2,0.2,10.2
+181,Prądnicka 10,19.935904,50.075366,181,Kraków,Prądnicka,10,29,0,25,15.21,15.2
+182,Prądnicka 72b,19.937824,50.086113,182,Kraków,Prądnicka,72b,115,7,6,3.8,10.8
+183,Pszczelna 35,19.915915,50.023483,183,Kraków,Pszczelna,35,119,9,0,0.0,9.0
+184,PĘDZICHÓW 16,19.938535,50.070678,184,Kraków,PĘDZICHÓW,16,124,15,2,0.94,15.9
+185,RADZIKOWSKIEGO 1,19.939167,50.061668,185,Kraków,RADZIKOWSKIEGO,1,13,2,0,0.0,2.0
+186,Radzikowskiego 40A,19.939167,50.061668,186,Kraków,Radzikowskiego,40A,22,0,1,0.8,0.8
+187,Radzikowskiego 47c,19.939167,50.061668,187,Kraków,Radzikowskiego,47c,85,13,2,0.12,13.1
+188,Rajska 14,19.929404,50.064657,188,Kraków,Rajska,14,175,14,6,1.22,15.2
+189,Rakuś 72,20.034830,50.009124,189,Kraków,Rakuś,72,46,5,1,0.5,5.5
+190,Romana Prawocheńskiego 7,20.157252,50.069688,190,Kraków,Romana Prawocheńskiego,7,114,0,0,0.0,0.0
+191,Rzepicgy 46,19.828741,50.058675,191,Kraków,Rzepicgy,46,12,2,0,0.0,2.0
+192,Różyckiego 5,19.911426,50.088159,192,Kraków,Różyckiego,5,37,10,2,1.48,11.5
+193,RŻĄCKA 1,19.983287,50.006167,193,Kraków,RŻĄCKA,1,149,13,3,1.18,14.2
+194,SASKA 11,19.983469,50.043515,194,Kraków,SASKA,11,300,25,3,0.47,25.5
+195,SKOTNICKA 86,19.875771,50.017918,195,Kraków,SKOTNICKA,86,100,0,0,0.0,0.0
+196,SKWEROWA 3,19.923770,50.050647,196,Kraków,SKWEROWA,3,174,14,7,2.39,16.4
+197,SOSNOWIECKA 12,19.886340,50.094194,197,Kraków,SOSNOWIECKA,12,89,5,0,0.0,5.0
+198,SPÓŁDZIELCÓW 7,19.980521,50.017644,198,Kraków,SPÓŁDZIELCÓW,7,125,11,2,0.16,11.2
+199,STAROWIEJSKA 36,19.929786,49.987477,199,Kraków,STAROWIEJSKA,36,65,3,0,0.0,3.0
+200,Sanocka 4,19.952556,50.017365,200,Kraków,Sanocka,4,145,12,4,1.13,13.1
+201,Sapiehy 65,19.939167,50.061668,201,Kraków,Sapiehy,65,16,2,0,0.0,2.0
+202,Sebastiana Klonowica 17c,19.956155,50.020117,202,Kraków,Sebastiana Klonowica,17c,31,3,0,0.0,3.0
+203,Siarczana 15,19.929837,50.006358,203,Kraków,Siarczana,15,13,1,0,0.0,1.0
+204,Siemaszki 32b,19.939495,50.085384,204,Kraków,Siemaszki,32b,40,5,2,1.0,6.0
+205,Siewna 23c,19.949133,50.093389,205,Kraków,Siewna,23c,214,20,5,3.57,23.6
+206,Skarżyńskiego 3,19.994849,50.085951,206,Kraków,Skarżyńskiego,3,93,7,1,0.1,7.1
+207,Skotnicka 101,19.876025,50.012619,207,Kraków,Skotnicka,101,90,9,0,0.0,9.0
+208,Skośna 2,19.897300,50.014000,208,Kraków,Skośna,2,245,25,7,1.35,26.4
+209,Smoleńsk 2,19.932587,50.059284,209,Kraków,Smoleńsk,2,50,5,0,0.0,5.0
+210,Sodowa 42,19.900111,50.033202,210,Kraków,Sodowa,42,5,3,0,0.0,3.0
+211,"Sołtysowska 12A/47,48",20.019042,50.064112,211,Kraków,Sołtysowska,"12A/47,48",51,7,0,0.0,7.0
+212,Spadochroniarzy 1,19.983707,50.080311,212,Kraków,Spadochroniarzy,1,15,0,0,0.0,0.0
+213,Stachiewicza 21,19.916499,50.083964,213,Kraków,Stachiewicza,21,108,15,3,0.41,15.4
+214,Stanisława Millana 15,19.939167,50.061668,214,Kraków,Stanisława Millana,15,21,0,0,0.0,0.0
+215,Starowiślna 7,19.942827,50.058716,215,Kraków,Starowiślna,7,100,9,2,0.83,9.8
+216,Stawowa 179,19.884658,50.096280,216,Kraków,Stawowa,179,98,0,0,0.0,0.0
+217,Strycharska 10,19.974780,50.043291,217,Kraków,Strycharska,10,21,2,0,0.0,2.0
+218,Strzelców 5,19.973170,50.092095,218,Kraków,Strzelców,5,168,20,2,0.17,20.2
+219,Strąkowa 7,19.924690,50.026640,219,Kraków,Strąkowa,7,326,33,5,1.49,34.5
+220,Stępnia 1,20.047904,50.015828,220,Kraków,Stępnia,1,175,14,3,0.7,14.7
+221,Sudolska 3,19.965956,50.091719,221,Kraków,Sudolska,3,220,19,6,1.77,20.8
+222,Szafera 2,19.964242,50.060799,222,Kraków,Szafera,2,120,10,0,0.0,10.0
+223,Szkolne 31,19.939167,50.061668,223,Kraków,Szkolne,31,100,7,5,1.32,8.3
+224,Szwedzka 68,19.927900,50.043704,224,Kraków,Szwedzka,68,45,4,6,2.11,6.1
+225,Słomiana 8,19.925016,50.043012,225,Kraków,Słomiana,8,150,11,3,1.08,12.1
+226,Słoneckiego 5,19.975547,50.090720,226,Kraków,Słoneckiego,5,39,4,2,0.5,4.5
+227,Tadeussza Kościuszki 88,19.939167,50.061668,227,Kraków,Tadeussza Kościuszki,88,14,3,0,0.0,3.0
+228,Teligi 28,20.009948,50.014784,228,Kraków,Teligi,28,170,13,4,1.41,14.4
+229,Telimeny 7,20.017615,50.019444,229,Kraków,Telimeny,7,150,14,2,0.16,14.2
+230,Trybuny Ludów 71,19.968375,50.016749,230,Kraków,Trybuny Ludów,71,58,6,2,1.0,7.0
+231,Turniejowa 73/43,19.959762,50.008881,231,Kraków,Turniejowa,73/43,37,2,4,2.36,4.4
+232,Turystyczna 8,19.947294,50.090100,232,Kraków,Turystyczna,8,51,4,1,0.08,4.1
+233,Twardowskiego 90,19.921357,50.042404,233,Kraków,Twardowskiego,90,148,15,1,0.16,15.2
+234,URZĘDNICZA 65,19.921185,50.074120,234,Kraków,URZĘDNICZA,65,95,0,0,0.0,0.0
+235,Urocza 36,19.940136,50.024213,235,Kraków,Urocza,36,37,3,2,1.25,4.3
+236,Urocze 6,19.939167,50.061668,236,Kraków,Urocze,6,341,27,5,2.1,29.1
+237,Urzędnicza 38/3,19.918872,50.070975,237,Kraków,Urzędnicza,38/3,19,3,0,0.0,3.0
+238,Ułanów 38,19.985051,50.075554,238,Kraków,Ułanów,38,119,9,2,0.32,9.3
+239,V.Hofmana 9,19.899594,50.057081,239,Kraków,V.Hofmana,9,189,41,0,0.0,41.0
+240,W.Danka 1,19.925662,50.093003,240,Kraków,W.Danka,1,125,9,3,0.26,9.3
+241,W.Weryhy-Darowskiego 18/1 Lu,19.847901,50.088002,241,Kraków,W.Weryhy-Darowskiego,18/1 Lu,32,4,0,0.0,4.0
+242,WIELICKA 28,19.964819,50.039974,242,Kraków,WIELICKA,28,2,1,0,0.0,1.0
+243,WYSŁOUCHÓW 30C,19.960435,50.007297,243,Kraków,WYSŁOUCHÓW,30C,12,2,1,0.03,2.0
+244,Wadowicka 6 6,19.939034,50.032758,244,Kraków,Wadowicka 6,6,53,0,3,2.4,2.4
+245,WaleregoEliasza Radzikowskiego 47c,19.939167,50.061668,245,Kraków,WaleregoEliasza Radzikowskiego,47c,33,4,4,0.9,4.9
+246,Warszawska 6,19.943019,50.068361,246,Kraków,Warszawska,6,105,13,1,0.13,13.1
+247,Wenecja 6,19.925848,50.060980,247,Kraków,Wenecja,6,9,0,1,0.75,0.8
+248,Wicherkiewicza 19/3-4,19.939167,50.061668,248,Kraków,Wicherkiewicza,19/3-4,38,5,1,0.13,5.1
+249,Wichrowa 7,19.910453,50.003274,249,Kraków,Wichrowa,7,37,1,0,0.0,1.0
+250,Widok 23,19.981391,50.058909,250,Kraków,Widok,23,118,11,4,0.33,11.3
+251,Wielicka 265,19.999717,50.012773,251,Kraków,Wielicka,265,65,0,0,0.0,0.0
+252,Wielicka 76B,19.973056,50.032058,252,Kraków,Wielicka,76B,70,5,2,0.98,6.0
+253,Wieniawskiego 66 lok.1,19.969882,50.078892,253,Kraków,Wieniawskiego,66 lok.1,531,29,0,0.0,29.0
+254,Wincentego Danka 8,19.927308,50.093303,254,Kraków,Wincentego Danka,8,58,0,7,0.21,0.2
+255,Wodna 4,19.970910,50.035690,255,Kraków,Wodna,4,11,4,1,0.05,4.1
+256,Wrocławska 75,19.920382,50.079962,256,Kraków,Wrocławska,75,12,4,2,1.26,5.3
+257,Wrocławska 8/1,19.932789,50.075148,257,Kraków,Wrocławska,8/1,22,3,0,0.0,3.0
+258,Wspólna 46,19.957860,50.018125,258,Kraków,Wspólna,46,68,9,1,0.25,9.3
+259,Wysłouchów 4,19.949888,50.007740,259,Kraków,Wysłouchów,4,262,33,1,0.88,33.9
+260,ZAKĄTEK 2,19.915825,50.076277,260,Kraków,ZAKĄTEK,2,12,0,0,0.0,0.0
+261,Za Targiem 4,19.916391,50.069334,261,Kraków,Za Targiem,4,150,14,5,0.93,14.9
+262,Zaborze 1,19.920670,50.019761,262,Kraków,Zaborze,1,10,1,0,0.0,1.0
+263,Zachodnia 6a,19.908981,50.025484,263,Kraków,Zachodnia,6a,270,24,2,0.98,25.0
+264,Zagaje 47,19.909711,49.998389,264,Kraków,Zagaje,47,221,23,0,0.0,23.0
+265,Zagościniec 1,20.124030,50.097564,265,Kraków,Zagościniec,1,157,13,4,1.23,14.2
+266,Zamiejska 2,19.897987,50.011282,266,Kraków,Zamiejska,2,46,4,0,0.0,4.0
+267,Zamojskiego 39,19.943962,50.040870,267,Kraków,Zamojskiego,39,24,2,1,0.75,2.8
+268,Zarzecze 23,19.897961,50.073285,268,Kraków,Zarzecze,23,39,4,3,1.75,5.8
+269,Zmartwychwstania Pańskiego 2A,19.964183,50.023112,269,Kraków,Zmartwychwstania Pańskiego,2A,85,5,0,0.0,5.0
+270,Zwycięstwa 22,19.976745,50.061585,270,Kraków,Zwycięstwa,22,125,9,8,0.78,9.8
+271,Zygmuntowska 12A,19.908140,50.085676,271,Kraków,Zygmuntowska,12A,170,13,9,5.7,18.7
+272,al. 29 Listopada 191,19.939167,50.061668,272,Kraków,al. 29 Listopada,191,66,6,0,0.0,6.0
+273,al. Dygasińskiego 25,19.939167,50.061668,273,Kraków,al. Dygasińskiego,25,0,0,0,0.0,0.0
+274,al. Grottgera 28,19.939167,50.061668,274,Kraków,al. Grottgera,28,99,9,3,0.51,9.5
+275,al. Kasztanowa 76a,19.939167,50.061668,275,Kraków,al. Kasztanowa,76a,40,6,2,0.7,6.7
+276,krakowiaków 18,19.939167,50.061668,276,Kraków,krakowiaków,18,100,7,4,0.93,7.9
+277,mjr.Łupaszki 13,19.850993,50.083841,277,Kraków,mjr.Łupaszki,13,45,7,0,0.0,7.0
+278,os Przy Arce 4,19.939167,50.061668,278,Kraków,os Przy Arce,4,125,9,7,2.85,11.9
+279,os. Albertyńskie 23,19.939167,50.061668,279,Kraków,os. Albertyńskie,23,124,11,3,0.34,11.3
+280,os. Bohaterów Września 15,19.939167,50.061668,280,Kraków,os. Bohaterów Września,15,125,10,5,0.82,10.8
+281,os. Bohaterów Września 82,19.939167,50.061668,281,Kraków,os. Bohaterów Września,82,96,13,4,1.8,14.8
+282,os. Centrum A 14,19.939167,50.061668,282,Kraków,os. Centrum A,14,58,8,0,0.0,8.0
+283,os. Centrum B 11,19.939167,50.061668,283,Kraków,os. Centrum B,11,100,10,3,0.41,10.4
+284,os. Dywizjonu 303 22B,19.939167,50.061668,284,Kraków,os. Dywizjonu 303,22B,194,0,19,3.8,3.8
+285,os. Dywizjonu 303 37/1,19.939167,50.061668,285,Kraków,os. Dywizjonu 303,37/1,108,11,0,0.0,11.0
+286,os. Dywizjonu 303 49,19.939167,50.061668,286,Kraków,os. Dywizjonu 303,49,199,16,3,0.54,16.5
+287,os. Jagiellońskie 16,19.939167,50.061668,287,Kraków,os. Jagiellońskie,16,121,11,3,0.75,11.8
+288,os. Kazimierzowskie 30,19.939167,50.061668,288,Kraków,os. Kazimierzowskie,30,79,2,5,3.21,5.2
+289,os. Kolorowe 28,19.939167,50.061668,289,Kraków,os. Kolorowe,28,169,14,2,0.49,14.5
+290,os. Na Lotnisku 15,19.939167,50.061668,290,Kraków,os. Na Lotnisku,15,120,10,4,1.04,11.0
+291,os. Na Skarpie 46,19.939167,50.061668,291,Kraków,os. Na Skarpie,46,120,12,4,0.37,12.4
+292,os. Na Stoku 21,19.939167,50.061668,292,Kraków,os. Na Stoku,21,125,10,4,1.72,11.7
+293,os. Oświecenia 30,19.939167,50.061668,293,Kraków,os. Oświecenia,30,118,0,0,0.0,0.0
+294,os. Piastów 21 B,19.939167,50.061668,294,Kraków,os. Piastów,21 B,51,6,0,0.0,6.0
+295,os. Piastów 23 A,19.939167,50.061668,295,Kraków,os. Piastów,23 A,36,3,1,0.5,3.5
+296,os. Stalowe 10,19.939167,50.061668,296,Kraków,os. Stalowe,10,98,8,4,1.16,9.2
+297,os. Szkolne 37,19.939167,50.061668,297,Kraków,os. Szkolne,37,15,3,0,0.0,3.0
+298,os. Tysiąclecia 12,19.939167,50.061668,298,Kraków,os. Tysiąclecia,12,145,13,2,0.39,13.4
+299,os. UROCZE 15,19.939167,50.061668,299,Kraków,os. UROCZE,15,45,25,11,3.51,28.5
+300,os. Urocze 9,19.939167,50.061668,300,Kraków,os. Urocze,9,85,11,4,0.69,11.7
+301,os. Wandy 2,19.939167,50.061668,301,Kraków,os. Wandy,2,100,6,8,2.24,8.2
+302,os. Zielone 27,19.939167,50.061668,302,Kraków,os. Zielone,27,100,6,6,1.7,7.7
+303,os.Dywizjonu 303 12,19.939167,50.061668,303,Kraków,os.Dywizjonu 303,12,171,23,5,1.92,24.9
+304,os.Dywizjonu 303 21C/LU81,19.939167,50.061668,304,Kraków,os.Dywizjonu 303,21C/LU81,50,4,0,0.0,4.0
+305,os.Handlowe 3,19.939167,50.061668,305,Kraków,os.Handlowe,3,125,12,5,1.49,13.5
+306,os.Hutnicze 14,19.939167,50.061668,306,Kraków,os.Hutnicze,14,110,14,5,1.6,15.6
+307,os.Kościuszkowskie 8,19.939167,50.061668,307,Kraków,os.Kościuszkowskie,8,99,9,2,0.21,9.2
+308,os.Niepodległości 4,19.939167,50.061668,308,Kraków,os.Niepodległości,4,133,15,3,0.8,15.8
+309,os.Ogrodowe 3,19.939167,50.061668,309,Kraków,os.Ogrodowe,3,100,8,4,1.78,9.8
+310,os.Oświecenia 31/1a,19.939167,50.061668,310,Kraków,os.Oświecenia,31/1a,83,7,0,0.0,7.0
+311,os.Tysiąclecia 37,19.939167,50.061668,311,Kraków,os.Tysiąclecia,37,185,12,4,1.01,13.0
+312,os.Złotego Wieku 13,19.939167,50.061668,312,Kraków,os.Złotego Wieku,13,145,12,2,0.36,12.4
+313,oś. 2 Puku Lotniczego 1E/6a-6b,19.939167,50.061668,313,Kraków,oś. 2 Puku Lotniczego,1E/6a-6b,46,4,0,0.0,4.0
+314,oś. Piastów 48,19.939167,50.061668,314,Kraków,oś. Piastów,48,173,17,4,1.48,18.5
+315,ul. Borkowska 30,19.905096,50.001886,315,Kraków,ul. Borkowska,30,58,6,6,0.78,6.8
+316,ul. Konecznego 2/6u,19.945904,50.083428,316,Kraków,ul. Konecznego,2/6u,37,3,5,2.75,5.8
+317,ul.Kopernika 19,19.952147,50.062804,317,Kraków,ul.Kopernika,19,7,0,0,0.0,0.0
+318,ul.ks.Józefa Meiera 20G/1A,19.965037,50.099842,318,Kraków,ul.ks.Józefa Meiera,20G/1A,15,2,0,0.0,2.0
+319,ŁOKIETKA 135,19.914211,50.097178,319,Kraków,ŁOKIETKA,135,71,5,0,0.0,5.0
+320,ŁOWIECKA 5,19.920905,50.057035,320,Kraków,ŁOWIECKA,5,50,6,0,0.0,6.0
+321,ŁUŻYCKA 71A,19.968313,50.012607,321,Kraków,ŁUŻYCKA,71A,85,9,0,0.0,9.0
+322,Łany 14a,19.914083,50.024329,322,Kraków,Łany,14a,51,4,0,0.0,4.0
+323,"Łepkowskiego7 LU 2,3",19.962078,50.090201,323,Kraków,Łepkowskiego7,"LU 2,3",120,15,0,0.0,15.0
+324,Łowienicka 14,19.945342,50.008261,324,Kraków,Łowienicka,14,32,4,1,0.13,4.1
+325,Łuczyńskiego 10,19.939167,50.061668,325,Kraków,Łuczyńskiego,10,46,5,0,0.0,5.0
+326,Łużycka 28,19.963796,50.015450,326,Kraków,Łużycka,28,116,0,25,6.22,6.2
+327,łobzowska 49,19.932222,50.070733,327,Kraków,łobzowska,49,38,4,0,0.0,4.0
+328,Śnieżna 15,19.991815,50.021016,328,Kraków,Śnieżna,15,36,5,0,0.0,5.0
+329,Żabiniec 45,19.946944,50.084497,329,Kraków,Żabiniec,45,23,4,2,1.25,5.3
+330,Żwirki i Wigury 3,19.972489,50.079181,330,Kraków,Żwirki i Wigury,3,75,6,2,0.34,6.3
+331,Żywiecka 24,19.919074,50.014179,331,Kraków,Żywiecka,24,100,8,2,0.58,8.6
